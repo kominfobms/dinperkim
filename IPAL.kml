@@ -1,0 +1,11130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="ipal_lengkap" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+	<name>ipal_lengkap</name>
+	<Snippet maxLines="0"></Snippet>
+	<Style id="IconStyle012">
+		<IconStyle>
+			<scale>0.9375</scale>
+			<Icon>
+				<href>Layer0_Symbol_e15f720_0.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<PolyStyle>
+			<color>ff000000</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="IconStyle03">
+		<IconStyle>
+			<scale>0.9375</scale>
+			<Icon>
+				<href>Layer0_Symbol_e15e9e8_0.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<PolyStyle>
+			<color>ff000000</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="IconStyle016">
+		<IconStyle>
+			<scale>0.9375</scale>
+			<Icon>
+				<href>Layer0_Symbol_e15eb60_0.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<PolyStyle>
+			<color>ff000000</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="IconStyle00">
+		<IconStyle>
+			<scale>0.9375</scale>
+			<Icon>
+				<href>Layer0_Symbol_e15fb88_0.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<PolyStyle>
+			<color>ff000000</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Folder id="FeatureLayer0">
+		<name>ipal_lengkap</name>
+		<Snippet maxLines="0"></Snippet>
+		<Placemark id="ID_00000">
+			<name>Banjarsari Kulon</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Banjarsari Kulon</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>No</td>
+
+<td>1</td>
+
+</tr>
+
+<tr>
+
+<td>LS</td>
+
+<td>-7,366717</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>BT</td>
+
+<td>109,250825</td>
+
+</tr>
+
+<tr>
+
+<td>Desa</td>
+
+<td>Banjarsari Kulon</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kecamatan</td>
+
+<td>Sumbang</td>
+
+</tr>
+
+<tr>
+
+<td>KK_Terlaya</td>
+
+<td>200</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kapasitas</td>
+
+<td>15x3x3</td>
+
+</tr>
+
+<tr>
+
+<td>Tipe</td>
+
+<td>An Aerobic Buffled Reactor</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Pengelola</td>
+
+<td>KPP</td>
+
+</tr>
+
+<tr>
+
+<td>Kewenangan</td>
+
+<td>Pusat</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tahun</td>
+
+<td>2013</td>
+
+</tr>
+
+<tr>
+
+<td>Pemrakarsa</td>
+
+<td>Pemerintah Pusat</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SumberDana</td>
+
+<td>DAK Sanitasi (Program SLBM)</td>
+
+</tr>
+
+<tr>
+
+<td>Keterangan</td>
+
+<td>1 Unit (berfungsi)</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.250825,-7.36671666666667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00001">
+			<name>Kawungcarang</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Kawungcarang</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>No</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>LS</td>
+
+<td>-7,383492</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>BT</td>
+
+<td>109,257539</td>
+
+</tr>
+
+<tr>
+
+<td>Desa</td>
+
+<td>Kawungcarang</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kecamatan</td>
+
+<td>Sumbang</td>
+
+</tr>
+
+<tr>
+
+<td>KK_Terlaya</td>
+
+<td>200</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kapasitas</td>
+
+<td>18x3x3</td>
+
+</tr>
+
+<tr>
+
+<td>Tipe</td>
+
+<td>An Aerobic Buffled Reactor</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Pengelola</td>
+
+<td>KPP</td>
+
+</tr>
+
+<tr>
+
+<td>Kewenangan</td>
+
+<td>Pusat</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tahun</td>
+
+<td>2013</td>
+
+</tr>
+
+<tr>
+
+<td>Pemrakarsa</td>
+
+<td>Pemerintah Pusat</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SumberDana</td>
+
+<td>DAK Sanitasi (Program SLBM)</td>
+
+</tr>
+
+<tr>
+
+<td>Keterangan</td>
+
+<td>1 Unit (berfungsi)</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.2575388888889,-7.38349166666667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00002">
+			<name>Sokaraja Lor</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Sokaraja Lor</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>2</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>No</td>
+
+<td>3</td>
+
+</tr>
+
+<tr>
+
+<td>LS</td>
+
+<td>-7,454338</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>BT</td>
+
+<td>109,295196</td>
+
+</tr>
+
+<tr>
+
+<td>Desa</td>
+
+<td>Sokaraja Lor</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kecamatan</td>
+
+<td>Sokaraja</td>
+
+</tr>
+
+<tr>
+
+<td>KK_Terlaya</td>
+
+<td>200</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kapasitas</td>
+
+<td>15x3x3</td>
+
+</tr>
+
+<tr>
+
+<td>Tipe</td>
+
+<td>An Aerobic Buffled Reactor</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Pengelola</td>
+
+<td>KPP</td>
+
+</tr>
+
+<tr>
+
+<td>Kewenangan</td>
+
+<td>Pusat</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tahun</td>
+
+<td>2011</td>
+
+</tr>
+
+<tr>
+
+<td>Pemrakarsa</td>
+
+<td>Pemerintah Pusat</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SumberDana</td>
+
+<td>DAK Sanitasi (Program SLBM)</td>
+
+</tr>
+
+<tr>
+
+<td>Keterangan</td>
+
+<td>1 Unit (berfungsi)</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.295196,-7.454338,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00003">
+			<name>Banjaranyar</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Banjaranyar</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>3</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>No</td>
+
+<td>4</td>
+
+</tr>
+
+<tr>
+
+<td>LS</td>
+
+<td>-7,422557</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>BT</td>
+
+<td>109,321346</td>
+
+</tr>
+
+<tr>
+
+<td>Desa</td>
+
+<td>Banjaranyar</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kecamatan</td>
+
+<td>Sokaraja</td>
+
+</tr>
+
+<tr>
+
+<td>KK_Terlaya</td>
+
+<td>200</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kapasitas</td>
+
+<td>15x3x3</td>
+
+</tr>
+
+<tr>
+
+<td>Tipe</td>
+
+<td>An Aerobic Buffled Reactor</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Pengelola</td>
+
+<td>KPP</td>
+
+</tr>
+
+<tr>
+
+<td>Kewenangan</td>
+
+<td>Pusat</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tahun</td>
+
+<td>2012</td>
+
+</tr>
+
+<tr>
+
+<td>Pemrakarsa</td>
+
+<td>Pemerintah Pusat</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SumberDana</td>
+
+<td>Program USRI</td>
+
+</tr>
+
+<tr>
+
+<td>Keterangan</td>
+
+<td>1 Unit (berfungsi)</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle03</styleUrl>
+			<Point>
+				<coordinates>109.321346,-7.422557,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00004">
+			<name>Klahang</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Klahang</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>4</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>No</td>
+
+<td>5</td>
+
+</tr>
+
+<tr>
+
+<td>LS</td>
+
+<td>-7,44187</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>BT</td>
+
+<td>109,316911</td>
+
+</tr>
+
+<tr>
+
+<td>Desa</td>
+
+<td>Klahang</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kecamatan</td>
+
+<td>Sokaraja</td>
+
+</tr>
+
+<tr>
+
+<td>KK_Terlaya</td>
+
+<td>200</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kapasitas</td>
+
+<td>15x3x3</td>
+
+</tr>
+
+<tr>
+
+<td>Tipe</td>
+
+<td>An Aerobic Buffled Reactor</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Pengelola</td>
+
+<td>KPP</td>
+
+</tr>
+
+<tr>
+
+<td>Kewenangan</td>
+
+<td>Pusat</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tahun</td>
+
+<td>2012</td>
+
+</tr>
+
+<tr>
+
+<td>Pemrakarsa</td>
+
+<td>Pemerintah Pusat</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SumberDana</td>
+
+<td>Program USRI</td>
+
+</tr>
+
+<tr>
+
+<td>Keterangan</td>
+
+<td>1 Unit (berfungsi)</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle03</styleUrl>
+			<Point>
+				<coordinates>109.316911,-7.44187,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00005">
+			<name>Sokaraja Tengah</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Sokaraja Tengah</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>5</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>No</td>
+
+<td>6</td>
+
+</tr>
+
+<tr>
+
+<td>LS</td>
+
+<td>-7,460268</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>BT</td>
+
+<td>109,293157</td>
+
+</tr>
+
+<tr>
+
+<td>Desa</td>
+
+<td>Sokaraja Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kecamatan</td>
+
+<td>Sokaraja</td>
+
+</tr>
+
+<tr>
+
+<td>KK_Terlaya</td>
+
+<td>200</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kapasitas</td>
+
+<td>15x3x3</td>
+
+</tr>
+
+<tr>
+
+<td>Tipe</td>
+
+<td>An Aerobic Buffled Reactor</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Pengelola</td>
+
+<td>KPP</td>
+
+</tr>
+
+<tr>
+
+<td>Kewenangan</td>
+
+<td>Pusat</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tahun</td>
+
+<td>2012</td>
+
+</tr>
+
+<tr>
+
+<td>Pemrakarsa</td>
+
+<td>Pemerintah Pusat</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SumberDana</td>
+
+<td>Program USRI</td>
+
+</tr>
+
+<tr>
+
+<td>Keterangan</td>
+
+<td>1 Unit (berfungsi)</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle03</styleUrl>
+			<Point>
+				<coordinates>109.293157,-7.460268000000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00006">
+			<name>Lemberang</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Lemberang</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>6</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>No</td>
+
+<td>7</td>
+
+</tr>
+
+<tr>
+
+<td>LS</td>
+
+<td>-7,436082</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>BT</td>
+
+<td>109,31509</td>
+
+</tr>
+
+<tr>
+
+<td>Desa</td>
+
+<td>Lemberang</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kecamatan</td>
+
+<td>Sokaraja</td>
+
+</tr>
+
+<tr>
+
+<td>KK_Terlaya</td>
+
+<td>200</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kapasitas</td>
+
+<td>15x3x3</td>
+
+</tr>
+
+<tr>
+
+<td>Tipe</td>
+
+<td>An Aerobic Buffled Reactor</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Pengelola</td>
+
+<td>KPP</td>
+
+</tr>
+
+<tr>
+
+<td>Kewenangan</td>
+
+<td>Pusat</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tahun</td>
+
+<td>2012</td>
+
+</tr>
+
+<tr>
+
+<td>Pemrakarsa</td>
+
+<td>Pemerintah Pusat</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SumberDana</td>
+
+<td>Program USRI</td>
+
+</tr>
+
+<tr>
+
+<td>Keterangan</td>
+
+<td>1 Unit (berfungsi)</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle03</styleUrl>
+			<Point>
+				<coordinates>109.31509,-7.436082,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00007">
+			<name>Karangduren</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Karangduren</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>7</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>No</td>
+
+<td>8</td>
+
+</tr>
+
+<tr>
+
+<td>LS</td>
+
+<td>-7,444775</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>BT</td>
+
+<td>109,301241</td>
+
+</tr>
+
+<tr>
+
+<td>Desa</td>
+
+<td>Karangduren</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kecamatan</td>
+
+<td>Sokaraja</td>
+
+</tr>
+
+<tr>
+
+<td>KK_Terlaya</td>
+
+<td>200</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kapasitas</td>
+
+<td>15x3x3</td>
+
+</tr>
+
+<tr>
+
+<td>Tipe</td>
+
+<td>An Aerobic Buffled Reactor</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Pengelola</td>
+
+<td>KPP</td>
+
+</tr>
+
+<tr>
+
+<td>Kewenangan</td>
+
+<td>Pusat</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tahun</td>
+
+<td>2014</td>
+
+</tr>
+
+<tr>
+
+<td>Pemrakarsa</td>
+
+<td>Pemerintah Pusat</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SumberDana</td>
+
+<td>Program USRI</td>
+
+</tr>
+
+<tr>
+
+<td>Keterangan</td>
+
+<td>1 Unit (berfungsi)</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle03</styleUrl>
+			<Point>
+				<coordinates>109.301241,-7.444775,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00008">
+			<name>Karangnanas</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Karangnanas</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>8</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>No</td>
+
+<td>9</td>
+
+</tr>
+
+<tr>
+
+<td>LS</td>
+
+<td>-7,455914</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>BT</td>
+
+<td>109,268942</td>
+
+</tr>
+
+<tr>
+
+<td>Desa</td>
+
+<td>Karangnanas</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kecamatan</td>
+
+<td>Sokaraja</td>
+
+</tr>
+
+<tr>
+
+<td>KK_Terlaya</td>
+
+<td>200</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kapasitas</td>
+
+<td>22x5x3</td>
+
+</tr>
+
+<tr>
+
+<td>Tipe</td>
+
+<td>An Aerobic Buffled Reactor</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Pengelola</td>
+
+<td>KPP</td>
+
+</tr>
+
+<tr>
+
+<td>Kewenangan</td>
+
+<td>Pusat</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tahun</td>
+
+<td>2012</td>
+
+</tr>
+
+<tr>
+
+<td>Pemrakarsa</td>
+
+<td>Pemerintah Pusat</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SumberDana</td>
+
+<td>Program USRI</td>
+
+</tr>
+
+<tr>
+
+<td>Keterangan</td>
+
+<td>1 Unit (berfungsi)</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle03</styleUrl>
+			<Point>
+				<coordinates>109.2689416666667,-7.45591388888889,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00009">
+			<name>Sokaraja Kulon</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Sokaraja Kulon</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>9</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>No</td>
+
+<td>10</td>
+
+</tr>
+
+<tr>
+
+<td>LS</td>
+
+<td>-7,449306</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>BT</td>
+
+<td>109,275778</td>
+
+</tr>
+
+<tr>
+
+<td>Desa</td>
+
+<td>Sokaraja Kulon</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kecamatan</td>
+
+<td>Sokaraja</td>
+
+</tr>
+
+<tr>
+
+<td>KK_Terlaya</td>
+
+<td>200</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kapasitas</td>
+
+<td>16x4x3</td>
+
+</tr>
+
+<tr>
+
+<td>Tipe</td>
+
+<td>An Aerobic Buffled Reactor</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Pengelola</td>
+
+<td>KPP</td>
+
+</tr>
+
+<tr>
+
+<td>Kewenangan</td>
+
+<td>Pusat</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tahun</td>
+
+<td>2013</td>
+
+</tr>
+
+<tr>
+
+<td>Pemrakarsa</td>
+
+<td>Pemerintah Pusat</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SumberDana</td>
+
+<td>Program USRI</td>
+
+</tr>
+
+<tr>
+
+<td>Keterangan</td>
+
+<td>1 Unit (berfungsi)</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle03</styleUrl>
+			<Point>
+				<coordinates>109.2757777777778,-7.449305555555559,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00010">
+			<name>Karangrau</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Karangrau</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>10</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>No</td>
+
+<td>11</td>
+
+</tr>
+
+<tr>
+
+<td>LS</td>
+
+<td>-7,449053</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>BT</td>
+
+<td>109,264128</td>
+
+</tr>
+
+<tr>
+
+<td>Desa</td>
+
+<td>Karangrau</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kecamatan</td>
+
+<td>Sokaraja</td>
+
+</tr>
+
+<tr>
+
+<td>KK_Terlaya</td>
+
+<td>200</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kapasitas</td>
+
+<td>16x4x3</td>
+
+</tr>
+
+<tr>
+
+<td>Tipe</td>
+
+<td>An Aerobic Buffled Reactor</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Pengelola</td>
+
+<td>KPP</td>
+
+</tr>
+
+<tr>
+
+<td>Kewenangan</td>
+
+<td>Pusat</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tahun</td>
+
+<td>2014</td>
+
+</tr>
+
+<tr>
+
+<td>Pemrakarsa</td>
+
+<td>Pemerintah Pusat</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SumberDana</td>
+
+<td>Program USRI</td>
+
+</tr>
+
+<tr>
+
+<td>Keterangan</td>
+
+<td>1 Unit (berfungsi)</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle03</styleUrl>
+			<Point>
+				<coordinates>109.2641277777778,-7.44905277777778,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00011">
+			<name>Pamijen</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Pamijen</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>11</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>No</td>
+
+<td>12</td>
+
+</tr>
+
+<tr>
+
+<td>LS</td>
+
+<td>-7,44125</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>BT</td>
+
+<td>109,280722</td>
+
+</tr>
+
+<tr>
+
+<td>Desa</td>
+
+<td>Pamijen</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kecamatan</td>
+
+<td>Sokaraja</td>
+
+</tr>
+
+<tr>
+
+<td>KK_Terlaya</td>
+
+<td>300</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kapasitas</td>
+
+<td>22x5x3</td>
+
+</tr>
+
+<tr>
+
+<td>Tipe</td>
+
+<td>An Aerobic Buffled Reactor</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Pengelola</td>
+
+<td>KPP</td>
+
+</tr>
+
+<tr>
+
+<td>Kewenangan</td>
+
+<td>Pusat</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tahun</td>
+
+<td>2014</td>
+
+</tr>
+
+<tr>
+
+<td>Pemrakarsa</td>
+
+<td>Pemerintah Pusat</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SumberDana</td>
+
+<td>Program USRI</td>
+
+</tr>
+
+<tr>
+
+<td>Keterangan</td>
+
+<td>1 Unit (berfungsi)</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle03</styleUrl>
+			<Point>
+				<coordinates>109.2807222222222,-7.441250000000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00012">
+			<name>Grendeng</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Grendeng</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>12</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>No</td>
+
+<td>13</td>
+
+</tr>
+
+<tr>
+
+<td>LS</td>
+
+<td>-7,408542</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>BT</td>
+
+<td>109,246824</td>
+
+</tr>
+
+<tr>
+
+<td>Desa</td>
+
+<td>Grendeng</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kecamatan</td>
+
+<td>Purwokerto Utara</td>
+
+</tr>
+
+<tr>
+
+<td>KK_Terlaya</td>
+
+<td>70</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kapasitas</td>
+
+<td>8x3x3</td>
+
+</tr>
+
+<tr>
+
+<td>Tipe</td>
+
+<td>An Aerobic Buffled Reactor</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Pengelola</td>
+
+<td>KPP</td>
+
+</tr>
+
+<tr>
+
+<td>Kewenangan</td>
+
+<td>Kabupaten</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tahun</td>
+
+<td>2016</td>
+
+</tr>
+
+<tr>
+
+<td>Pemrakarsa</td>
+
+<td>Pemerintah Daerah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SumberDana</td>
+
+<td>PNPM Mandiri</td>
+
+</tr>
+
+<tr>
+
+<td>Keterangan</td>
+
+<td>1 Unit (berfungsi)</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle012</styleUrl>
+			<Point>
+				<coordinates>109.246824,-7.408542,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00013">
+			<name>Bancarkembar</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Bancarkembar</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>13</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>No</td>
+
+<td>14</td>
+
+</tr>
+
+<tr>
+
+<td>LS</td>
+
+<td>-7,409181</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>BT</td>
+
+<td>109,236814</td>
+
+</tr>
+
+<tr>
+
+<td>Desa</td>
+
+<td>Bancarkembar</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kecamatan</td>
+
+<td>Purwokerto Utara</td>
+
+</tr>
+
+<tr>
+
+<td>KK_Terlaya</td>
+
+<td>70</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kapasitas</td>
+
+<td>8x3x3</td>
+
+</tr>
+
+<tr>
+
+<td>Tipe</td>
+
+<td>An Aerobic Buffled Reactor</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Pengelola</td>
+
+<td>KPP</td>
+
+</tr>
+
+<tr>
+
+<td>Kewenangan</td>
+
+<td>Kabupaten</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tahun</td>
+
+<td>2016</td>
+
+</tr>
+
+<tr>
+
+<td>Pemrakarsa</td>
+
+<td>Pemerintah Daerah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SumberDana</td>
+
+<td>PNPM Mandiri</td>
+
+</tr>
+
+<tr>
+
+<td>Keterangan</td>
+
+<td>1 Unit (berfungsi)_bocor</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle012</styleUrl>
+			<Point>
+				<coordinates>109.2368138888889,-7.40918055555556,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00014">
+			<name>Mersi</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Mersi</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>14</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>No</td>
+
+<td>15</td>
+
+</tr>
+
+<tr>
+
+<td>LS</td>
+
+<td>-7,432531</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>BT</td>
+
+<td>109,272689</td>
+
+</tr>
+
+<tr>
+
+<td>Desa</td>
+
+<td>Mersi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kecamatan</td>
+
+<td>Purwokerto Timur</td>
+
+</tr>
+
+<tr>
+
+<td>KK_Terlaya</td>
+
+<td>250</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kapasitas</td>
+
+<td>16x4x3</td>
+
+</tr>
+
+<tr>
+
+<td>Tipe</td>
+
+<td>An Aerobic Buffled Reactor</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Pengelola</td>
+
+<td>KPP</td>
+
+</tr>
+
+<tr>
+
+<td>Kewenangan</td>
+
+<td>Pusat</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tahun</td>
+
+<td>2011</td>
+
+</tr>
+
+<tr>
+
+<td>Pemrakarsa</td>
+
+<td>Pemerintah Pusat</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SumberDana</td>
+
+<td>DAK Sanitasi (Program SLBM)</td>
+
+</tr>
+
+<tr>
+
+<td>Keterangan</td>
+
+<td>1 Unit (berfungsi)</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.2726888888889,-7.432530555555559,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00015">
+			<name>Arcawinangun</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Arcawinangun</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>15</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>No</td>
+
+<td>16</td>
+
+</tr>
+
+<tr>
+
+<td>LS</td>
+
+<td>-7,413075</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>BT</td>
+
+<td>109,260642</td>
+
+</tr>
+
+<tr>
+
+<td>Desa</td>
+
+<td>Arcawinangun</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kecamatan</td>
+
+<td>Purwokerto Timur</td>
+
+</tr>
+
+<tr>
+
+<td>KK_Terlaya</td>
+
+<td>250</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kapasitas</td>
+
+<td>12x3x3</td>
+
+</tr>
+
+<tr>
+
+<td>Tipe</td>
+
+<td>An Aerobic Buffled Reactor</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Pengelola</td>
+
+<td>BPS</td>
+
+</tr>
+
+<tr>
+
+<td>Kewenangan</td>
+
+<td>Pusat</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tahun</td>
+
+<td>2014</td>
+
+</tr>
+
+<tr>
+
+<td>Pemrakarsa</td>
+
+<td>Pemerintah Pusat</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SumberDana</td>
+
+<td>DAK Sanitasi (Program SLBM)</td>
+
+</tr>
+
+<tr>
+
+<td>Keterangan</td>
+
+<td>1 Unit (berfungsi)</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.2606416666667,-7.413075,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00016">
+			<name>Kranji</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Kranji</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>16</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>No</td>
+
+<td>17</td>
+
+</tr>
+
+<tr>
+
+<td>LS</td>
+
+<td>-7,423608</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>BT</td>
+
+<td>109,236053</td>
+
+</tr>
+
+<tr>
+
+<td>Desa</td>
+
+<td>Kranji</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kecamatan</td>
+
+<td>Purwokerto Timur</td>
+
+</tr>
+
+<tr>
+
+<td>KK_Terlaya</td>
+
+<td>50</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kapasitas</td>
+
+<td>6x5x3</td>
+
+</tr>
+
+<tr>
+
+<td>Tipe</td>
+
+<td>An Aerobic Buffled Reactor</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Pengelola</td>
+
+<td>KPP</td>
+
+</tr>
+
+<tr>
+
+<td>Kewenangan</td>
+
+<td>Kabupaten</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tahun</td>
+
+<td>2015</td>
+
+</tr>
+
+<tr>
+
+<td>Pemrakarsa</td>
+
+<td>Pemerintah Daerah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SumberDana</td>
+
+<td>APBD Kabupaten</td>
+
+</tr>
+
+<tr>
+
+<td>Keterangan</td>
+
+<td>1 Unit (berfungsi)</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle016</styleUrl>
+			<Point>
+				<coordinates>109.2360527777778,-7.42360833333333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00017">
+			<name>Tanjung</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Tanjung</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>17</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>No</td>
+
+<td>18</td>
+
+</tr>
+
+<tr>
+
+<td>LS</td>
+
+<td>-7,442848</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>BT</td>
+
+<td>109,229495</td>
+
+</tr>
+
+<tr>
+
+<td>Desa</td>
+
+<td>Tanjung</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kecamatan</td>
+
+<td>Purwokerto Selatan</td>
+
+</tr>
+
+<tr>
+
+<td>KK_Terlaya</td>
+
+<td>200</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kapasitas</td>
+
+<td>16x4x3</td>
+
+</tr>
+
+<tr>
+
+<td>Tipe</td>
+
+<td>An Aerobic Buffled Reactor</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Pengelola</td>
+
+<td>KPP</td>
+
+</tr>
+
+<tr>
+
+<td>Kewenangan</td>
+
+<td>Pusat</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tahun</td>
+
+<td>2014</td>
+
+</tr>
+
+<tr>
+
+<td>Pemrakarsa</td>
+
+<td>Pemerintah Pusat</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SumberDana</td>
+
+<td>Program USRI</td>
+
+</tr>
+
+<tr>
+
+<td>Keterangan</td>
+
+<td>1 Unit (berfungsi)</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle03</styleUrl>
+			<Point>
+				<coordinates>109.229495,-7.442848,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00018">
+			<name>Tanjung</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Tanjung</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>18</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>No</td>
+
+<td>19</td>
+
+</tr>
+
+<tr>
+
+<td>LS</td>
+
+<td>-7,43963</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>BT</td>
+
+<td>109,226753</td>
+
+</tr>
+
+<tr>
+
+<td>Desa</td>
+
+<td>Tanjung</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kecamatan</td>
+
+<td>Purwokerto Selatan</td>
+
+</tr>
+
+<tr>
+
+<td>KK_Terlaya</td>
+
+<td>200</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kapasitas</td>
+
+<td>16x4x3</td>
+
+</tr>
+
+<tr>
+
+<td>Tipe</td>
+
+<td>An Aerobic Buffled Reactor</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Pengelola</td>
+
+<td>KPP</td>
+
+</tr>
+
+<tr>
+
+<td>Kewenangan</td>
+
+<td>Pusat</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tahun</td>
+
+<td>2013</td>
+
+</tr>
+
+<tr>
+
+<td>Pemrakarsa</td>
+
+<td>Pemerintah Pusat</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SumberDana</td>
+
+<td>DAK Sanitasi (Program SLBM)</td>
+
+</tr>
+
+<tr>
+
+<td>Keterangan</td>
+
+<td>1 Unit (berfungsi)</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.226753,-7.43963,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00019">
+			<name>Berkoh</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Berkoh</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>19</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>No</td>
+
+<td>20</td>
+
+</tr>
+
+<tr>
+
+<td>LS</td>
+
+<td>-7,435044</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>BT</td>
+
+<td>109,263539</td>
+
+</tr>
+
+<tr>
+
+<td>Desa</td>
+
+<td>Berkoh</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kecamatan</td>
+
+<td>Purwokerto Selatan</td>
+
+</tr>
+
+<tr>
+
+<td>KK_Terlaya</td>
+
+<td>250</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kapasitas</td>
+
+<td>16x4x3</td>
+
+</tr>
+
+<tr>
+
+<td>Tipe</td>
+
+<td>An Aerobic Buffled Reactor</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Pengelola</td>
+
+<td>KPP</td>
+
+</tr>
+
+<tr>
+
+<td>Kewenangan</td>
+
+<td>Pusat</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tahun</td>
+
+<td>2011</td>
+
+</tr>
+
+<tr>
+
+<td>Pemrakarsa</td>
+
+<td>Pemerintah Pusat</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SumberDana</td>
+
+<td>DAK Sanitasi (Program SLBM)</td>
+
+</tr>
+
+<tr>
+
+<td>Keterangan</td>
+
+<td>1 Unit (berfungsi)</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.263539,-7.435044,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00020">
+			<name>Berkoh</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Berkoh</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>20</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>No</td>
+
+<td>21</td>
+
+</tr>
+
+<tr>
+
+<td>LS</td>
+
+<td>-7,444982</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>BT</td>
+
+<td>109,25805</td>
+
+</tr>
+
+<tr>
+
+<td>Desa</td>
+
+<td>Berkoh</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kecamatan</td>
+
+<td>Purwokerto Selatan</td>
+
+</tr>
+
+<tr>
+
+<td>KK_Terlaya</td>
+
+<td>250</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kapasitas</td>
+
+<td>16x4x3</td>
+
+</tr>
+
+<tr>
+
+<td>Tipe</td>
+
+<td>An Aerobic Buffled Reactor</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Pengelola</td>
+
+<td>KPP</td>
+
+</tr>
+
+<tr>
+
+<td>Kewenangan</td>
+
+<td>Pusat</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tahun</td>
+
+<td>2013</td>
+
+</tr>
+
+<tr>
+
+<td>Pemrakarsa</td>
+
+<td>Pemerintah Pusat</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SumberDana</td>
+
+<td>Program USRI</td>
+
+</tr>
+
+<tr>
+
+<td>Keterangan</td>
+
+<td>1 Unit (berfungsi)</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle03</styleUrl>
+			<Point>
+				<coordinates>109.25805,-7.444982000000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00021">
+			<name>Karangpucung</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Karangpucung</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>21</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>No</td>
+
+<td>22</td>
+
+</tr>
+
+<tr>
+
+<td>LS</td>
+
+<td>-7,452375</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>BT</td>
+
+<td>109,229497</td>
+
+</tr>
+
+<tr>
+
+<td>Desa</td>
+
+<td>Karangpucung</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kecamatan</td>
+
+<td>Purwokerto Selatan</td>
+
+</tr>
+
+<tr>
+
+<td>KK_Terlaya</td>
+
+<td>200</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kapasitas</td>
+
+<td>16x4x3</td>
+
+</tr>
+
+<tr>
+
+<td>Tipe</td>
+
+<td>An Aerobic Buffled Reactor</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Pengelola</td>
+
+<td>KPP</td>
+
+</tr>
+
+<tr>
+
+<td>Kewenangan</td>
+
+<td>Pusat</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tahun</td>
+
+<td>2012</td>
+
+</tr>
+
+<tr>
+
+<td>Pemrakarsa</td>
+
+<td>Pemerintah Pusat</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SumberDana</td>
+
+<td>Program USRI</td>
+
+</tr>
+
+<tr>
+
+<td>Keterangan</td>
+
+<td>1 Unit (berfungsi)</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle03</styleUrl>
+			<Point>
+				<coordinates>109.2294972222222,-7.452375,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00022">
+			<name>Karangklesem</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Karangklesem</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>22</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>No</td>
+
+<td>23</td>
+
+</tr>
+
+<tr>
+
+<td>LS</td>
+
+<td>-7,449233</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>BT</td>
+
+<td>109,236581</td>
+
+</tr>
+
+<tr>
+
+<td>Desa</td>
+
+<td>Karangklesem</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kecamatan</td>
+
+<td>Purwokerto Selatan</td>
+
+</tr>
+
+<tr>
+
+<td>KK_Terlaya</td>
+
+<td>150</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kapasitas</td>
+
+<td>16x4x3</td>
+
+</tr>
+
+<tr>
+
+<td>Tipe</td>
+
+<td>An Aerobic Buffled Reactor</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Pengelola</td>
+
+<td>KPP</td>
+
+</tr>
+
+<tr>
+
+<td>Kewenangan</td>
+
+<td>Pusat</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tahun</td>
+
+<td>2013</td>
+
+</tr>
+
+<tr>
+
+<td>Pemrakarsa</td>
+
+<td>Pemerintah Pusat</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SumberDana</td>
+
+<td>Program USRI</td>
+
+</tr>
+
+<tr>
+
+<td>Keterangan</td>
+
+<td>1 Unit (berfungsi)</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle03</styleUrl>
+			<Point>
+				<coordinates>109.2365805555556,-7.44923333333333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00023">
+			<name>Karangpucung</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Karangpucung</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>23</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>No</td>
+
+<td>24</td>
+
+</tr>
+
+<tr>
+
+<td>LS</td>
+
+<td>-7,445514</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>BT</td>
+
+<td>109,228581</td>
+
+</tr>
+
+<tr>
+
+<td>Desa</td>
+
+<td>Karangpucung</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kecamatan</td>
+
+<td>Purwokerto Selatan</td>
+
+</tr>
+
+<tr>
+
+<td>KK_Terlaya</td>
+
+<td>200</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kapasitas</td>
+
+<td>16x4x3</td>
+
+</tr>
+
+<tr>
+
+<td>Tipe</td>
+
+<td>An Aerobic Buffled Reactor</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Pengelola</td>
+
+<td>KPP</td>
+
+</tr>
+
+<tr>
+
+<td>Kewenangan</td>
+
+<td>Pusat</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tahun</td>
+
+<td>2014</td>
+
+</tr>
+
+<tr>
+
+<td>Pemrakarsa</td>
+
+<td>Pemerintah Pusat</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SumberDana</td>
+
+<td>Program USRI</td>
+
+</tr>
+
+<tr>
+
+<td>Keterangan</td>
+
+<td>1 Unit (berfungsi)</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle03</styleUrl>
+			<Point>
+				<coordinates>109.2285805555556,-7.44551388888889,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00024">
+			<name>Teluk</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Teluk</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>24</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>No</td>
+
+<td>25</td>
+
+</tr>
+
+<tr>
+
+<td>LS</td>
+
+<td>-7,440725</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>BT</td>
+
+<td>109,247633</td>
+
+</tr>
+
+<tr>
+
+<td>Desa</td>
+
+<td>Teluk</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kecamatan</td>
+
+<td>Purwokerto Selatan</td>
+
+</tr>
+
+<tr>
+
+<td>KK_Terlaya</td>
+
+<td>200</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kapasitas</td>
+
+<td>16x4x3</td>
+
+</tr>
+
+<tr>
+
+<td>Tipe</td>
+
+<td>An Aerobic Buffled Reactor</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Pengelola</td>
+
+<td>KPP</td>
+
+</tr>
+
+<tr>
+
+<td>Kewenangan</td>
+
+<td>Pusat</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tahun</td>
+
+<td>2014</td>
+
+</tr>
+
+<tr>
+
+<td>Pemrakarsa</td>
+
+<td>Pemerintah Pusat</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SumberDana</td>
+
+<td>Program USRI</td>
+
+</tr>
+
+<tr>
+
+<td>Keterangan</td>
+
+<td>1 Unit (berfungsi)</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle03</styleUrl>
+			<Point>
+				<coordinates>109.2476333333333,-7.440725,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00025">
+			<name>Teluk</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Teluk</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>25</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>No</td>
+
+<td>26</td>
+
+</tr>
+
+<tr>
+
+<td>LS</td>
+
+<td>-7,452536</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>BT</td>
+
+<td>109,253228</td>
+
+</tr>
+
+<tr>
+
+<td>Desa</td>
+
+<td>Teluk</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kecamatan</td>
+
+<td>Purwokerto Selatan</td>
+
+</tr>
+
+<tr>
+
+<td>KK_Terlaya</td>
+
+<td>200</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kapasitas</td>
+
+<td>16x4x3</td>
+
+</tr>
+
+<tr>
+
+<td>Tipe</td>
+
+<td>An Aerobic Buffled Reactor</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Pengelola</td>
+
+<td>KPP</td>
+
+</tr>
+
+<tr>
+
+<td>Kewenangan</td>
+
+<td>Pusat</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tahun</td>
+
+<td>2014</td>
+
+</tr>
+
+<tr>
+
+<td>Pemrakarsa</td>
+
+<td>Pemerintah Pusat</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SumberDana</td>
+
+<td>Program USRI</td>
+
+</tr>
+
+<tr>
+
+<td>Keterangan</td>
+
+<td>1 Unit (berfungsi)</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle03</styleUrl>
+			<Point>
+				<coordinates>109.2532277777778,-7.45253611111111,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00026">
+			<name>Pasirmuncang</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Pasirmuncang</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>26</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>No</td>
+
+<td>27</td>
+
+</tr>
+
+<tr>
+
+<td>LS</td>
+
+<td>-7,434872</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>BT</td>
+
+<td>109,214321</td>
+
+</tr>
+
+<tr>
+
+<td>Desa</td>
+
+<td>Pasirmuncang</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kecamatan</td>
+
+<td>Purwokerto Barat</td>
+
+</tr>
+
+<tr>
+
+<td>KK_Terlaya</td>
+
+<td>200</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kapasitas</td>
+
+<td>15x3x3</td>
+
+</tr>
+
+<tr>
+
+<td>Tipe</td>
+
+<td>An Aerobic Buffled Reactor</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Pengelola</td>
+
+<td>KPP</td>
+
+</tr>
+
+<tr>
+
+<td>Kewenangan</td>
+
+<td>Pusat</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tahun</td>
+
+<td>2012</td>
+
+</tr>
+
+<tr>
+
+<td>Pemrakarsa</td>
+
+<td>Pemerintah Pusat</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SumberDana</td>
+
+<td>Program USRI</td>
+
+</tr>
+
+<tr>
+
+<td>Keterangan</td>
+
+<td>1 Unit (berfungsi)</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle03</styleUrl>
+			<Point>
+				<coordinates>109.214321,-7.434872,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00027">
+			<name>Rejasari</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Rejasari</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>27</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>No</td>
+
+<td>28</td>
+
+</tr>
+
+<tr>
+
+<td>LS</td>
+
+<td>-7,425326</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>BT</td>
+
+<td>109,212032</td>
+
+</tr>
+
+<tr>
+
+<td>Desa</td>
+
+<td>Rejasari</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kecamatan</td>
+
+<td>Purwokerto Barat</td>
+
+</tr>
+
+<tr>
+
+<td>KK_Terlaya</td>
+
+<td>200</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kapasitas</td>
+
+<td>15x3x3</td>
+
+</tr>
+
+<tr>
+
+<td>Tipe</td>
+
+<td>An Aerobic Buffled Reactor</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Pengelola</td>
+
+<td>KPP</td>
+
+</tr>
+
+<tr>
+
+<td>Kewenangan</td>
+
+<td>Pusat</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tahun</td>
+
+<td>2013</td>
+
+</tr>
+
+<tr>
+
+<td>Pemrakarsa</td>
+
+<td>Pemerintah Pusat</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SumberDana</td>
+
+<td>Program USRI</td>
+
+</tr>
+
+<tr>
+
+<td>Keterangan</td>
+
+<td>1 Unit (berfungsi)</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle03</styleUrl>
+			<Point>
+				<coordinates>109.212032,-7.425326,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00028">
+			<name>Pasirkidul</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Pasirkidul</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>28</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>No</td>
+
+<td>29</td>
+
+</tr>
+
+<tr>
+
+<td>LS</td>
+
+<td>-7,416467</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>BT</td>
+
+<td>109,20722</td>
+
+</tr>
+
+<tr>
+
+<td>Desa</td>
+
+<td>Pasirkidul</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kecamatan</td>
+
+<td>Purwokerto Barat</td>
+
+</tr>
+
+<tr>
+
+<td>KK_Terlaya</td>
+
+<td>200</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kapasitas</td>
+
+<td>15x3x3</td>
+
+</tr>
+
+<tr>
+
+<td>Tipe</td>
+
+<td>An Aerobic Buffled Reactor</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Pengelola</td>
+
+<td>KPP</td>
+
+</tr>
+
+<tr>
+
+<td>Kewenangan</td>
+
+<td>Pusat</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tahun</td>
+
+<td>2013</td>
+
+</tr>
+
+<tr>
+
+<td>Pemrakarsa</td>
+
+<td>Pemerintah Pusat</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SumberDana</td>
+
+<td>Program USRI</td>
+
+</tr>
+
+<tr>
+
+<td>Keterangan</td>
+
+<td>1 Unit (berfungsi)</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle03</styleUrl>
+			<Point>
+				<coordinates>109.20722,-7.416467,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00029">
+			<name>Kober</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Kober</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>29</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>No</td>
+
+<td>30</td>
+
+</tr>
+
+<tr>
+
+<td>LS</td>
+
+<td>-7,414838</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>BT</td>
+
+<td>109,219268</td>
+
+</tr>
+
+<tr>
+
+<td>Desa</td>
+
+<td>Kober</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kecamatan</td>
+
+<td>Purwokerto Barat</td>
+
+</tr>
+
+<tr>
+
+<td>KK_Terlaya</td>
+
+<td>200</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kapasitas</td>
+
+<td>15x3x3</td>
+
+</tr>
+
+<tr>
+
+<td>Tipe</td>
+
+<td>An Aerobic Buffled Reactor</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Pengelola</td>
+
+<td>BPS</td>
+
+</tr>
+
+<tr>
+
+<td>Kewenangan</td>
+
+<td>Pusat</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tahun</td>
+
+<td>2011</td>
+
+</tr>
+
+<tr>
+
+<td>Pemrakarsa</td>
+
+<td>Pemerintah Pusat</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SumberDana</td>
+
+<td>DAK Sanitasi (Program SLBM)</td>
+
+</tr>
+
+<tr>
+
+<td>Keterangan</td>
+
+<td>1 Unit (berfungsi)</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.219268,-7.414838,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00030">
+			<name>Kober</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Kober</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>30</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>No</td>
+
+<td>31</td>
+
+</tr>
+
+<tr>
+
+<td>LS</td>
+
+<td>-7,413372</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>BT</td>
+
+<td>109,219166</td>
+
+</tr>
+
+<tr>
+
+<td>Desa</td>
+
+<td>Kober</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kecamatan</td>
+
+<td>Purwokerto Barat</td>
+
+</tr>
+
+<tr>
+
+<td>KK_Terlaya</td>
+
+<td>200</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kapasitas</td>
+
+<td>15x3x3</td>
+
+</tr>
+
+<tr>
+
+<td>Tipe</td>
+
+<td>An Aerobic Buffled Reactor</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Pengelola</td>
+
+<td>BPS</td>
+
+</tr>
+
+<tr>
+
+<td>Kewenangan</td>
+
+<td>Pusat</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tahun</td>
+
+<td>2014</td>
+
+</tr>
+
+<tr>
+
+<td>Pemrakarsa</td>
+
+<td>Pemerintah Pusat</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SumberDana</td>
+
+<td>Program USRI</td>
+
+</tr>
+
+<tr>
+
+<td>Keterangan</td>
+
+<td>1 Unit (berfungsi)</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle03</styleUrl>
+			<Point>
+				<coordinates>109.219166,-7.413372,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00031">
+			<name>Kedungwuluh</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Kedungwuluh</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>31</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>No</td>
+
+<td>32</td>
+
+</tr>
+
+<tr>
+
+<td>LS</td>
+
+<td>-7,425403</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>BT</td>
+
+<td>109,223747</td>
+
+</tr>
+
+<tr>
+
+<td>Desa</td>
+
+<td>Kedungwuluh</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kecamatan</td>
+
+<td>Purwokerto Barat</td>
+
+</tr>
+
+<tr>
+
+<td>KK_Terlaya</td>
+
+<td>200</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kapasitas</td>
+
+<td>15x3x3</td>
+
+</tr>
+
+<tr>
+
+<td>Tipe</td>
+
+<td>An Aerobic Buffled Reactor</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Pengelola</td>
+
+<td>KPP</td>
+
+</tr>
+
+<tr>
+
+<td>Kewenangan</td>
+
+<td>Pusat</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tahun</td>
+
+<td>2014</td>
+
+</tr>
+
+<tr>
+
+<td>Pemrakarsa</td>
+
+<td>Pemerintah Pusat</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SumberDana</td>
+
+<td>Program USRI</td>
+
+</tr>
+
+<tr>
+
+<td>Keterangan</td>
+
+<td>1 Unit (berfungsi)</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle03</styleUrl>
+			<Point>
+				<coordinates>109.2237472222222,-7.425402777777779,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00032">
+			<name>Kedungwuluh</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Kedungwuluh</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>32</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>No</td>
+
+<td>33</td>
+
+</tr>
+
+<tr>
+
+<td>LS</td>
+
+<td>-7,428353</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>BT</td>
+
+<td>109,224561</td>
+
+</tr>
+
+<tr>
+
+<td>Desa</td>
+
+<td>Kedungwuluh</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kecamatan</td>
+
+<td>Purwokerto Barat</td>
+
+</tr>
+
+<tr>
+
+<td>KK_Terlaya</td>
+
+<td>70</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kapasitas</td>
+
+<td>8x3x3</td>
+
+</tr>
+
+<tr>
+
+<td>Tipe</td>
+
+<td>An Aerobic Buffled Reactor</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Pengelola</td>
+
+<td>KPP</td>
+
+</tr>
+
+<tr>
+
+<td>Kewenangan</td>
+
+<td>Kabupaten</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tahun</td>
+
+<td>2015</td>
+
+</tr>
+
+<tr>
+
+<td>Pemrakarsa</td>
+
+<td>Pemerintah Daerah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SumberDana</td>
+
+<td>PNPM Mandiri</td>
+
+</tr>
+
+<tr>
+
+<td>Keterangan</td>
+
+<td>1 Unit (berfungsi)</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle012</styleUrl>
+			<Point>
+				<coordinates>109.2245611111111,-7.42835277777778,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00033">
+			<name>Karanglewas Lor</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Karanglewas Lor</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>33</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>No</td>
+
+<td>34</td>
+
+</tr>
+
+<tr>
+
+<td>LS</td>
+
+<td>-7,422414</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>BT</td>
+
+<td>109,196919</td>
+
+</tr>
+
+<tr>
+
+<td>Desa</td>
+
+<td>Karanglewas Lor</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kecamatan</td>
+
+<td>Purwokerto Barat</td>
+
+</tr>
+
+<tr>
+
+<td>KK_Terlaya</td>
+
+<td>200</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kapasitas</td>
+
+<td>30X3X3</td>
+
+</tr>
+
+<tr>
+
+<td>Tipe</td>
+
+<td>An Aerobic Buffled Reactor</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Pengelola</td>
+
+<td>KPP</td>
+
+</tr>
+
+<tr>
+
+<td>Kewenangan</td>
+
+<td>Pusat</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tahun</td>
+
+<td>2010</td>
+
+</tr>
+
+<tr>
+
+<td>Pemrakarsa</td>
+
+<td>Pemerintah Pusat</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SumberDana</td>
+
+<td>DAK Sanitasi (Program SLBM)</td>
+
+</tr>
+
+<tr>
+
+<td>Keterangan</td>
+
+<td>1 Unit (berfungsi)_bocor</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.1969194444445,-7.42241388888889,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00034">
+			<name>Kedungwringin</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Kedungwringin</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>34</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>No</td>
+
+<td>35</td>
+
+</tr>
+
+<tr>
+
+<td>LS</td>
+
+<td>-7,441936</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>BT</td>
+
+<td>109,216428</td>
+
+</tr>
+
+<tr>
+
+<td>Desa</td>
+
+<td>Kedungwringin</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kecamatan</td>
+
+<td>Patikraja</td>
+
+</tr>
+
+<tr>
+
+<td>KK_Terlaya</td>
+
+<td>150</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kapasitas</td>
+
+<td>6x4x3</td>
+
+</tr>
+
+<tr>
+
+<td>Tipe</td>
+
+<td>An Aerobic Buffled Reactor</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Pengelola</td>
+
+<td>KPP</td>
+
+</tr>
+
+<tr>
+
+<td>Kewenangan</td>
+
+<td>Pusat</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tahun</td>
+
+<td>2014</td>
+
+</tr>
+
+<tr>
+
+<td>Pemrakarsa</td>
+
+<td>Pemerintah Pusat</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SumberDana</td>
+
+<td>DAK Sanitasi (Program SLBM)</td>
+
+</tr>
+
+<tr>
+
+<td>Keterangan</td>
+
+<td>1 Unit (berfungsi)</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.2164277777778,-7.44193611111111,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00035">
+			<name>Kedungwingin</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Kedungwingin</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>35</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>No</td>
+
+<td>36</td>
+
+</tr>
+
+<tr>
+
+<td>LS</td>
+
+<td>-7,443803</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>BT</td>
+
+<td>109,224497</td>
+
+</tr>
+
+<tr>
+
+<td>Desa</td>
+
+<td>Kedungwingin</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kecamatan</td>
+
+<td>Patikraja</td>
+
+</tr>
+
+<tr>
+
+<td>KK_Terlaya</td>
+
+<td>200</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kapasitas</td>
+
+<td>15x3x3</td>
+
+</tr>
+
+<tr>
+
+<td>Tipe</td>
+
+<td>An Aerobic Buffled Reactor</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Pengelola</td>
+
+<td>KPP</td>
+
+</tr>
+
+<tr>
+
+<td>Kewenangan</td>
+
+<td>Pusat</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tahun</td>
+
+<td>2014</td>
+
+</tr>
+
+<tr>
+
+<td>Pemrakarsa</td>
+
+<td>Pemerintah Pusat</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SumberDana</td>
+
+<td>DAK Sanitasi (Program SLBM)</td>
+
+</tr>
+
+<tr>
+
+<td>Keterangan</td>
+
+<td>1 Unit (berfungsi)</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.2244972222222,-7.44380277777778,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00036">
+			<name>Pliken</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Pliken</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>36</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>No</td>
+
+<td>37</td>
+
+</tr>
+
+<tr>
+
+<td>LS</td>
+
+<td>-7,433639</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>BT</td>
+
+<td>109,292072</td>
+
+</tr>
+
+<tr>
+
+<td>Desa</td>
+
+<td>Pliken</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kecamatan</td>
+
+<td>Kembaran</td>
+
+</tr>
+
+<tr>
+
+<td>KK_Terlaya</td>
+
+<td>200</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kapasitas</td>
+
+<td>15x3x3</td>
+
+</tr>
+
+<tr>
+
+<td>Tipe</td>
+
+<td>An Aerobic Buffled Reactor</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Pengelola</td>
+
+<td>KPP</td>
+
+</tr>
+
+<tr>
+
+<td>Kewenangan</td>
+
+<td>Pusat</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tahun</td>
+
+<td>2014</td>
+
+</tr>
+
+<tr>
+
+<td>Pemrakarsa</td>
+
+<td>Pemerintah Pusat</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SumberDana</td>
+
+<td>Program USRI</td>
+
+</tr>
+
+<tr>
+
+<td>Keterangan</td>
+
+<td>1 Unit (berfungsi)</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle03</styleUrl>
+			<Point>
+				<coordinates>109.2920722222222,-7.43363888888889,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00037">
+			<name>Kembaran</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Kembaran</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>37</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>No</td>
+
+<td>38</td>
+
+</tr>
+
+<tr>
+
+<td>LS</td>
+
+<td>-7,417636</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>BT</td>
+
+<td>109,299944</td>
+
+</tr>
+
+<tr>
+
+<td>Desa</td>
+
+<td>Kembaran</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kecamatan</td>
+
+<td>Kembaran</td>
+
+</tr>
+
+<tr>
+
+<td>KK_Terlaya</td>
+
+<td>200</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kapasitas</td>
+
+<td>15x3x3</td>
+
+</tr>
+
+<tr>
+
+<td>Tipe</td>
+
+<td>An Aerobic Buffled Reactor</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Pengelola</td>
+
+<td>KPP</td>
+
+</tr>
+
+<tr>
+
+<td>Kewenangan</td>
+
+<td>Pusat</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tahun</td>
+
+<td>2014</td>
+
+</tr>
+
+<tr>
+
+<td>Pemrakarsa</td>
+
+<td>Pemerintah Pusat</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SumberDana</td>
+
+<td>Program USRI</td>
+
+</tr>
+
+<tr>
+
+<td>Keterangan</td>
+
+<td>1 Unit (berfungsi)</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle03</styleUrl>
+			<Point>
+				<coordinates>109.2999444444445,-7.41763611111111,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00038">
+			<name>Tambaksari</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Tambaksari</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>38</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>No</td>
+
+<td>39</td>
+
+</tr>
+
+<tr>
+
+<td>LS</td>
+
+<td>-7,394694</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>BT</td>
+
+<td>109,264972</td>
+
+</tr>
+
+<tr>
+
+<td>Desa</td>
+
+<td>Tambaksari</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kecamatan</td>
+
+<td>Kembaran</td>
+
+</tr>
+
+<tr>
+
+<td>KK_Terlaya</td>
+
+<td>200</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kapasitas</td>
+
+<td>15x3x3</td>
+
+</tr>
+
+<tr>
+
+<td>Tipe</td>
+
+<td>An Aerobic Buffled Reactor</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Pengelola</td>
+
+<td>KPP</td>
+
+</tr>
+
+<tr>
+
+<td>Kewenangan</td>
+
+<td>Pusat</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tahun</td>
+
+<td>2014</td>
+
+</tr>
+
+<tr>
+
+<td>Pemrakarsa</td>
+
+<td>Pemerintah Pusat</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SumberDana</td>
+
+<td>Program USRI</td>
+
+</tr>
+
+<tr>
+
+<td>Keterangan</td>
+
+<td>1 Unit (berfungsi)</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle03</styleUrl>
+			<Point>
+				<coordinates>109.2649722222222,-7.39469444444445,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00039">
+			<name>Dukuhwaluh</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Dukuhwaluh</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>39</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>No</td>
+
+<td>40</td>
+
+</tr>
+
+<tr>
+
+<td>LS</td>
+
+<td>-7,407239</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>BT</td>
+
+<td>109,26735</td>
+
+</tr>
+
+<tr>
+
+<td>Desa</td>
+
+<td>Dukuhwaluh</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kecamatan</td>
+
+<td>Kembaran</td>
+
+</tr>
+
+<tr>
+
+<td>KK_Terlaya</td>
+
+<td>150</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kapasitas</td>
+
+<td>15x3x3</td>
+
+</tr>
+
+<tr>
+
+<td>Tipe</td>
+
+<td>An Aerobic Buffled Reactor</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Pengelola</td>
+
+<td>KPP</td>
+
+</tr>
+
+<tr>
+
+<td>Kewenangan</td>
+
+<td>Pusat</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tahun</td>
+
+<td>2013</td>
+
+</tr>
+
+<tr>
+
+<td>Pemrakarsa</td>
+
+<td>Pemerintah Pusat</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SumberDana</td>
+
+<td>DAK Sanitasi (Program SLBM)</td>
+
+</tr>
+
+<tr>
+
+<td>Keterangan</td>
+
+<td>1 Unit (berfungsi)</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.26735,-7.40723888888889,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00040">
+			<name>Dukuhwaluh</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Dukuhwaluh</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>40</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>No</td>
+
+<td>41</td>
+
+</tr>
+
+<tr>
+
+<td>LS</td>
+
+<td>-7,405047</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>BT</td>
+
+<td>109,268281</td>
+
+</tr>
+
+<tr>
+
+<td>Desa</td>
+
+<td>Dukuhwaluh</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kecamatan</td>
+
+<td>Kembaran</td>
+
+</tr>
+
+<tr>
+
+<td>KK_Terlaya</td>
+
+<td>150</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kapasitas</td>
+
+<td>15x3x3</td>
+
+</tr>
+
+<tr>
+
+<td>Tipe</td>
+
+<td>An Aerobic Buffled Reactor</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Pengelola</td>
+
+<td>KPP</td>
+
+</tr>
+
+<tr>
+
+<td>Kewenangan</td>
+
+<td>Pusat</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tahun</td>
+
+<td>2013</td>
+
+</tr>
+
+<tr>
+
+<td>Pemrakarsa</td>
+
+<td>Pemerintah Pusat</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SumberDana</td>
+
+<td>DAK Sanitasi (Program SLBM)</td>
+
+</tr>
+
+<tr>
+
+<td>Keterangan</td>
+
+<td>1 Unit (berfungsi)</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.2682805555556,-7.405047222222221,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00041">
+			<name>Kedungbanteng</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Kedungbanteng</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>41</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>No</td>
+
+<td>42</td>
+
+</tr>
+
+<tr>
+
+<td>LS</td>
+
+<td>-7,394531</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>BT</td>
+
+<td>109,199883</td>
+
+</tr>
+
+<tr>
+
+<td>Desa</td>
+
+<td>Kedungbanteng</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kecamatan</td>
+
+<td>Kedungbanteng</td>
+
+</tr>
+
+<tr>
+
+<td>KK_Terlaya</td>
+
+<td>150</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kapasitas</td>
+
+<td>22X6X3</td>
+
+</tr>
+
+<tr>
+
+<td>Tipe</td>
+
+<td>An Aerobic Buffled Reactor</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Pengelola</td>
+
+<td>BPS</td>
+
+</tr>
+
+<tr>
+
+<td>Kewenangan</td>
+
+<td>Pusat</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tahun</td>
+
+<td>2011</td>
+
+</tr>
+
+<tr>
+
+<td>Pemrakarsa</td>
+
+<td>Pemerintah Pusat</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SumberDana</td>
+
+<td>DAK Sanitasi (Program SLBM)</td>
+
+</tr>
+
+<tr>
+
+<td>Keterangan</td>
+
+<td>1 Unit (berfungsi)</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.1998833333333,-7.39453055555556,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00042">
+			<name>Kalisari</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Kalisari</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>42</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>No</td>
+
+<td>43</td>
+
+</tr>
+
+<tr>
+
+<td>LS</td>
+
+<td>-7,391059</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>BT</td>
+
+<td>109,112771</td>
+
+</tr>
+
+<tr>
+
+<td>Desa</td>
+
+<td>Kalisari</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kecamatan</td>
+
+<td>Cilongok</td>
+
+</tr>
+
+<tr>
+
+<td>KK_Terlaya</td>
+
+<td>200</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kapasitas</td>
+
+<td>16x4x3</td>
+
+</tr>
+
+<tr>
+
+<td>Tipe</td>
+
+<td>An Aerobic Buffled Reactor</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Pengelola</td>
+
+<td>BPS</td>
+
+</tr>
+
+<tr>
+
+<td>Kewenangan</td>
+
+<td>Pusat</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tahun</td>
+
+<td>2012</td>
+
+</tr>
+
+<tr>
+
+<td>Pemrakarsa</td>
+
+<td>Pemerintah Pusat</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SumberDana</td>
+
+<td>DAK Sanitasi (Program SLBM)</td>
+
+</tr>
+
+<tr>
+
+<td>Keterangan</td>
+
+<td>1 Unit (berfungsi)</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.112771,-7.391059,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00043">
+			<name>Pamijen</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Pamijen</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>43</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>No</td>
+
+<td>44</td>
+
+</tr>
+
+<tr>
+
+<td>LS</td>
+
+<td>-7,373256</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>BT</td>
+
+<td>109,231997</td>
+
+</tr>
+
+<tr>
+
+<td>Desa</td>
+
+<td>Pamijen</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kecamatan</td>
+
+<td>Baturaden</td>
+
+</tr>
+
+<tr>
+
+<td>KK_Terlaya</td>
+
+<td>70</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kapasitas</td>
+
+<td>12X8X3</td>
+
+</tr>
+
+<tr>
+
+<td>Tipe</td>
+
+<td>An Aerobic Buffled Reactor</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Pengelola</td>
+
+<td>KPP</td>
+
+</tr>
+
+<tr>
+
+<td>Kewenangan</td>
+
+<td>Pusat</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tahun</td>
+
+<td>2010</td>
+
+</tr>
+
+<tr>
+
+<td>Pemrakarsa</td>
+
+<td>Pemerintah Pusat</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SumberDana</td>
+
+<td>DAK Sanitasi (Program SLBM)</td>
+
+</tr>
+
+<tr>
+
+<td>Keterangan</td>
+
+<td>1 Unit (berfungsi)</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.2319972222222,-7.37325555555555,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00044">
+			<name>Rempoah</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Rempoah</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>44</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>No</td>
+
+<td>45</td>
+
+</tr>
+
+<tr>
+
+<td>LS</td>
+
+<td>-7,362556</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>BT</td>
+
+<td>109,23925</td>
+
+</tr>
+
+<tr>
+
+<td>Desa</td>
+
+<td>Rempoah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kecamatan</td>
+
+<td>Baturaden</td>
+
+</tr>
+
+<tr>
+
+<td>KK_Terlaya</td>
+
+<td>200</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kapasitas</td>
+
+<td>14X4X3</td>
+
+</tr>
+
+<tr>
+
+<td>Tipe</td>
+
+<td>An Aerobic Buffled Reactor</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Pengelola</td>
+
+<td>KPP</td>
+
+</tr>
+
+<tr>
+
+<td>Kewenangan</td>
+
+<td>Pusat</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tahun</td>
+
+<td>2013</td>
+
+</tr>
+
+<tr>
+
+<td>Pemrakarsa</td>
+
+<td>Pemerintah Pusat</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SumberDana</td>
+
+<td>Program USRI</td>
+
+</tr>
+
+<tr>
+
+<td>Keterangan</td>
+
+<td>1 Unit (berfungsi)_penutup rusak</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle03</styleUrl>
+			<Point>
+				<coordinates>109.23925,-7.36255555555555,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00045">
+			<name>Kebumen</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Kebumen</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>45</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>No</td>
+
+<td>46</td>
+
+</tr>
+
+<tr>
+
+<td>LS</td>
+
+<td>-7,364722</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>BT</td>
+
+<td>109,2275</td>
+
+</tr>
+
+<tr>
+
+<td>Desa</td>
+
+<td>Kebumen</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kecamatan</td>
+
+<td>Baturaden</td>
+
+</tr>
+
+<tr>
+
+<td>KK_Terlaya</td>
+
+<td>200</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kapasitas</td>
+
+<td>14X4X4</td>
+
+</tr>
+
+<tr>
+
+<td>Tipe</td>
+
+<td>An Aerobic Buffled Reactor</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Pengelola</td>
+
+<td>KPP</td>
+
+</tr>
+
+<tr>
+
+<td>Kewenangan</td>
+
+<td>Pusat</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tahun</td>
+
+<td>2013</td>
+
+</tr>
+
+<tr>
+
+<td>Pemrakarsa</td>
+
+<td>Pemerintah Pusat</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SumberDana</td>
+
+<td>Program USRI</td>
+
+</tr>
+
+<tr>
+
+<td>Keterangan</td>
+
+<td>1 Unit (berfungsi)</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle03</styleUrl>
+			<Point>
+				<coordinates>109.2275,-7.36472222222222,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00046">
+			<name>Pandak</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Pandak</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>46</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>No</td>
+
+<td>47</td>
+
+</tr>
+
+<tr>
+
+<td>LS</td>
+
+<td>-7,379411</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>BT</td>
+
+<td>109,243353</td>
+
+</tr>
+
+<tr>
+
+<td>Desa</td>
+
+<td>Pandak</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kecamatan</td>
+
+<td>Baturaden</td>
+
+</tr>
+
+<tr>
+
+<td>KK_Terlaya</td>
+
+<td>200</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kapasitas</td>
+
+<td>14X4X4</td>
+
+</tr>
+
+<tr>
+
+<td>Tipe</td>
+
+<td>An Aerobic Buffled Reactor</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Pengelola</td>
+
+<td>KPP</td>
+
+</tr>
+
+<tr>
+
+<td>Kewenangan</td>
+
+<td>Pusat</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tahun</td>
+
+<td>2013</td>
+
+</tr>
+
+<tr>
+
+<td>Pemrakarsa</td>
+
+<td>Pemerintah Pusat</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SumberDana</td>
+
+<td>Program USRI</td>
+
+</tr>
+
+<tr>
+
+<td>Keterangan</td>
+
+<td>1 Unit (berfungsi)_bocor</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle03</styleUrl>
+			<Point>
+				<coordinates>109.2433527777778,-7.37941111111111,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00047">
+			<name>Kemutug Kidul</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Kemutug Kidul</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>47</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>No</td>
+
+<td>48</td>
+
+</tr>
+
+<tr>
+
+<td>LS</td>
+
+<td>-7,345911</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>BT</td>
+
+<td>109,237547</td>
+
+</tr>
+
+<tr>
+
+<td>Desa</td>
+
+<td>Kemutug Kidul</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kecamatan</td>
+
+<td>Baturaden</td>
+
+</tr>
+
+<tr>
+
+<td>KK_Terlaya</td>
+
+<td>200</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kapasitas</td>
+
+<td>12X4X3</td>
+
+</tr>
+
+<tr>
+
+<td>Tipe</td>
+
+<td>An Aerobic Buffled Reactor</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Pengelola</td>
+
+<td>KPP</td>
+
+</tr>
+
+<tr>
+
+<td>Kewenangan</td>
+
+<td>Pusat</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tahun</td>
+
+<td>2013</td>
+
+</tr>
+
+<tr>
+
+<td>Pemrakarsa</td>
+
+<td>Pemerintah Pusat</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SumberDana</td>
+
+<td>Program USRI</td>
+
+</tr>
+
+<tr>
+
+<td>Keterangan</td>
+
+<td>1 Unit (berfungsi)</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle03</styleUrl>
+			<Point>
+				<coordinates>109.2375472222222,-7.345911111111109,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00048">
+			<name>Kemutug Lor</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Kemutug Lor</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>48</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>No</td>
+
+<td>49</td>
+
+</tr>
+
+<tr>
+
+<td>LS</td>
+
+<td>-7,335061</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>BT</td>
+
+<td>109,236222</td>
+
+</tr>
+
+<tr>
+
+<td>Desa</td>
+
+<td>Kemutug Lor</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kecamatan</td>
+
+<td>Baturaden</td>
+
+</tr>
+
+<tr>
+
+<td>KK_Terlaya</td>
+
+<td>150</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kapasitas</td>
+
+<td>20X4X3</td>
+
+</tr>
+
+<tr>
+
+<td>Tipe</td>
+
+<td>An Aerobic Buffled Reactor</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Pengelola</td>
+
+<td>KPP</td>
+
+</tr>
+
+<tr>
+
+<td>Kewenangan</td>
+
+<td>Pusat</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tahun</td>
+
+<td>2013</td>
+
+</tr>
+
+<tr>
+
+<td>Pemrakarsa</td>
+
+<td>Pemerintah Pusat</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SumberDana</td>
+
+<td>DAK Sanitasi (Program SLBM)</td>
+
+</tr>
+
+<tr>
+
+<td>Keterangan</td>
+
+<td>1 Unit (berfungsi)_butuh disedot</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.2362222222222,-7.33506111111111,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00049">
+			<name>Kemutug Lor</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Kemutug Lor</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>49</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>No</td>
+
+<td>50</td>
+
+</tr>
+
+<tr>
+
+<td>LS</td>
+
+<td>-7,329989</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>BT</td>
+
+<td>109,231908</td>
+
+</tr>
+
+<tr>
+
+<td>Desa</td>
+
+<td>Kemutug Lor</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kecamatan</td>
+
+<td>Baturaden</td>
+
+</tr>
+
+<tr>
+
+<td>KK_Terlaya</td>
+
+<td>150</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kapasitas</td>
+
+<td>8X4X3</td>
+
+</tr>
+
+<tr>
+
+<td>Tipe</td>
+
+<td>An Aerobic Buffled Reactor</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Pengelola</td>
+
+<td>KPP</td>
+
+</tr>
+
+<tr>
+
+<td>Kewenangan</td>
+
+<td>Pusat</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tahun</td>
+
+<td>2017</td>
+
+</tr>
+
+<tr>
+
+<td>Pemrakarsa</td>
+
+<td>Pemerintah Pusat</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SumberDana</td>
+
+<td>DAK Sanitasi (Program SLBM)</td>
+
+</tr>
+
+<tr>
+
+<td>Keterangan</td>
+
+<td>1 Unit (berfungsi)</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.2319083333333,-7.32998888888889,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00050">
+			<name>Kejawar</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Kejawar</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>50</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>No</td>
+
+<td>51</td>
+
+</tr>
+
+<tr>
+
+<td>LS</td>
+
+<td>-7,535161</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>BT</td>
+
+<td>109,300664</td>
+
+</tr>
+
+<tr>
+
+<td>Desa</td>
+
+<td>Kejawar</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kecamatan</td>
+
+<td>Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>KK_Terlaya</td>
+
+<td>200</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kapasitas</td>
+
+<td>14X4X4</td>
+
+</tr>
+
+<tr>
+
+<td>Tipe</td>
+
+<td>An Aerobic Buffled Reactor</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Pengelola</td>
+
+<td>KPP</td>
+
+</tr>
+
+<tr>
+
+<td>Kewenangan</td>
+
+<td>Pusat</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tahun</td>
+
+<td>2012</td>
+
+</tr>
+
+<tr>
+
+<td>Pemrakarsa</td>
+
+<td>Pemerintah Pusat</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SumberDana</td>
+
+<td>Program USRI</td>
+
+</tr>
+
+<tr>
+
+<td>Keterangan</td>
+
+<td>1 Unit (berfungsi)</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle03</styleUrl>
+			<Point>
+				<coordinates>109.3006638888889,-7.53516111111111,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00051">
+			<name>Binangun</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Binangun</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>51</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>No</td>
+
+<td>52</td>
+
+</tr>
+
+<tr>
+
+<td>LS</td>
+
+<td>-7,52121</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>BT</td>
+
+<td>109,24721</td>
+
+</tr>
+
+<tr>
+
+<td>Desa</td>
+
+<td>Binangun</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kecamatan</td>
+
+<td>Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>KK_Terlaya</td>
+
+<td>150</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kapasitas</td>
+
+<td>14x4x4</td>
+
+</tr>
+
+<tr>
+
+<td>Tipe</td>
+
+<td>An Aerobic Buffled Reactor</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Pengelola</td>
+
+<td>KPP</td>
+
+</tr>
+
+<tr>
+
+<td>Kewenangan</td>
+
+<td>Pusat</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tahun</td>
+
+<td>2012</td>
+
+</tr>
+
+<tr>
+
+<td>Pemrakarsa</td>
+
+<td>Pemerintah Pusat</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SumberDana</td>
+
+<td>Program USRI</td>
+
+</tr>
+
+<tr>
+
+<td>Keterangan</td>
+
+<td>1 Unit (berfungsi)</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle03</styleUrl>
+			<Point>
+				<coordinates>109.24721,-7.52121,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00052">
+			<name>Kedungwuluh</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Kedungwuluh</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>52</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>No</td>
+
+<td>53</td>
+
+</tr>
+
+<tr>
+
+<td>LS</td>
+
+<td>-7,426644</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>BT</td>
+
+<td>109,223175</td>
+
+</tr>
+
+<tr>
+
+<td>Desa</td>
+
+<td>Kedungwuluh</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kecamatan</td>
+
+<td>Purwokerto Barat</td>
+
+</tr>
+
+<tr>
+
+<td>KK_Terlaya</td>
+
+<td>70</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kapasitas</td>
+
+<td>8x3x3</td>
+
+</tr>
+
+<tr>
+
+<td>Tipe</td>
+
+<td>An Aerobic Buffled Reactor</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Pengelola</td>
+
+<td>KPP</td>
+
+</tr>
+
+<tr>
+
+<td>Kewenangan</td>
+
+<td>Kabupaten</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tahun</td>
+
+<td>2015</td>
+
+</tr>
+
+<tr>
+
+<td>Pemrakarsa</td>
+
+<td>Pemerintah Daerah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SumberDana</td>
+
+<td>PNPM Mandiri</td>
+
+</tr>
+
+<tr>
+
+<td>Keterangan</td>
+
+<td>1 Unit (berfungsi)</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle012</styleUrl>
+			<Point>
+				<coordinates>109.223175,-7.426644444444439,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00053">
+			<name>Pandak</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Pandak</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>53</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>No</td>
+
+<td>54</td>
+
+</tr>
+
+<tr>
+
+<td>LS</td>
+
+<td>-7,379528</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>BT</td>
+
+<td>109,239978</td>
+
+</tr>
+
+<tr>
+
+<td>Desa</td>
+
+<td>Pandak</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kecamatan</td>
+
+<td>Baturaden</td>
+
+</tr>
+
+<tr>
+
+<td>KK_Terlaya</td>
+
+<td>200</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kapasitas</td>
+
+<td>14X4X4</td>
+
+</tr>
+
+<tr>
+
+<td>Tipe</td>
+
+<td>An Aerobic Buffled Reactor</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Pengelola</td>
+
+<td>KPP</td>
+
+</tr>
+
+<tr>
+
+<td>Kewenangan</td>
+
+<td>Pusat</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tahun</td>
+
+<td>2013</td>
+
+</tr>
+
+<tr>
+
+<td>Pemrakarsa</td>
+
+<td>Pemerintah Pusat</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SumberDana</td>
+
+<td>Program USRI</td>
+
+</tr>
+
+<tr>
+
+<td>Keterangan</td>
+
+<td>1 Unit (berfungsi)_bocor</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle03</styleUrl>
+			<Point>
+				<coordinates>109.2399777777778,-7.37952777777778,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00054">
+			<name>Kranji</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Kranji</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>54</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>No</td>
+
+<td>55</td>
+
+</tr>
+
+<tr>
+
+<td>LS</td>
+
+<td>-7,431858</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>BT</td>
+
+<td>109,238919</td>
+
+</tr>
+
+<tr>
+
+<td>Desa</td>
+
+<td>Kranji</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kecamatan</td>
+
+<td>Purwokerto Timur</td>
+
+</tr>
+
+<tr>
+
+<td>KK_Terlaya</td>
+
+<td>10</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kapasitas</td>
+
+<td>5x5x3</td>
+
+</tr>
+
+<tr>
+
+<td>Tipe</td>
+
+<td>An Aerobic Buffled Reactor</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Pengelola</td>
+
+<td>KPP</td>
+
+</tr>
+
+<tr>
+
+<td>Kewenangan</td>
+
+<td>Kabupaten</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tahun</td>
+
+<td>2015</td>
+
+</tr>
+
+<tr>
+
+<td>Pemrakarsa</td>
+
+<td>Pemerintah Daerah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SumberDana</td>
+
+<td>APBD Kabupaten</td>
+
+</tr>
+
+<tr>
+
+<td>Keterangan</td>
+
+<td>1 Unit (berfungsi)</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle016</styleUrl>
+			<Point>
+				<coordinates>109.2389194444445,-7.43185833333333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00055">
+			<name>Kranji</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Kranji</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>55</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>No</td>
+
+<td>56</td>
+
+</tr>
+
+<tr>
+
+<td>LS</td>
+
+<td>-7,431856</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>BT</td>
+
+<td>109,238594</td>
+
+</tr>
+
+<tr>
+
+<td>Desa</td>
+
+<td>Kranji</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kecamatan</td>
+
+<td>Purwokerto Timur</td>
+
+</tr>
+
+<tr>
+
+<td>KK_Terlaya</td>
+
+<td>50</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kapasitas</td>
+
+<td>6x5x3</td>
+
+</tr>
+
+<tr>
+
+<td>Tipe</td>
+
+<td>An Aerobic Buffled Reactor</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Pengelola</td>
+
+<td>KPP</td>
+
+</tr>
+
+<tr>
+
+<td>Kewenangan</td>
+
+<td>Kabupaten</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tahun</td>
+
+<td>2015</td>
+
+</tr>
+
+<tr>
+
+<td>Pemrakarsa</td>
+
+<td>Pemerintah Daerah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SumberDana</td>
+
+<td>APBD Kabupaten</td>
+
+</tr>
+
+<tr>
+
+<td>Keterangan</td>
+
+<td>1 Unit (berfungsi)</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle016</styleUrl>
+			<Point>
+				<coordinates>109.2385944444444,-7.431855555555561,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00056">
+			<name>Kranji</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Kranji</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>56</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>No</td>
+
+<td>57</td>
+
+</tr>
+
+<tr>
+
+<td>LS</td>
+
+<td>-7,431703</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>BT</td>
+
+<td>109,23855</td>
+
+</tr>
+
+<tr>
+
+<td>Desa</td>
+
+<td>Kranji</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kecamatan</td>
+
+<td>Purwokerto Timur</td>
+
+</tr>
+
+<tr>
+
+<td>KK_Terlaya</td>
+
+<td>20</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kapasitas</td>
+
+<td>2x2x8</td>
+
+</tr>
+
+<tr>
+
+<td>Tipe</td>
+
+<td>An Aerobic Buffled Reactor</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Pengelola</td>
+
+<td>KPP</td>
+
+</tr>
+
+<tr>
+
+<td>Kewenangan</td>
+
+<td>Kabupaten</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tahun</td>
+
+<td>2014</td>
+
+</tr>
+
+<tr>
+
+<td>Pemrakarsa</td>
+
+<td>Pemerintah Daerah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SumberDana</td>
+
+<td>APBD Kabupaten</td>
+
+</tr>
+
+<tr>
+
+<td>Keterangan</td>
+
+<td>1 Unit (berfungsi)</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle016</styleUrl>
+			<Point>
+				<coordinates>109.23855,-7.43170277777778,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00057">
+			<name>Kranji</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Kranji</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>57</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>No</td>
+
+<td>58</td>
+
+</tr>
+
+<tr>
+
+<td>LS</td>
+
+<td>-7,431969</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>BT</td>
+
+<td>109,238828</td>
+
+</tr>
+
+<tr>
+
+<td>Desa</td>
+
+<td>Kranji</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kecamatan</td>
+
+<td>Purwokerto Timur</td>
+
+</tr>
+
+<tr>
+
+<td>KK_Terlaya</td>
+
+<td>20</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kapasitas</td>
+
+<td>3x3x2</td>
+
+</tr>
+
+<tr>
+
+<td>Tipe</td>
+
+<td>An Aerobic Buffled Reactor</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Pengelola</td>
+
+<td>KPP</td>
+
+</tr>
+
+<tr>
+
+<td>Kewenangan</td>
+
+<td>Kabupaten</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tahun</td>
+
+<td>2014</td>
+
+</tr>
+
+<tr>
+
+<td>Pemrakarsa</td>
+
+<td>Pemerintah Daerah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SumberDana</td>
+
+<td>APBD Kabupaten</td>
+
+</tr>
+
+<tr>
+
+<td>Keterangan</td>
+
+<td>1 Unit (berfungsi)</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle016</styleUrl>
+			<Point>
+				<coordinates>109.2388277777778,-7.431969444444441,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00058">
+			<name>Arcawinangun</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Arcawinangun</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>58</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>No</td>
+
+<td>59</td>
+
+</tr>
+
+<tr>
+
+<td>LS</td>
+
+<td>-7,411603</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>BT</td>
+
+<td>109,259956</td>
+
+</tr>
+
+<tr>
+
+<td>Desa</td>
+
+<td>Arcawinangun</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kecamatan</td>
+
+<td>Purwokerto Timur</td>
+
+</tr>
+
+<tr>
+
+<td>KK_Terlaya</td>
+
+<td>250</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kapasitas</td>
+
+<td>12x3x3</td>
+
+</tr>
+
+<tr>
+
+<td>Tipe</td>
+
+<td>An Aerobic Buffled Reactor</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Pengelola</td>
+
+<td>BPS</td>
+
+</tr>
+
+<tr>
+
+<td>Kewenangan</td>
+
+<td>Pusat</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tahun</td>
+
+<td>2017</td>
+
+</tr>
+
+<tr>
+
+<td>Pemrakarsa</td>
+
+<td>Pemerintah Pusat</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SumberDana</td>
+
+<td>DAK Sanitasi (Program SLBM)</td>
+
+</tr>
+
+<tr>
+
+<td>Keterangan</td>
+
+<td>1 Unit (berfungsi)</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.2599555555556,-7.41160277777778,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00059">
+			<name>Karangsalam</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Karangsalam</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>59</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>No</td>
+
+<td>60</td>
+
+</tr>
+
+<tr>
+
+<td>LS</td>
+
+<td>-7,331678</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>BT</td>
+
+<td>109,241539</td>
+
+</tr>
+
+<tr>
+
+<td>Desa</td>
+
+<td>Karangsalam</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kecamatan</td>
+
+<td>Baturaden</td>
+
+</tr>
+
+<tr>
+
+<td>KK_Terlaya</td>
+
+<td>150</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kapasitas</td>
+
+<td>23X4X3</td>
+
+</tr>
+
+<tr>
+
+<td>Tipe</td>
+
+<td>An Aerobic Buffled Reactor</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Pengelola</td>
+
+<td>KPP</td>
+
+</tr>
+
+<tr>
+
+<td>Kewenangan</td>
+
+<td>Pusat</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tahun</td>
+
+<td>2013</td>
+
+</tr>
+
+<tr>
+
+<td>Pemrakarsa</td>
+
+<td>Pemerintah Pusat</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SumberDana</td>
+
+<td>DAK Sanitasi (Program SLBM)</td>
+
+</tr>
+
+<tr>
+
+<td>Keterangan</td>
+
+<td>1 Unit (berfungsi)</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.2415388888889,-7.33167777777778,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00060">
+			<name>Bancarkembar</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Bancarkembar</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>60</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>No</td>
+
+<td>61</td>
+
+</tr>
+
+<tr>
+
+<td>LS</td>
+
+<td>-7,410053</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>BT</td>
+
+<td>109,236417</td>
+
+</tr>
+
+<tr>
+
+<td>Desa</td>
+
+<td>Bancarkembar</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kecamatan</td>
+
+<td>Purwokerto Utara</td>
+
+</tr>
+
+<tr>
+
+<td>KK_Terlaya</td>
+
+<td>70</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kapasitas</td>
+
+<td>8x3x3</td>
+
+</tr>
+
+<tr>
+
+<td>Tipe</td>
+
+<td>An Aerobic Buffled Reactor</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Pengelola</td>
+
+<td>KPP</td>
+
+</tr>
+
+<tr>
+
+<td>Kewenangan</td>
+
+<td>Kabupaten</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tahun</td>
+
+<td>2016</td>
+
+</tr>
+
+<tr>
+
+<td>Pemrakarsa</td>
+
+<td>Pemerintah Daerah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SumberDana</td>
+
+<td>PNPM Mandiri</td>
+
+</tr>
+
+<tr>
+
+<td>Keterangan</td>
+
+<td>1 Unit (berfungsi)_bocor</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle012</styleUrl>
+			<Point>
+				<coordinates>109.2364166666667,-7.41005277777778,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00061">
+			<name>Mersi</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Mersi</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>61</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>No</td>
+
+<td>62</td>
+
+</tr>
+
+<tr>
+
+<td>LS</td>
+
+<td>-7,430556</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>BT</td>
+
+<td>109,271033</td>
+
+</tr>
+
+<tr>
+
+<td>Desa</td>
+
+<td>Mersi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kecamatan</td>
+
+<td>Purwokerto Timur</td>
+
+</tr>
+
+<tr>
+
+<td>KK_Terlaya</td>
+
+<td>250</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kapasitas</td>
+
+<td>16x4x3</td>
+
+</tr>
+
+<tr>
+
+<td>Tipe</td>
+
+<td>An Aerobic Buffled Reactor</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Pengelola</td>
+
+<td>KPP</td>
+
+</tr>
+
+<tr>
+
+<td>Kewenangan</td>
+
+<td>Pusat</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tahun</td>
+
+<td>2013</td>
+
+</tr>
+
+<tr>
+
+<td>Pemrakarsa</td>
+
+<td>Pemerintah Pusat</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SumberDana</td>
+
+<td>DAK Sanitasi (Program SLBM)</td>
+
+</tr>
+
+<tr>
+
+<td>Keterangan</td>
+
+<td>1 Unit (berfungsi)</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.2710333333333,-7.43055555555556,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00062">
+			<name>Pamijen</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Pamijen</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>62</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>No</td>
+
+<td>63</td>
+
+</tr>
+
+<tr>
+
+<td>LS</td>
+
+<td>-7,373933</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>BT</td>
+
+<td>109,228986</td>
+
+</tr>
+
+<tr>
+
+<td>Desa</td>
+
+<td>Pamijen</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kecamatan</td>
+
+<td>Baturaden</td>
+
+</tr>
+
+<tr>
+
+<td>KK_Terlaya</td>
+
+<td>70</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kapasitas</td>
+
+<td>12X8X3</td>
+
+</tr>
+
+<tr>
+
+<td>Tipe</td>
+
+<td>An Aerobic Buffled Reactor</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Pengelola</td>
+
+<td>KPP</td>
+
+</tr>
+
+<tr>
+
+<td>Kewenangan</td>
+
+<td>Pusat</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tahun</td>
+
+<td>2014</td>
+
+</tr>
+
+<tr>
+
+<td>Pemrakarsa</td>
+
+<td>Pemerintah Pusat</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SumberDana</td>
+
+<td>DAK Sanitasi (Program SLBM)</td>
+
+</tr>
+
+<tr>
+
+<td>Keterangan</td>
+
+<td>1 Unit (berfungsi)</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.2289861111111,-7.37393333333333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00063">
+			<name>Kranji</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Kranji</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>63</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>No</td>
+
+<td>64</td>
+
+</tr>
+
+<tr>
+
+<td>LS</td>
+
+<td>-7,43215</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>BT</td>
+
+<td>109,238872</td>
+
+</tr>
+
+<tr>
+
+<td>Desa</td>
+
+<td>Kranji</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kecamatan</td>
+
+<td>Purwokerto Timur</td>
+
+</tr>
+
+<tr>
+
+<td>KK_Terlaya</td>
+
+<td>50</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kapasitas</td>
+
+<td>6x5x3</td>
+
+</tr>
+
+<tr>
+
+<td>Tipe</td>
+
+<td>An Aerobic Buffled Reactor</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Pengelola</td>
+
+<td>KPP</td>
+
+</tr>
+
+<tr>
+
+<td>Kewenangan</td>
+
+<td>Kabupaten</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tahun</td>
+
+<td>2014</td>
+
+</tr>
+
+<tr>
+
+<td>Pemrakarsa</td>
+
+<td>Pemerintah Daerah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SumberDana</td>
+
+<td>APBD Kabupaten</td>
+
+</tr>
+
+<tr>
+
+<td>Keterangan</td>
+
+<td>1 Unit (berfungsi)</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle016</styleUrl>
+			<Point>
+				<coordinates>109.2388722222222,-7.43215,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00064">
+			<name>Kranji</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Kranji</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>64</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>No</td>
+
+<td>65</td>
+
+</tr>
+
+<tr>
+
+<td>LS</td>
+
+<td>-7,431636</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>BT</td>
+
+<td>109,239408</td>
+
+</tr>
+
+<tr>
+
+<td>Desa</td>
+
+<td>Kranji</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kecamatan</td>
+
+<td>Purwokerto Timur</td>
+
+</tr>
+
+<tr>
+
+<td>KK_Terlaya</td>
+
+<td>5</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kapasitas</td>
+
+<td>1x1x2</td>
+
+</tr>
+
+<tr>
+
+<td>Tipe</td>
+
+<td>An Aerobic Buffled Reactor</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Pengelola</td>
+
+<td>KPP</td>
+
+</tr>
+
+<tr>
+
+<td>Kewenangan</td>
+
+<td>Kabupaten</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tahun</td>
+
+<td>2014</td>
+
+</tr>
+
+<tr>
+
+<td>Pemrakarsa</td>
+
+<td>Pemerintah Daerah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SumberDana</td>
+
+<td>APBD Kabupaten</td>
+
+</tr>
+
+<tr>
+
+<td>Keterangan</td>
+
+<td>1 Unit (berfungsi)</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle016</styleUrl>
+			<Point>
+				<coordinates>109.2394083333333,-7.43163611111111,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00065">
+			<name>Kranji</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Kranji</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>65</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>No</td>
+
+<td>66</td>
+
+</tr>
+
+<tr>
+
+<td>LS</td>
+
+<td>-7,429592</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>BT</td>
+
+<td>109,237242</td>
+
+</tr>
+
+<tr>
+
+<td>Desa</td>
+
+<td>Kranji</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kecamatan</td>
+
+<td>Purwokerto Timur</td>
+
+</tr>
+
+<tr>
+
+<td>KK_Terlaya</td>
+
+<td>200</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kapasitas</td>
+
+<td>8x25x3</td>
+
+</tr>
+
+<tr>
+
+<td>Tipe</td>
+
+<td>An Aerobic Buffled Reactor</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Pengelola</td>
+
+<td>KPP</td>
+
+</tr>
+
+<tr>
+
+<td>Kewenangan</td>
+
+<td>Kabupaten</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tahun</td>
+
+<td>2014</td>
+
+</tr>
+
+<tr>
+
+<td>Pemrakarsa</td>
+
+<td>Pemerintah Daerah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SumberDana</td>
+
+<td>APBD Kabupaten</td>
+
+</tr>
+
+<tr>
+
+<td>Keterangan</td>
+
+<td>1 Unit (berfungsi)</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle016</styleUrl>
+			<Point>
+				<coordinates>109.2372416666667,-7.42959166666667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00066">
+			<name>Kranji</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Kranji</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>66</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>No</td>
+
+<td>67</td>
+
+</tr>
+
+<tr>
+
+<td>LS</td>
+
+<td>-7,424392</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>BT</td>
+
+<td>109,233125</td>
+
+</tr>
+
+<tr>
+
+<td>Desa</td>
+
+<td>Kranji</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kecamatan</td>
+
+<td>Purwokerto Timur</td>
+
+</tr>
+
+<tr>
+
+<td>KK_Terlaya</td>
+
+<td>5</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kapasitas</td>
+
+<td>1x1x2</td>
+
+</tr>
+
+<tr>
+
+<td>Tipe</td>
+
+<td>An Aerobic Buffled Reactor</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Pengelola</td>
+
+<td>KPP</td>
+
+</tr>
+
+<tr>
+
+<td>Kewenangan</td>
+
+<td>Kabupaten</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tahun</td>
+
+<td>2014</td>
+
+</tr>
+
+<tr>
+
+<td>Pemrakarsa</td>
+
+<td>Pemerintah Daerah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SumberDana</td>
+
+<td>APBD Kabupaten</td>
+
+</tr>
+
+<tr>
+
+<td>Keterangan</td>
+
+<td>1 Unit (berfungsi)</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle016</styleUrl>
+			<Point>
+				<coordinates>109.233125,-7.42439166666667,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

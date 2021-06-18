@@ -1,0 +1,494 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="Rencana Infrastruktur Pengelolaan Air Limbah" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+	<name>Rencana Infrastruktur Pengelolaan Air Limbah</name>
+	<Snippet maxLines="0"></Snippet>
+	<Style id="IconStyle00">
+		<IconStyle>
+			<Icon>
+				<href>Layer0_Symbol_e3469c8_0.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<PolyStyle>
+			<color>ff000000</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Folder id="FeatureLayer0">
+		<name>Rencana Infrastruktur Pengelolaan Air Limbah</name>
+		<Snippet maxLines="0"></Snippet>
+		<Placemark id="ID_00000">
+			<name>IPAL Skala Kawasan Tertentu / Permukiman</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>IPAL Skala Kawasan Tertentu / Permukiman</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Point</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama Objek</td>
+
+<td>IPAL Skala Kawasan Tertentu / Permukiman</td>
+
+</tr>
+
+<tr>
+
+<td>Orde 1</td>
+
+<td>Sistem Pengelolaan Air Limbah Domestik Terpusat</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Orde 2</td>
+
+<td>IPAL Skala Kawasan Tertentu/Permukiman</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis Rencana Struktur Ruang</td>
+
+<td>Rencana Pengelolaan Air Limbah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Status Jaringan</td>
+
+<td>Pengembangan Eksisting</td>
+
+</tr>
+
+<tr>
+
+<td>Wilayah Administrasi Provinsi</td>
+
+<td>Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Wilayah Administrasi Kabupaten/Kota</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>Sumber Data</td>
+
+<td>Rencana RDTR Kawasan Perkotaan Sokaraja 2020 - 2040</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.290109575,-7.454275253999981,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00001">
+			<name>IPAL Skala Kawasan Tertentu / Permukiman</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>IPAL Skala Kawasan Tertentu / Permukiman</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Point</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama Objek</td>
+
+<td>IPAL Skala Kawasan Tertentu / Permukiman</td>
+
+</tr>
+
+<tr>
+
+<td>Orde 1</td>
+
+<td>Sistem Pengelolaan Air Limbah Domestik Terpusat</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Orde 2</td>
+
+<td>IPAL Skala Kawasan Tertentu/Permukiman</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis Rencana Struktur Ruang</td>
+
+<td>Rencana Pengelolaan Air Limbah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Status Jaringan</td>
+
+<td>Pengembangan Eksisting</td>
+
+</tr>
+
+<tr>
+
+<td>Wilayah Administrasi Provinsi</td>
+
+<td>Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Wilayah Administrasi Kabupaten/Kota</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>Sumber Data</td>
+
+<td>Rencana RDTR Kawasan Perkotaan Sokaraja 2020 - 2040</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.294504916,-7.459884745000011,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00002">
+			<name>IPAL Skala Kawasan Tertentu / Permukiman</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>IPAL Skala Kawasan Tertentu / Permukiman</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Point</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama Objek</td>
+
+<td>IPAL Skala Kawasan Tertentu / Permukiman</td>
+
+</tr>
+
+<tr>
+
+<td>Orde 1</td>
+
+<td>Sistem Pengelolaan Air Limbah Domestik Terpusat</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Orde 2</td>
+
+<td>IPAL Skala Kawasan Tertentu/Permukiman</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis Rencana Struktur Ruang</td>
+
+<td>Rencana Pengelolaan Air Limbah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Status Jaringan</td>
+
+<td>Pengembangan Eksisting</td>
+
+</tr>
+
+<tr>
+
+<td>Wilayah Administrasi Provinsi</td>
+
+<td>Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Wilayah Administrasi Kabupaten/Kota</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>Sumber Data</td>
+
+<td>Rencana RDTR Kawasan Perkotaan Sokaraja 2020 - 2040</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.281416276,-7.461893377000024,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00003">
+			<name>IPAL Skala Kawasan Tertentu / Permukiman</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>IPAL Skala Kawasan Tertentu / Permukiman</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Point</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama Objek</td>
+
+<td>IPAL Skala Kawasan Tertentu / Permukiman</td>
+
+</tr>
+
+<tr>
+
+<td>Orde 1</td>
+
+<td>Sistem Pengelolaan Air Limbah Domestik Terpusat</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Orde 2</td>
+
+<td>IPAL Skala Kawasan Tertentu/Permukiman</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis Rencana Struktur Ruang</td>
+
+<td>Rencana Pengelolaan Air Limbah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Status Jaringan</td>
+
+<td>Pengembangan Eksisting</td>
+
+</tr>
+
+<tr>
+
+<td>Wilayah Administrasi Provinsi</td>
+
+<td>Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Wilayah Administrasi Kabupaten/Kota</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>Sumber Data</td>
+
+<td>Rencana RDTR Kawasan Perkotaan Sokaraja 2020 - 2040</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.295917878,-7.455120330999989,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

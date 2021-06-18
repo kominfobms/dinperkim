@@ -1,0 +1,1623 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="Perumahan_2011" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+	<name>Perumahan_2011</name>
+	<Snippet maxLines="0"></Snippet>
+	<Style id="IconStyle00">
+		<IconStyle>
+			<scale>0.96875</scale>
+			<Icon>
+				<href>Layer0_Symbol_90de1d0_0_6.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<PolyStyle>
+			<color>ff000000</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Folder id="FeatureLayer0">
+		<name>Perumahan_2011</name>
+		<Snippet maxLines="0"></Snippet>
+		<Placemark id="ID_00000">
+			<name>Perumahan</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Perumahan</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama Objek</td>
+
+<td>Perumahan</td>
+
+</tr>
+
+<tr>
+
+<td>Nama Pengembang</td>
+
+<td>PT Putra Satria Agung</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Luas Lahan (m2)</td>
+
+<td>6704</td>
+
+</tr>
+
+<tr>
+
+<td>Luas Fasum (m2)</td>
+
+<td>2682</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Jumlah Unit</td>
+
+<td>51</td>
+
+</tr>
+
+<tr>
+
+<td>Keterangan</td>
+
+<td>Type 36</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Desa/Kelurahan</td>
+
+<td>Pasir Lor</td>
+
+</tr>
+
+<tr>
+
+<td>Kecamatan</td>
+
+<td>Karanglewas</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kabupaten</td>
+
+<td>Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>Tahun</td>
+
+<td>2011</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.2028789127007,-7.401848396590358,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00001">
+			<name>Perumahan</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Perumahan</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama Objek</td>
+
+<td>Perumahan</td>
+
+</tr>
+
+<tr>
+
+<td>Nama Pengembang</td>
+
+<td>PT Pumas Basata</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Luas Lahan (m2)</td>
+
+<td>200000</td>
+
+</tr>
+
+<tr>
+
+<td>Luas Fasum (m2)</td>
+
+<td>80000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Jumlah Unit</td>
+
+<td>198</td>
+
+</tr>
+
+<tr>
+
+<td>Keterangan</td>
+
+<td>Type 36; 54; 70</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Desa/Kelurahan</td>
+
+<td>Purwokerto Weta</td>
+
+</tr>
+
+<tr>
+
+<td>Kecamatan</td>
+
+<td>Purwokerto Timur</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kabupaten</td>
+
+<td>Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>Tahun</td>
+
+<td>2011</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.2569047306615,-7.42521395657556,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00002">
+			<name>Perumahan</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Perumahan</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>2</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama Objek</td>
+
+<td>Perumahan</td>
+
+</tr>
+
+<tr>
+
+<td>Nama Pengembang</td>
+
+<td>PT Bumi Citra Satria</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Luas Lahan (m2)</td>
+
+<td>19422</td>
+
+</tr>
+
+<tr>
+
+<td>Luas Fasum (m2)</td>
+
+<td>7769</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Jumlah Unit</td>
+
+<td>135</td>
+
+</tr>
+
+<tr>
+
+<td>Keterangan</td>
+
+<td>Type 36; type 30</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Desa/Kelurahan</td>
+
+<td>Teluk</td>
+
+</tr>
+
+<tr>
+
+<td>Kecamatan</td>
+
+<td>Purwokerto Selatan</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kabupaten</td>
+
+<td>Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>Tahun</td>
+
+<td>2011</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.2468131025567,-7.466789041257155,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00003">
+			<name>Perumahan</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Perumahan</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>3</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama Objek</td>
+
+<td>Perumahan</td>
+
+</tr>
+
+<tr>
+
+<td>Nama Pengembang</td>
+
+<td>PT Karya Jaya Satria</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Luas Lahan (m2)</td>
+
+<td>9255</td>
+
+</tr>
+
+<tr>
+
+<td>Luas Fasum (m2)</td>
+
+<td>3702</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Jumlah Unit</td>
+
+<td>45</td>
+
+</tr>
+
+<tr>
+
+<td>Keterangan</td>
+
+<td>Type 73; type 70; type 54</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Desa/Kelurahan</td>
+
+<td>Berkoh dan Mersi</td>
+
+</tr>
+
+<tr>
+
+<td>Kecamatan</td>
+
+<td>Purwokerto Selatan dan Purwokerto Timur</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kabupaten</td>
+
+<td>Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>Tahun</td>
+
+<td>2011</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.2641813844206,-7.43346474800052,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00004">
+			<name>Perumahan</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Perumahan</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>4</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama Objek</td>
+
+<td>Perumahan</td>
+
+</tr>
+
+<tr>
+
+<td>Nama Pengembang</td>
+
+<td>PT Abadi Citra Mandiri</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Luas Lahan (m2)</td>
+
+<td>4971</td>
+
+</tr>
+
+<tr>
+
+<td>Luas Fasum (m2)</td>
+
+<td>1988</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Jumlah Unit</td>
+
+<td>100</td>
+
+</tr>
+
+<tr>
+
+<td>Keterangan</td>
+
+<td>Type 36</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Desa/Kelurahan</td>
+
+<td>Kedungrandu</td>
+
+</tr>
+
+<tr>
+
+<td>Kecamatan</td>
+
+<td>Patikraja</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kabupaten</td>
+
+<td>Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>Tahun</td>
+
+<td>2011</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.2253238971576,-7.470243512696804,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00005">
+			<name>Perumahan</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Perumahan</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>5</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama Objek</td>
+
+<td>Perumahan</td>
+
+</tr>
+
+<tr>
+
+<td>Nama Pengembang</td>
+
+<td>PT Griya Satria</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Luas Lahan (m2)</td>
+
+<td>54145</td>
+
+</tr>
+
+<tr>
+
+<td>Luas Fasum (m2)</td>
+
+<td>21658</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Jumlah Unit</td>
+
+<td>312</td>
+
+</tr>
+
+<tr>
+
+<td>Keterangan</td>
+
+<td>Type 36; type 45</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Desa/Kelurahan</td>
+
+<td>Rejasar</td>
+
+</tr>
+
+<tr>
+
+<td>Kecamatan</td>
+
+<td>Purwokerto Barat</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kabupaten</td>
+
+<td>Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>Tahun</td>
+
+<td>2011</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.2158324037342,-7.415156893776953,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00006">
+			<name>Perumahan</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Perumahan</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>6</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama Objek</td>
+
+<td>Perumahan</td>
+
+</tr>
+
+<tr>
+
+<td>Nama Pengembang</td>
+
+<td>PT Mutiara Alam Makmur</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Luas Lahan (m2)</td>
+
+<td>2138</td>
+
+</tr>
+
+<tr>
+
+<td>Luas Fasum (m2)</td>
+
+<td>855</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Jumlah Unit</td>
+
+<td>10</td>
+
+</tr>
+
+<tr>
+
+<td>Keterangan</td>
+
+<td>Type 36</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Desa/Kelurahan</td>
+
+<td>Sumampir</td>
+
+</tr>
+
+<tr>
+
+<td>Kecamatan</td>
+
+<td>Purwokerto Utara</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kabupaten</td>
+
+<td>Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>Tahun</td>
+
+<td>2011</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.2369092515823,-7.406030510287955,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00007">
+			<name>Perumahan</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Perumahan</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>7</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama Objek</td>
+
+<td>Perumahan</td>
+
+</tr>
+
+<tr>
+
+<td>Nama Pengembang</td>
+
+<td>PT Bina Agung Damar Buana</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Luas Lahan (m2)</td>
+
+<td>61840</td>
+
+</tr>
+
+<tr>
+
+<td>Luas Fasum (m2)</td>
+
+<td>24736</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Jumlah Unit</td>
+
+<td>373</td>
+
+</tr>
+
+<tr>
+
+<td>Keterangan</td>
+
+<td>Type 70, type 54, type 45, type 40=41, type 36</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Desa/Kelurahan</td>
+
+<td>Karangpucung dan Sidabowa</td>
+
+</tr>
+
+<tr>
+
+<td>Kecamatan</td>
+
+<td>Purwokerto Selatan dan Patikraja</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kabupaten</td>
+
+<td>Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>Tahun</td>
+
+<td>2011</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.2309051130354,-7.454785522297635,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00008">
+			<name>Perumahan</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Perumahan</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>8</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama Objek</td>
+
+<td>Perumahan</td>
+
+</tr>
+
+<tr>
+
+<td>Nama Pengembang</td>
+
+<td>PT Putra Satria Bahari</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Luas Lahan (m2)</td>
+
+<td>2394</td>
+
+</tr>
+
+<tr>
+
+<td>Luas Fasum (m2)</td>
+
+<td>958</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Jumlah Unit</td>
+
+<td>16</td>
+
+</tr>
+
+<tr>
+
+<td>Keterangan</td>
+
+<td>Type 100</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Desa/Kelurahan</td>
+
+<td>Rejasari</td>
+
+</tr>
+
+<tr>
+
+<td>Kecamatan</td>
+
+<td>Purwokerto Barat</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kabupaten</td>
+
+<td>Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>Tahun</td>
+
+<td>2011</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.21617993952,-7.41673931763663,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00009">
+			<name>Perumahan</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Perumahan</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>9</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama Objek</td>
+
+<td>Perumahan</td>
+
+</tr>
+
+<tr>
+
+<td>Nama Pengembang</td>
+
+<td>PT Memory Mitra Utama</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Luas Lahan (m2)</td>
+
+<td>4670</td>
+
+</tr>
+
+<tr>
+
+<td>Luas Fasum (m2)</td>
+
+<td>1868</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Jumlah Unit</td>
+
+<td>38</td>
+
+</tr>
+
+<tr>
+
+<td>Keterangan</td>
+
+<td>Type 29</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Desa/Kelurahan</td>
+
+<td>Kedungrandu</td>
+
+</tr>
+
+<tr>
+
+<td>Kecamatan</td>
+
+<td>Patikraja</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kabupaten</td>
+
+<td>Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>Tahun</td>
+
+<td>2011</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.2288453458609,-7.472863792796401,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00010">
+			<name>Perumahan</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Perumahan</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>10</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama Objek</td>
+
+<td>Perumahan</td>
+
+</tr>
+
+<tr>
+
+<td>Nama Pengembang</td>
+
+<td>PT Mutiara Alam Makmur</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Luas Lahan (m2)</td>
+
+<td>4317</td>
+
+</tr>
+
+<tr>
+
+<td>Luas Fasum (m2)</td>
+
+<td>1727</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Jumlah Unit</td>
+
+<td>49</td>
+
+</tr>
+
+<tr>
+
+<td>Keterangan</td>
+
+<td>Type 29</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Desa/Kelurahan</td>
+
+<td>Kedungrandu</td>
+
+</tr>
+
+<tr>
+
+<td>Kecamatan</td>
+
+<td>Patikraja</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kabupaten</td>
+
+<td>Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>Tahun</td>
+
+<td>2011</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.2227079297962,-7.470990817903926,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00011">
+			<name>Perumahan</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Perumahan</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>11</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama Objek</td>
+
+<td>Perumahan</td>
+
+</tr>
+
+<tr>
+
+<td>Nama Pengembang</td>
+
+<td>PT Eka Sekawan Jaya</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Luas Lahan (m2)</td>
+
+<td>17254</td>
+
+</tr>
+
+<tr>
+
+<td>Luas Fasum (m2)</td>
+
+<td>6902</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Jumlah Unit</td>
+
+<td>113</td>
+
+</tr>
+
+<tr>
+
+<td>Keterangan</td>
+
+<td>Type 36, type 37</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Desa/Kelurahan</td>
+
+<td>Karangpucung dan Sidabowa</td>
+
+</tr>
+
+<tr>
+
+<td>Kecamatan</td>
+
+<td>Purwokerto Selatan dan Patikraja</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kabupaten</td>
+
+<td>Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>Tahun</td>
+
+<td>2011</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.2321676046411,-7.454637273132674,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

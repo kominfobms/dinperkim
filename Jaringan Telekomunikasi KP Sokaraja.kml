@@ -1,0 +1,8167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="Rencana Jaringan Telekomunikasi" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+	<name>Rencana Jaringan Telekomunikasi</name>
+	<Snippet maxLines="0"></Snippet>
+	<Style id="LineStyle00">
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff00aa3c</color>
+			<width>7</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>00000000</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Folder id="FeatureLayer0">
+		<name>Rencana Jaringan Telekomunikasi</name>
+		<Snippet maxLines="0"></Snippet>
+		<Placemark id="ID_00000">
+			<name>Jaringan Serat Optik</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Polyline</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama Objek</td>
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>Orde 1</td>
+
+<td>Jaringan Tetap</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Orde 2</td>
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis Rencana Struktur Ruang</td>
+
+<td>Rencana Jaringan Telekomunikasi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Status Jaringan</td>
+
+<td>Eksisting</td>
+
+</tr>
+
+<tr>
+
+<td>Wilayah Administrasi Provinsi</td>
+
+<td>Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Wilayah Administrasi Kabupaten/Kota</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>Sumber Data</td>
+
+<td>Kegiatan Inventarisasi Infrastruktur Kawasan Perkotaan Sokaraja Th.2019</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SHAPE_Length</td>
+
+<td>0.012536</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						109.287341775,-7.457649392000008,0 109.285670286,-7.456028093999977,0 109.282661683,-7.45309778699999,0 109.28022634,-7.450684045000003,0 109.278345526,-7.44891983399998,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00001">
+			<name>Jaringan Serat Optik</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Polyline</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama Objek</td>
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>Orde 1</td>
+
+<td>Jaringan Tetap</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Orde 2</td>
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis Rencana Struktur Ruang</td>
+
+<td>Rencana Jaringan Telekomunikasi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Status Jaringan</td>
+
+<td>Eksisting</td>
+
+</tr>
+
+<tr>
+
+<td>Wilayah Administrasi Provinsi</td>
+
+<td>Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Wilayah Administrasi Kabupaten/Kota</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>Sumber Data</td>
+
+<td>Kegiatan Inventarisasi Infrastruktur Kawasan Perkotaan Sokaraja Th.2019</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SHAPE_Length</td>
+
+<td>0.021011</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						109.298641266,-7.457655836000015,0 109.29767434,-7.457428119999975,0 109.297163982,-7.457383092999975,0 109.295528516,-7.457466742999999,0 109.291808196,-7.457567218000008,0 109.290609598,-7.457610432000024,0 109.28847141,-7.457659576000026,0 109.287341775,-7.457649392000008,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<coordinates>
+						109.29952337,-7.46723390599999,0 109.299438664,-7.466541479999989,0 109.299300839,-7.464991908000001,0 109.299156073,-7.463687524000022,0 109.299005338,-7.462377136999976,0 109.298895994,-7.461210449000021,0 109.298833755,-7.460259253999992,0 109.298802639,-7.458241671999986,0 109.298787232,-7.457855848000008,0 109.29875175,-7.457733701999985,0 109.298665742,-7.457661600999984,0 109.298641266,-7.457655836000015,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00002">
+			<name>Jaringan Serat Optik</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Polyline</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama Objek</td>
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>Orde 1</td>
+
+<td>Jaringan Tetap</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Orde 2</td>
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis Rencana Struktur Ruang</td>
+
+<td>Rencana Jaringan Telekomunikasi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Status Jaringan</td>
+
+<td>Eksisting</td>
+
+</tr>
+
+<tr>
+
+<td>Wilayah Administrasi Provinsi</td>
+
+<td>Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Wilayah Administrasi Kabupaten/Kota</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>Sumber Data</td>
+
+<td>Kegiatan Inventarisasi Infrastruktur Kawasan Perkotaan Sokaraja Th.2019</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SHAPE_Length</td>
+
+<td>0.009308</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						109.298760863,-7.457765071999972,0 109.299171916,-7.457334060999982,0 109.298616701,-7.457111828999985,0 109.297764576,-7.456811899000002,0 109.297439162,-7.456667105999998,0 109.297372606,-7.456523308999977,0 109.296956572,-7.455019317999985,0 109.29638879,-7.453088906000005,0 109.295762665,-7.451371187000007,0 109.295477657,-7.450695450000012,0 109.295238618,-7.450187018999999,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00003">
+			<name>Jaringan Serat Optik</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Polyline</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama Objek</td>
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>Orde 1</td>
+
+<td>Jaringan Tetap</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Orde 2</td>
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis Rencana Struktur Ruang</td>
+
+<td>Rencana Jaringan Telekomunikasi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Status Jaringan</td>
+
+<td>Eksisting</td>
+
+</tr>
+
+<tr>
+
+<td>Wilayah Administrasi Provinsi</td>
+
+<td>Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Wilayah Administrasi Kabupaten/Kota</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>Sumber Data</td>
+
+<td>Kegiatan Inventarisasi Infrastruktur Kawasan Perkotaan Sokaraja Th.2019</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SHAPE_Length</td>
+
+<td>0.010024</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						109.307314603,-7.453420386999995,0 109.306761431,-7.453951695999991,0 109.30641502,-7.454280514000004,0 109.305079868,-7.455552914999998,0 109.304690173,-7.455917451000004,0 109.303997371,-7.456567905999975,0 109.303641498,-7.456863192000014,0 109.302238095,-7.457805174999977,0 109.301863118,-7.458081246999997,0 109.301652011,-7.458128283000008,0 109.301479439,-7.458127620000028,0 109.300675282,-7.457818309999993,0 109.29986154,-7.457508962000019,0 109.299171916,-7.457334060999982,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00004">
+			<name>Jaringan Serat Optik</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Polyline</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama Objek</td>
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>Orde 1</td>
+
+<td>Jaringan Tetap</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Orde 2</td>
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis Rencana Struktur Ruang</td>
+
+<td>Rencana Jaringan Telekomunikasi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Status Jaringan</td>
+
+<td>Eksisting</td>
+
+</tr>
+
+<tr>
+
+<td>Wilayah Administrasi Provinsi</td>
+
+<td>Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Wilayah Administrasi Kabupaten/Kota</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>Sumber Data</td>
+
+<td>Kegiatan Inventarisasi Infrastruktur Kawasan Perkotaan Sokaraja Th.2019</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SHAPE_Length</td>
+
+<td>0.001526</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						109.287350417,-7.457649469999979,0 109.287306535,-7.459175336999977,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00005">
+			<name>Jaringan Serat Optik</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Polyline</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama Objek</td>
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>Orde 1</td>
+
+<td>Jaringan Tetap</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Orde 2</td>
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis Rencana Struktur Ruang</td>
+
+<td>Rencana Jaringan Telekomunikasi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Status Jaringan</td>
+
+<td>Eksisting</td>
+
+</tr>
+
+<tr>
+
+<td>Wilayah Administrasi Provinsi</td>
+
+<td>Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Wilayah Administrasi Kabupaten/Kota</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>Sumber Data</td>
+
+<td>Kegiatan Inventarisasi Infrastruktur Kawasan Perkotaan Sokaraja Th.2019</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SHAPE_Length</td>
+
+<td>0.004822</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						109.28542045,-7.463400105999995,0 109.285440508,-7.463359221000019,0 109.285585414,-7.463078685000028,0 109.285616004,-7.46291732200001,0 109.285652422,-7.46279784699999,0 109.285713392,-7.46252894700001,0 109.285762772,-7.462158327999988,0 109.285805416,-7.461979068999996,0 109.285901639,-7.461889729999996,0 109.286154355,-7.461621573000001,0 109.286455473,-7.461233988000004,0 109.286756544,-7.460858363999989,0 109.286936958,-7.460691600000019,0 109.287190045,-7.460327751000023,0 109.287262741,-7.460124684999983,0 109.28731112,-7.460011237000002,0 109.287287687,-7.459873587000004,0 109.287306535,-7.459175336999977,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00006">
+			<name>Jaringan Serat Optik</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Polyline</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama Objek</td>
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>Orde 1</td>
+
+<td>Jaringan Tetap</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Orde 2</td>
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis Rencana Struktur Ruang</td>
+
+<td>Rencana Jaringan Telekomunikasi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Status Jaringan</td>
+
+<td>Eksisting</td>
+
+</tr>
+
+<tr>
+
+<td>Wilayah Administrasi Provinsi</td>
+
+<td>Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Wilayah Administrasi Kabupaten/Kota</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>Sumber Data</td>
+
+<td>Kegiatan Inventarisasi Infrastruktur Kawasan Perkotaan Sokaraja Th.2019</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SHAPE_Length</td>
+
+<td>0.008445</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						109.287285666,-7.457594968000025,0 109.286601189,-7.457732647,0 109.286162619,-7.457830265999974,0 109.284982639,-7.458017077000022,0 109.284474178,-7.458101227999975,0 109.283274464,-7.458431496000002,0 109.281729383,-7.458817834000001,0 109.281153661,-7.458939997000016,0 109.280567685,-7.458925755999985,0 109.279435306,-7.458891445999996,0 109.278992808,-7.458889724000018,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00007">
+			<name>Jaringan Serat Optik</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Polyline</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama Objek</td>
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>Orde 1</td>
+
+<td>Jaringan Tetap</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Orde 2</td>
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis Rencana Struktur Ruang</td>
+
+<td>Rencana Jaringan Telekomunikasi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Status Jaringan</td>
+
+<td>Eksisting</td>
+
+</tr>
+
+<tr>
+
+<td>Wilayah Administrasi Provinsi</td>
+
+<td>Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Wilayah Administrasi Kabupaten/Kota</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>Sumber Data</td>
+
+<td>Kegiatan Inventarisasi Infrastruktur Kawasan Perkotaan Sokaraja Th.2019</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SHAPE_Length</td>
+
+<td>0.00135</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						109.296698386,-7.457411039000021,0 109.296738419,-7.457762451000008,0 109.296807423,-7.458200271999999,0 109.29683134,-7.458748934000028,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<coordinates>
+						109.296697918,-7.457406930999981,0 109.296698386,-7.457411037999975,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00008">
+			<name>Jaringan Serat Optik</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Polyline</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama Objek</td>
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>Orde 1</td>
+
+<td>Jaringan Tetap</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Orde 2</td>
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis Rencana Struktur Ruang</td>
+
+<td>Rencana Jaringan Telekomunikasi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Status Jaringan</td>
+
+<td>Eksisting</td>
+
+</tr>
+
+<tr>
+
+<td>Wilayah Administrasi Provinsi</td>
+
+<td>Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Wilayah Administrasi Kabupaten/Kota</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>Sumber Data</td>
+
+<td>Kegiatan Inventarisasi Infrastruktur Kawasan Perkotaan Sokaraja Th.2019</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SHAPE_Length</td>
+
+<td>0.012091</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						109.288322323,-7.457663047999972,0 109.288263792,-7.458211724000023,0 109.288155703,-7.458667122000008,0 109.288190428,-7.458710714999995,0 109.288253261,-7.458748023999988,0 109.288510243,-7.458776578000026,0 109.28863688,-7.458720899000014,0 109.289136224,-7.458724502999985,0 109.289462027,-7.458724228999984,0 109.289964093,-7.458631430000025,0 109.290345385,-7.458585415000015,0 109.291622681,-7.458561087000021,0 109.291607185,-7.458866521000005,0 109.292736277,-7.458847131000027,0 109.293766089,-7.458816644000024,0 109.2943935,-7.458782311999983,0 109.294500619,-7.458770893999997,0 109.29479046,-7.458743342999981,0 109.295193756,-7.458672272999991,0 109.295400607,-7.458642168999974,0 109.295686697,-7.45865094200002,0 109.296149264,-7.458675688000028,0 109.296804845,-7.458745684000006,0 109.297210305,-7.458795414999997,0 109.298203968,-7.458808739999994,0 109.29881357,-7.458950421999987,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00009">
+			<name>Jaringan Serat Optik</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Polyline</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama Objek</td>
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>Orde 1</td>
+
+<td>Jaringan Tetap</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Orde 2</td>
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis Rencana Struktur Ruang</td>
+
+<td>Rencana Jaringan Telekomunikasi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Status Jaringan</td>
+
+<td>Eksisting</td>
+
+</tr>
+
+<tr>
+
+<td>Wilayah Administrasi Provinsi</td>
+
+<td>Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Wilayah Administrasi Kabupaten/Kota</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>Sumber Data</td>
+
+<td>Kegiatan Inventarisasi Infrastruktur Kawasan Perkotaan Sokaraja Th.2019</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SHAPE_Length</td>
+
+<td>0.00102</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						109.291697253,-7.457571217999998,0 109.291664852,-7.458545551999975,0 109.291622681,-7.458561087000021,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00010">
+			<name>Jaringan Serat Optik</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Polyline</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama Objek</td>
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>Orde 1</td>
+
+<td>Jaringan Tetap</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Orde 2</td>
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis Rencana Struktur Ruang</td>
+
+<td>Rencana Jaringan Telekomunikasi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Status Jaringan</td>
+
+<td>Eksisting</td>
+
+</tr>
+
+<tr>
+
+<td>Wilayah Administrasi Provinsi</td>
+
+<td>Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Wilayah Administrasi Kabupaten/Kota</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>Sumber Data</td>
+
+<td>Kegiatan Inventarisasi Infrastruktur Kawasan Perkotaan Sokaraja Th.2019</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SHAPE_Length</td>
+
+<td>0.00336</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						109.291737366,-7.462191748999999,0 109.291712381,-7.460121617000027,0 109.291635938,-7.460051995000016,0 109.291627562,-7.459682105000014,0 109.291607185,-7.458866521000005,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00011">
+			<name>Jaringan Serat Optik</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Polyline</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama Objek</td>
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>Orde 1</td>
+
+<td>Jaringan Tetap</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Orde 2</td>
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis Rencana Struktur Ruang</td>
+
+<td>Rencana Jaringan Telekomunikasi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Status Jaringan</td>
+
+<td>Eksisting</td>
+
+</tr>
+
+<tr>
+
+<td>Wilayah Administrasi Provinsi</td>
+
+<td>Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Wilayah Administrasi Kabupaten/Kota</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>Sumber Data</td>
+
+<td>Kegiatan Inventarisasi Infrastruktur Kawasan Perkotaan Sokaraja Th.2019</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SHAPE_Length</td>
+
+<td>0.004077</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						109.294777859,-7.458744540999987,0 109.294819561,-7.459413589000008,0 109.294831577,-7.459608923000019,0 109.294638365,-7.459618202999991,0 109.294388521,-7.459656273999997,0 109.293584264,-7.459656273999997,0 109.29264369,-7.459649478000017,0 109.292439222,-7.459686936000026,0 109.292155794,-7.45969831100001,0 109.291627873,-7.459695871000008,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00012">
+			<name>Jaringan Serat Optik</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Polyline</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama Objek</td>
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>Orde 1</td>
+
+<td>Jaringan Tetap</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Orde 2</td>
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis Rencana Struktur Ruang</td>
+
+<td>Rencana Jaringan Telekomunikasi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Status Jaringan</td>
+
+<td>Eksisting</td>
+
+</tr>
+
+<tr>
+
+<td>Wilayah Administrasi Provinsi</td>
+
+<td>Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Wilayah Administrasi Kabupaten/Kota</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>Sumber Data</td>
+
+<td>Kegiatan Inventarisasi Infrastruktur Kawasan Perkotaan Sokaraja Th.2019</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SHAPE_Length</td>
+
+<td>0.001638</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						109.297379261,-7.460389597000018,0 109.297254873,-7.459886439999991,0 109.297202164,-7.459491884999977,0 109.297185023,-7.459023030000025,0 109.297229281,-7.458995904000005,0 109.297230713,-7.458795688999999,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00013">
+			<name>Jaringan Serat Optik</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Polyline</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama Objek</td>
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>Orde 1</td>
+
+<td>Jaringan Tetap</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Orde 2</td>
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis Rencana Struktur Ruang</td>
+
+<td>Rencana Jaringan Telekomunikasi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Status Jaringan</td>
+
+<td>Eksisting</td>
+
+</tr>
+
+<tr>
+
+<td>Wilayah Administrasi Provinsi</td>
+
+<td>Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Wilayah Administrasi Kabupaten/Kota</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>Sumber Data</td>
+
+<td>Kegiatan Inventarisasi Infrastruktur Kawasan Perkotaan Sokaraja Th.2019</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SHAPE_Length</td>
+
+<td>0.011768</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						109.287306767,-7.459167291000028,0 109.287667328,-7.459388726999976,0 109.287752275,-7.459431557000016,0 109.288043521,-7.459582891000025,0 109.288234115,-7.459664267999983,0 109.288371886,-7.459702101999994,0 109.288607453,-7.459747787000026,0 109.289476194,-7.459865451999975,0 109.290081529,-7.45995039799999,0 109.290231435,-7.459959678000018,0 109.290678298,-7.459986803999982,0 109.291269614,-7.460017717000028,0 109.291671769,-7.460041616000012,0 109.291746696,-7.46006173699999,0 109.292504554,-7.460122414000011,0 109.292549526,-7.460055273000023,0 109.293139156,-7.460112379999998,0 109.29352677,-7.460153069,0 109.294213483,-7.460218741999996,0 109.295171112,-7.460309831000019,0 109.295767881,-7.460361227000022,0 109.29645603,-7.460431731000028,0 109.296811165,-7.460447792000025,0 109.297327314,-7.460421677,0 109.297373903,-7.460367924000025,0 109.298835518,-7.460286197000016,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00014">
+			<name>Jaringan Serat Optik</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Polyline</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama Objek</td>
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>Orde 1</td>
+
+<td>Jaringan Tetap</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Orde 2</td>
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis Rencana Struktur Ruang</td>
+
+<td>Rencana Jaringan Telekomunikasi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Status Jaringan</td>
+
+<td>Eksisting</td>
+
+</tr>
+
+<tr>
+
+<td>Wilayah Administrasi Provinsi</td>
+
+<td>Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Wilayah Administrasi Kabupaten/Kota</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>Sumber Data</td>
+
+<td>Kegiatan Inventarisasi Infrastruktur Kawasan Perkotaan Sokaraja Th.2019</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SHAPE_Length</td>
+
+<td>0.001444</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						109.286601189,-7.457732647,0 109.28705771,-7.458570667999993,0 109.287182632,-7.458819322000011,0 109.287192149,-7.458899034000012,0 109.287313014,-7.458950075000017,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00015">
+			<name>Jaringan Serat Optik</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Polyline</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama Objek</td>
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>Orde 1</td>
+
+<td>Jaringan Tetap</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Orde 2</td>
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis Rencana Struktur Ruang</td>
+
+<td>Rencana Jaringan Telekomunikasi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Status Jaringan</td>
+
+<td>Eksisting</td>
+
+</tr>
+
+<tr>
+
+<td>Wilayah Administrasi Provinsi</td>
+
+<td>Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Wilayah Administrasi Kabupaten/Kota</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>Sumber Data</td>
+
+<td>Kegiatan Inventarisasi Infrastruktur Kawasan Perkotaan Sokaraja Th.2019</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SHAPE_Length</td>
+
+<td>0.002423</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						109.282655457,-7.461020387000019,0 109.282539176,-7.460563460999993,0 109.282377707,-7.46022558300001,0 109.282419985,-7.460141656000019,0 109.282259923,-7.459811557000023,0 109.281772347,-7.458807090999983,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00016">
+			<name>Jaringan Serat Optik</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Polyline</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama Objek</td>
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>Orde 1</td>
+
+<td>Jaringan Tetap</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Orde 2</td>
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis Rencana Struktur Ruang</td>
+
+<td>Rencana Jaringan Telekomunikasi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Status Jaringan</td>
+
+<td>Eksisting</td>
+
+</tr>
+
+<tr>
+
+<td>Wilayah Administrasi Provinsi</td>
+
+<td>Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Wilayah Administrasi Kabupaten/Kota</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>Sumber Data</td>
+
+<td>Kegiatan Inventarisasi Infrastruktur Kawasan Perkotaan Sokaraja Th.2019</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SHAPE_Length</td>
+
+<td>0.003646</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						109.27872456,-7.460662135000007,0 109.27844188,-7.460662135000007,0 109.278368592,-7.461276988000009,0 109.278650321,-7.461315059000014,0 109.278688233,-7.461006046000024,0 109.278720394,-7.460676578000005,0 109.278752479,-7.460458770000002,0 109.27879293,-7.460356452999974,0 109.27888097,-7.460073297999998,0 109.278900005,-7.459878182000011,0 109.27900952,-7.458889789000011,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00017">
+			<name>Jaringan Serat Optik</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Polyline</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama Objek</td>
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>Orde 1</td>
+
+<td>Jaringan Tetap</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Orde 2</td>
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis Rencana Struktur Ruang</td>
+
+<td>Rencana Jaringan Telekomunikasi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Status Jaringan</td>
+
+<td>Eksisting</td>
+
+</tr>
+
+<tr>
+
+<td>Wilayah Administrasi Provinsi</td>
+
+<td>Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Wilayah Administrasi Kabupaten/Kota</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>Sumber Data</td>
+
+<td>Kegiatan Inventarisasi Infrastruktur Kawasan Perkotaan Sokaraja Th.2019</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SHAPE_Length</td>
+
+<td>0.002564</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						109.278722522,-7.460662135000007,0 109.279858849,-7.460812992999991,0 109.27987027,-7.460475346999999,0 109.278799831,-7.460334257999989,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00018">
+			<name>Jaringan Serat Optik</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Polyline</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama Objek</td>
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>Orde 1</td>
+
+<td>Jaringan Tetap</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Orde 2</td>
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis Rencana Struktur Ruang</td>
+
+<td>Rencana Jaringan Telekomunikasi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Status Jaringan</td>
+
+<td>Eksisting</td>
+
+</tr>
+
+<tr>
+
+<td>Wilayah Administrasi Provinsi</td>
+
+<td>Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Wilayah Administrasi Kabupaten/Kota</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>Sumber Data</td>
+
+<td>Kegiatan Inventarisasi Infrastruktur Kawasan Perkotaan Sokaraja Th.2019</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SHAPE_Length</td>
+
+<td>0.001065</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						109.279877975,-7.461462062999999,0 109.279613019,-7.46142970599999,0 109.27882069,-7.461337782999975,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00019">
+			<name>Jaringan Serat Optik</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Polyline</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama Objek</td>
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>Orde 1</td>
+
+<td>Jaringan Tetap</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Orde 2</td>
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis Rencana Struktur Ruang</td>
+
+<td>Rencana Jaringan Telekomunikasi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Status Jaringan</td>
+
+<td>Eksisting</td>
+
+</tr>
+
+<tr>
+
+<td>Wilayah Administrasi Provinsi</td>
+
+<td>Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Wilayah Administrasi Kabupaten/Kota</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>Sumber Data</td>
+
+<td>Kegiatan Inventarisasi Infrastruktur Kawasan Perkotaan Sokaraja Th.2019</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SHAPE_Length</td>
+
+<td>0.00107</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						109.278739069,-7.462231894000013,0 109.27877548,-7.461844607999979,0 109.27882069,-7.461337782999975,0 109.278650321,-7.461315059000014,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00020">
+			<name>Jaringan Serat Optik</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Polyline</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama Objek</td>
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>Orde 1</td>
+
+<td>Jaringan Tetap</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Orde 2</td>
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis Rencana Struktur Ruang</td>
+
+<td>Rencana Jaringan Telekomunikasi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Status Jaringan</td>
+
+<td>Eksisting</td>
+
+</tr>
+
+<tr>
+
+<td>Wilayah Administrasi Provinsi</td>
+
+<td>Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Wilayah Administrasi Kabupaten/Kota</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>Sumber Data</td>
+
+<td>Kegiatan Inventarisasi Infrastruktur Kawasan Perkotaan Sokaraja Th.2019</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SHAPE_Length</td>
+
+<td>0.001141</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						109.278748928,-7.462127032000012,0 109.278262357,-7.462076953999997,0 109.278238563,-7.462221506999981,0 109.278544403,-7.462242405999973,0 109.278566294,-7.462228128999982,0 109.278739069,-7.462231894000013,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00021">
+			<name>Jaringan Serat Optik</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Polyline</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama Objek</td>
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>Orde 1</td>
+
+<td>Jaringan Tetap</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Orde 2</td>
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis Rencana Struktur Ruang</td>
+
+<td>Rencana Jaringan Telekomunikasi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Status Jaringan</td>
+
+<td>Eksisting</td>
+
+</tr>
+
+<tr>
+
+<td>Wilayah Administrasi Provinsi</td>
+
+<td>Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Wilayah Administrasi Kabupaten/Kota</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>Sumber Data</td>
+
+<td>Kegiatan Inventarisasi Infrastruktur Kawasan Perkotaan Sokaraja Th.2019</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SHAPE_Length</td>
+
+<td>0.00112</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						109.278238563,-7.462221506999981,0 109.27818907,-7.462610786000028,0 109.278513866,-7.46264290900001,0 109.278544403,-7.462242405999973,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00022">
+			<name>Jaringan Serat Optik</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Polyline</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama Objek</td>
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>Orde 1</td>
+
+<td>Jaringan Tetap</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Orde 2</td>
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis Rencana Struktur Ruang</td>
+
+<td>Rencana Jaringan Telekomunikasi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Status Jaringan</td>
+
+<td>Eksisting</td>
+
+</tr>
+
+<tr>
+
+<td>Wilayah Administrasi Provinsi</td>
+
+<td>Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Wilayah Administrasi Kabupaten/Kota</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>Sumber Data</td>
+
+<td>Kegiatan Inventarisasi Infrastruktur Kawasan Perkotaan Sokaraja Th.2019</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SHAPE_Length</td>
+
+<td>0.000648</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						109.279868619,-7.461460921000025,0 109.279858849,-7.460812992999991,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00023">
+			<name>Jaringan Serat Optik</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Polyline</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama Objek</td>
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>Orde 1</td>
+
+<td>Jaringan Tetap</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Orde 2</td>
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis Rencana Struktur Ruang</td>
+
+<td>Rencana Jaringan Telekomunikasi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Status Jaringan</td>
+
+<td>Eksisting</td>
+
+</tr>
+
+<tr>
+
+<td>Wilayah Administrasi Provinsi</td>
+
+<td>Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Wilayah Administrasi Kabupaten/Kota</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>Sumber Data</td>
+
+<td>Kegiatan Inventarisasi Infrastruktur Kawasan Perkotaan Sokaraja Th.2019</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SHAPE_Length</td>
+
+<td>0.00186</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						109.278739069,-7.462231894000013,0 109.279248507,-7.462245484999984,0 109.279792928,-7.462262617000022,0 109.279848179,-7.461727714000006,0 109.279868619,-7.461460921000025,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00024">
+			<name>Jaringan Serat Optik</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Polyline</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama Objek</td>
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>Orde 1</td>
+
+<td>Jaringan Tetap</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Orde 2</td>
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis Rencana Struktur Ruang</td>
+
+<td>Rencana Jaringan Telekomunikasi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Status Jaringan</td>
+
+<td>Eksisting</td>
+
+</tr>
+
+<tr>
+
+<td>Wilayah Administrasi Provinsi</td>
+
+<td>Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Wilayah Administrasi Kabupaten/Kota</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>Sumber Data</td>
+
+<td>Kegiatan Inventarisasi Infrastruktur Kawasan Perkotaan Sokaraja Th.2019</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SHAPE_Length</td>
+
+<td>0.000825</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						109.279639061,-7.461432887000001,0 109.279583136,-7.46225601499998,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00025">
+			<name>Jaringan Serat Optik</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Polyline</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama Objek</td>
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>Orde 1</td>
+
+<td>Jaringan Tetap</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Orde 2</td>
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis Rencana Struktur Ruang</td>
+
+<td>Rencana Jaringan Telekomunikasi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Status Jaringan</td>
+
+<td>Eksisting</td>
+
+</tr>
+
+<tr>
+
+<td>Wilayah Administrasi Provinsi</td>
+
+<td>Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Wilayah Administrasi Kabupaten/Kota</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>Sumber Data</td>
+
+<td>Kegiatan Inventarisasi Infrastruktur Kawasan Perkotaan Sokaraja Th.2019</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SHAPE_Length</td>
+
+<td>0.000852</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						109.279319644,-7.461395670000002,0 109.279267945,-7.462246096000001,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00026">
+			<name>Jaringan Serat Optik</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Polyline</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama Objek</td>
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>Orde 1</td>
+
+<td>Jaringan Tetap</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Orde 2</td>
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis Rencana Struktur Ruang</td>
+
+<td>Rencana Jaringan Telekomunikasi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Status Jaringan</td>
+
+<td>Eksisting</td>
+
+</tr>
+
+<tr>
+
+<td>Wilayah Administrasi Provinsi</td>
+
+<td>Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Wilayah Administrasi Kabupaten/Kota</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>Sumber Data</td>
+
+<td>Kegiatan Inventarisasi Infrastruktur Kawasan Perkotaan Sokaraja Th.2019</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SHAPE_Length</td>
+
+<td>0.011498</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						109.298792187,-7.457732227000008,0 109.298754991,-7.457658340000024,0 109.297734203,-7.457362096999988,0 109.297138148,-7.457340681999995,0 109.293886871,-7.45745064800002,0 109.292151987,-7.457504864999977,0 109.29081354,-7.457540557000016,0 109.288925438,-7.457604801999992,0 109.288379352,-7.457608370999992,0 109.287386169,-7.457607575999987,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00027">
+			<name>Jaringan Serat Optik</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Polyline</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama Objek</td>
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>Orde 1</td>
+
+<td>Jaringan Tetap</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Orde 2</td>
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis Rencana Struktur Ruang</td>
+
+<td>Rencana Jaringan Telekomunikasi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Status Jaringan</td>
+
+<td>Eksisting</td>
+
+</tr>
+
+<tr>
+
+<td>Wilayah Administrasi Provinsi</td>
+
+<td>Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Wilayah Administrasi Kabupaten/Kota</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>Sumber Data</td>
+
+<td>Kegiatan Inventarisasi Infrastruktur Kawasan Perkotaan Sokaraja Th.2019</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SHAPE_Length</td>
+
+<td>0.009203</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						109.30944496,-7.462523415000021,0 109.308434242,-7.46190900900001,0 109.30796073,-7.461592541000017,0 109.306675821,-7.460750211999994,0 109.305809697,-7.460193418000017,0 109.305336184,-7.459862672999974,0 109.304139315,-7.458996549000005,0 109.303932302,-7.458856161000028,0 109.303642008,-7.458656286000008,0 109.30354207,-7.458625353000002,0 109.303139942,-7.458518276999996,0 109.302904375,-7.458463549999976,0 109.302526041,-7.458368371000007,0 109.302204813,-7.458294608000017,0 109.301838376,-7.458201809000002,0 109.301662296,-7.458170875999996,0 109.301479439,-7.458127620000028,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00028">
+			<name>Jaringan Serat Optik</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Polyline</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama Objek</td>
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>Orde 1</td>
+
+<td>Jaringan Tetap</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Orde 2</td>
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis Rencana Struktur Ruang</td>
+
+<td>Rencana Jaringan Telekomunikasi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Status Jaringan</td>
+
+<td>Eksisting</td>
+
+</tr>
+
+<tr>
+
+<td>Wilayah Administrasi Provinsi</td>
+
+<td>Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Wilayah Administrasi Kabupaten/Kota</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>Sumber Data</td>
+
+<td>Kegiatan Inventarisasi Infrastruktur Kawasan Perkotaan Sokaraja Th.2019</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SHAPE_Length</td>
+
+<td>0.007</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						109.298918,-7.460197999999992,0 109.299007095,-7.461046394999982,0 109.299102274,-7.461980332999985,0 109.299292631,-7.464062361999993,0 109.299660037,-7.467158297000026,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00029">
+			<name>Jaringan Serat Optik</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Polyline</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama Objek</td>
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>Orde 1</td>
+
+<td>Jaringan Tetap</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Orde 2</td>
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis Rencana Struktur Ruang</td>
+
+<td>Rencana Jaringan Telekomunikasi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Status Jaringan</td>
+
+<td>Eksisting</td>
+
+</tr>
+
+<tr>
+
+<td>Wilayah Administrasi Provinsi</td>
+
+<td>Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Wilayah Administrasi Kabupaten/Kota</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>Sumber Data</td>
+
+<td>Kegiatan Inventarisasi Infrastruktur Kawasan Perkotaan Sokaraja Th.2019</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SHAPE_Length</td>
+
+<td>0.005284</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						109.2915689,-7.452835350999976,0 109.293136965,-7.452809295999999,0 109.293236902,-7.453226890999986,0 109.293640221,-7.453230459999986,0 109.29435049,-7.453259014000026,0 109.295010791,-7.453333966999993,0 109.295671091,-7.453412489000016,0 109.296509327,-7.453498723999985,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00030">
+			<name>Jaringan Serat Optik</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Polyline</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama Objek</td>
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>Orde 1</td>
+
+<td>Jaringan Tetap</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Orde 2</td>
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis Rencana Struktur Ruang</td>
+
+<td>Rencana Jaringan Telekomunikasi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Status Jaringan</td>
+
+<td>Eksisting</td>
+
+</tr>
+
+<tr>
+
+<td>Wilayah Administrasi Provinsi</td>
+
+<td>Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Wilayah Administrasi Kabupaten/Kota</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>Sumber Data</td>
+
+<td>Kegiatan Inventarisasi Infrastruktur Kawasan Perkotaan Sokaraja Th.2019</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SHAPE_Length</td>
+
+<td>0.002848</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						109.28402095,-7.454421680999984,0 109.28553,-7.454224000000011,0 109.285756472,-7.454242683000019,0 109.286245689,-7.454177962000017,0 109.286845734,-7.454094800999997,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00031">
+			<name>Jaringan Serat Optik</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Polyline</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama Objek</td>
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>Orde 1</td>
+
+<td>Jaringan Tetap</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Orde 2</td>
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis Rencana Struktur Ruang</td>
+
+<td>Rencana Jaringan Telekomunikasi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Status Jaringan</td>
+
+<td>Eksisting</td>
+
+</tr>
+
+<tr>
+
+<td>Wilayah Administrasi Provinsi</td>
+
+<td>Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Wilayah Administrasi Kabupaten/Kota</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>Sumber Data</td>
+
+<td>Kegiatan Inventarisasi Infrastruktur Kawasan Perkotaan Sokaraja Th.2019</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SHAPE_Length</td>
+
+<td>0.00419</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						109.282300781,-7.447548402999985,0 109.282000969,-7.447631683999987,0 109.281382309,-7.447795867000025,0 109.281277612,-7.447891045000005,0 109.280815997,-7.44808378099998,0 109.280247306,-7.448314589000006,0 109.278363847,-7.448937020000017,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00032">
+			<name>Jaringan Serat Optik</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Polyline</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama Objek</td>
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>Orde 1</td>
+
+<td>Jaringan Tetap</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Orde 2</td>
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis Rencana Struktur Ruang</td>
+
+<td>Rencana Jaringan Telekomunikasi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Status Jaringan</td>
+
+<td>Eksisting</td>
+
+</tr>
+
+<tr>
+
+<td>Wilayah Administrasi Provinsi</td>
+
+<td>Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Wilayah Administrasi Kabupaten/Kota</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>Sumber Data</td>
+
+<td>Kegiatan Inventarisasi Infrastruktur Kawasan Perkotaan Sokaraja Th.2019</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SHAPE_Length</td>
+
+<td>0.002106</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						109.280722008,-7.44582281800001,0 109.281028959,-7.446652298000004,0 109.281341784,-7.44783270800002,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00033">
+			<name>Jaringan Serat Optik</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Polyline</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama Objek</td>
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>Orde 1</td>
+
+<td>Jaringan Tetap</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Orde 2</td>
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis Rencana Struktur Ruang</td>
+
+<td>Rencana Jaringan Telekomunikasi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Status Jaringan</td>
+
+<td>Eksisting</td>
+
+</tr>
+
+<tr>
+
+<td>Wilayah Administrasi Provinsi</td>
+
+<td>Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Wilayah Administrasi Kabupaten/Kota</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>Sumber Data</td>
+
+<td>Kegiatan Inventarisasi Infrastruktur Kawasan Perkotaan Sokaraja Th.2019</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SHAPE_Length</td>
+
+<td>0.004149</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						109.284087161,-7.453595327000015,0 109.28408609,-7.453594613000007,0 109.283227581,-7.452720875000011,0 109.283155245,-7.452648538999995,0 109.282538489,-7.452037494000024,0 109.282506128,-7.451938508000012,0 109.281784676,-7.451234188000001,0 109.280964818,-7.451415972999996,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00034">
+			<name>Jaringan Serat Optik</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Polyline</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama Objek</td>
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>Orde 1</td>
+
+<td>Jaringan Tetap</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Orde 2</td>
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis Rencana Struktur Ruang</td>
+
+<td>Rencana Jaringan Telekomunikasi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Status Jaringan</td>
+
+<td>Eksisting</td>
+
+</tr>
+
+<tr>
+
+<td>Wilayah Administrasi Provinsi</td>
+
+<td>Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Wilayah Administrasi Kabupaten/Kota</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>Sumber Data</td>
+
+<td>Kegiatan Inventarisasi Infrastruktur Kawasan Perkotaan Sokaraja Th.2019</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SHAPE_Length</td>
+
+<td>0.004643</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						109.287253966,-7.455483565000008,0 109.287254032,-7.455484335999984,0 109.286701951,-7.455524959000002,0 109.286140398,-7.455578258999992,0 109.285792045,-7.455656304999991,0 109.285372308,-7.45568148000001,0 109.285530304,-7.455829957999982,0 109.286249853,-7.456515243000013,0 109.287360148,-7.457577467000022,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00035">
+			<name>Jaringan Serat Optik</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Polyline</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama Objek</td>
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>Orde 1</td>
+
+<td>Jaringan Tetap</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Orde 2</td>
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis Rencana Struktur Ruang</td>
+
+<td>Rencana Jaringan Telekomunikasi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Status Jaringan</td>
+
+<td>Eksisting</td>
+
+</tr>
+
+<tr>
+
+<td>Wilayah Administrasi Provinsi</td>
+
+<td>Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Wilayah Administrasi Kabupaten/Kota</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>Sumber Data</td>
+
+<td>Kegiatan Inventarisasi Infrastruktur Kawasan Perkotaan Sokaraja Th.2019</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SHAPE_Length</td>
+
+<td>0.004406</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						109.289770504,-7.457576046999974,0 109.2897686,-7.456952634999993,0 109.289772407,-7.456728014000021,0 109.289724818,-7.456360625999992,0 109.289682939,-7.455960876000006,0 109.289644868,-7.455570643999977,0 109.289456415,-7.455551608999996,0 109.288927223,-7.455523055000015,0 109.288074424,-7.45549069499998,0 109.28785361,-7.455492597999977,0 109.287254032,-7.455484335999984,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00036">
+			<name>Jaringan Serat Optik</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Polyline</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama Objek</td>
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>Orde 1</td>
+
+<td>Jaringan Tetap</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Orde 2</td>
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis Rencana Struktur Ruang</td>
+
+<td>Rencana Jaringan Telekomunikasi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Status Jaringan</td>
+
+<td>Eksisting</td>
+
+</tr>
+
+<tr>
+
+<td>Wilayah Administrasi Provinsi</td>
+
+<td>Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Wilayah Administrasi Kabupaten/Kota</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>Sumber Data</td>
+
+<td>Kegiatan Inventarisasi Infrastruktur Kawasan Perkotaan Sokaraja Th.2019</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SHAPE_Length</td>
+
+<td>0.005677</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						109.279648645,-7.456637290999993,0 109.279610562,-7.45608615499998,0 109.279439241,-7.455672128000003,0 109.279493968,-7.455341383000018,0 109.279300399,-7.454399949999981,0 109.279247575,-7.454180086999997,0 109.279034851,-7.453009393000002,0 109.278976317,-7.452910883000017,0 109.278797857,-7.452888040000006,0 109.278243919,-7.452836644,0 109.278112572,-7.452855204000002,0 109.277503,-7.453016999999989,0 109.277153,-7.453033000000005,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00037">
+			<name>Jaringan Serat Optik</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Polyline</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama Objek</td>
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>Orde 1</td>
+
+<td>Jaringan Tetap</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Orde 2</td>
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis Rencana Struktur Ruang</td>
+
+<td>Rencana Jaringan Telekomunikasi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Status Jaringan</td>
+
+<td>Eksisting</td>
+
+</tr>
+
+<tr>
+
+<td>Wilayah Administrasi Provinsi</td>
+
+<td>Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Wilayah Administrasi Kabupaten/Kota</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>Sumber Data</td>
+
+<td>Kegiatan Inventarisasi Infrastruktur Kawasan Perkotaan Sokaraja Th.2019</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SHAPE_Length</td>
+
+<td>0.011111</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						109.287469897,-7.457607643000017,0 109.287488942,-7.457425831000023,0 109.287460388,-7.456897590999972,0 109.287406517,-7.45613072499998,0 109.287156071,-7.454326619000028,0 109.28676108,-7.454031564999979,0 109.286684938,-7.453807896000001,0 109.28662783,-7.453136888000018,0 109.286723009,-7.452832317000002,0 109.286943109,-7.452089924999997,0 109.286990698,-7.451733005999984,0 109.286978801,-7.451643776000026,0 109.286877674,-7.451051885000028,0 109.286401062,-7.449382770999988,0 109.286271506,-7.448854453000024,0 109.285919346,-7.448963907999997,0 109.2854149,-7.447431535000021,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00038">
+			<name>Jaringan Serat Optik</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Polyline</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama Objek</td>
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>Orde 1</td>
+
+<td>Jaringan Tetap</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Orde 2</td>
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis Rencana Struktur Ruang</td>
+
+<td>Rencana Jaringan Telekomunikasi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Status Jaringan</td>
+
+<td>Eksisting</td>
+
+</tr>
+
+<tr>
+
+<td>Wilayah Administrasi Provinsi</td>
+
+<td>Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Wilayah Administrasi Kabupaten/Kota</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>Sumber Data</td>
+
+<td>Kegiatan Inventarisasi Infrastruktur Kawasan Perkotaan Sokaraja Th.2019</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SHAPE_Length</td>
+
+<td>0.004769</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						109.281548071,-7.447751875999984,0 109.281371228,-7.447026198000002,0 109.282094584,-7.446833461999973,0 109.282187383,-7.447149930000023,0 109.282408673,-7.447916116999978,0 109.281368849,-7.448182615999997,0 109.280721534,-7.448497110000005,0 109.280531651,-7.448199185000021,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00039">
+			<name>Jaringan Serat Optik</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Polyline</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama Objek</td>
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>Orde 1</td>
+
+<td>Jaringan Tetap</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Orde 2</td>
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis Rencana Struktur Ruang</td>
+
+<td>Rencana Jaringan Telekomunikasi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Status Jaringan</td>
+
+<td>Eksisting</td>
+
+</tr>
+
+<tr>
+
+<td>Wilayah Administrasi Provinsi</td>
+
+<td>Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Wilayah Administrasi Kabupaten/Kota</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>Sumber Data</td>
+
+<td>Kegiatan Inventarisasi Infrastruktur Kawasan Perkotaan Sokaraja Th.2019</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SHAPE_Length</td>
+
+<td>0.000766</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						109.28145965,-7.447389036999994,0 109.282199101,-7.447190499999978,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00040">
+			<name>Jaringan Serat Optik</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Polyline</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama Objek</td>
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>Orde 1</td>
+
+<td>Jaringan Tetap</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Orde 2</td>
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis Rencana Struktur Ruang</td>
+
+<td>Rencana Jaringan Telekomunikasi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Status Jaringan</td>
+
+<td>Eksisting</td>
+
+</tr>
+
+<tr>
+
+<td>Wilayah Administrasi Provinsi</td>
+
+<td>Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Wilayah Administrasi Kabupaten/Kota</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>Sumber Data</td>
+
+<td>Kegiatan Inventarisasi Infrastruktur Kawasan Perkotaan Sokaraja Th.2019</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SHAPE_Length</td>
+
+<td>0.00149</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						109.281371228,-7.447026198000002,0 109.281274265,-7.446656786999994,0 109.28200595,-7.446487250000018,0 109.282094584,-7.446833461999973,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00041">
+			<name>Jaringan Serat Optik</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Polyline</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama Objek</td>
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>Orde 1</td>
+
+<td>Jaringan Tetap</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Orde 2</td>
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis Rencana Struktur Ruang</td>
+
+<td>Rencana Jaringan Telekomunikasi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Status Jaringan</td>
+
+<td>Eksisting</td>
+
+</tr>
+
+<tr>
+
+<td>Wilayah Administrasi Provinsi</td>
+
+<td>Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Wilayah Administrasi Kabupaten/Kota</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>Sumber Data</td>
+
+<td>Kegiatan Inventarisasi Infrastruktur Kawasan Perkotaan Sokaraja Th.2019</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SHAPE_Length</td>
+
+<td>0.006562</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						109.289593122,-7.455051353999977,0 109.28958602,-7.455073981999987,0 109.289581659,-7.455564260000016,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<coordinates>
+						109.286993,-7.451774999999999,0 109.287427849,-7.451621384000021,0 109.287627724,-7.451492893000021,0 109.28782046,-7.451432216000001,0 109.288577129,-7.451303725999991,0 109.288587836,-7.451378679000015,0 109.288756778,-7.452569599000015,0 109.289125594,-7.452498214999991,0 109.289270741,-7.452548184000023,0 109.289537241,-7.453416687000015,0 109.289708562,-7.454220944999975,0 109.289637178,-7.454910987999995,0 109.289593122,-7.455051353999977,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00042">
+			<name>Jaringan Serat Optik</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Polyline</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama Objek</td>
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>Orde 1</td>
+
+<td>Jaringan Tetap</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Orde 2</td>
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis Rencana Struktur Ruang</td>
+
+<td>Rencana Jaringan Telekomunikasi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Status Jaringan</td>
+
+<td>Eksisting</td>
+
+</tr>
+
+<tr>
+
+<td>Wilayah Administrasi Provinsi</td>
+
+<td>Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Wilayah Administrasi Kabupaten/Kota</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>Sumber Data</td>
+
+<td>Kegiatan Inventarisasi Infrastruktur Kawasan Perkotaan Sokaraja Th.2019</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SHAPE_Length</td>
+
+<td>0.001808</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						109.28553,-7.454224000000011,0 109.285183,-7.45390900000001,0 109.284715545,-7.453444193999985,0 109.284087161,-7.453595327000015,0 109.284064,-7.45357100000001,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00043">
+			<name>Jaringan Serat Optik</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Polyline</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama Objek</td>
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>Orde 1</td>
+
+<td>Jaringan Tetap</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Orde 2</td>
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis Rencana Struktur Ruang</td>
+
+<td>Rencana Jaringan Telekomunikasi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Status Jaringan</td>
+
+<td>Eksisting</td>
+
+</tr>
+
+<tr>
+
+<td>Wilayah Administrasi Provinsi</td>
+
+<td>Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Wilayah Administrasi Kabupaten/Kota</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>Sumber Data</td>
+
+<td>Kegiatan Inventarisasi Infrastruktur Kawasan Perkotaan Sokaraja Th.2019</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SHAPE_Length</td>
+
+<td>0.006927</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						109.289723005,-7.45648272599999,0 109.290405744,-7.456421945999978,0 109.291637115,-7.456445740999982,0 109.292547259,-7.456499279000013,0 109.293134986,-7.456458827999995,0 109.293491905,-7.45637316699998,0 109.294041561,-7.456342233999977,0 109.295029037,-7.456323198999996,0 109.295509688,-7.456306541999994,0 109.29552,-7.456360000000018,0 109.29558821,-7.456901408000022,0 109.295572,-7.457424000000002,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00044">
+			<name>Jaringan Serat Optik</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Polyline</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama Objek</td>
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>Orde 1</td>
+
+<td>Jaringan Tetap</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Orde 2</td>
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis Rencana Struktur Ruang</td>
+
+<td>Rencana Jaringan Telekomunikasi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Status Jaringan</td>
+
+<td>Eksisting</td>
+
+</tr>
+
+<tr>
+
+<td>Wilayah Administrasi Provinsi</td>
+
+<td>Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Wilayah Administrasi Kabupaten/Kota</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>Sumber Data</td>
+
+<td>Kegiatan Inventarisasi Infrastruktur Kawasan Perkotaan Sokaraja Th.2019</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SHAPE_Length</td>
+
+<td>0.003674</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						109.302500426,-7.460268344999975,0 109.302159211,-7.460253592000015,0 109.301271196,-7.460202196000013,0 109.301132711,-7.460197913000002,0 109.300832899,-7.46018791900002,0 109.300264684,-7.460183636000011,0 109.300083369,-7.460182207999992,0 109.299706463,-7.46016935900002,0 109.299456619,-7.460199341000021,0 109.299366676,-7.460217899999975,0 109.299148241,-7.460232177000023,0 109.29883356,-7.460246595000001,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00045">
+			<name>Jaringan Serat Optik</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Polyline</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama Objek</td>
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>Orde 1</td>
+
+<td>Jaringan Tetap</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Orde 2</td>
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis Rencana Struktur Ruang</td>
+
+<td>Rencana Jaringan Telekomunikasi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Status Jaringan</td>
+
+<td>Eksisting</td>
+
+</tr>
+
+<tr>
+
+<td>Wilayah Administrasi Provinsi</td>
+
+<td>Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Wilayah Administrasi Kabupaten/Kota</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>Sumber Data</td>
+
+<td>Kegiatan Inventarisasi Infrastruktur Kawasan Perkotaan Sokaraja Th.2019</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SHAPE_Length</td>
+
+<td>0.008453</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						109.299466,-7.457335999999998,0 109.298584142,-7.457031036999979,0 109.297653178,-7.456686015000004,0 109.297471744,-7.456567042000017,0 109.297394412,-7.456311249999999,0 109.29713862,-7.455392183000015,0 109.298007123,-7.455148287999975,0 109.298380361,-7.455100667000011,0 109.298698754,-7.455141560000016,0 109.299170084,-7.45520479999999,0 109.300068331,-7.455353516999992,0 109.300023716,-7.455636077999997,0 109.299973153,-7.455981099999973,0 109.299919615,-7.456352890000005,0 109.299848231,-7.456669358999989,0 109.299466,-7.457335999999998,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00046">
+			<name>Jaringan Serat Optik</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Polyline</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama Objek</td>
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>Orde 1</td>
+
+<td>Jaringan Tetap</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Orde 2</td>
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis Rencana Struktur Ruang</td>
+
+<td>Rencana Jaringan Telekomunikasi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Status Jaringan</td>
+
+<td>Eksisting</td>
+
+</tr>
+
+<tr>
+
+<td>Wilayah Administrasi Provinsi</td>
+
+<td>Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Wilayah Administrasi Kabupaten/Kota</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>Sumber Data</td>
+
+<td>Kegiatan Inventarisasi Infrastruktur Kawasan Perkotaan Sokaraja Th.2019</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SHAPE_Length</td>
+
+<td>0.006502</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						109.304980287,-7.455646066999976,0 109.304924376,-7.455588195000019,0 109.304266097,-7.456180378999989,0 109.303552258,-7.45679309100001,0 109.30283842,-7.457298725999976,0 109.302249504,-7.457703234000007,0 109.301642741,-7.458066101999975,0 109.301220387,-7.457935232000011,0 109.300530343,-7.45764374800001,0 109.299466,-7.457335999999998,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00047">
+			<name>Jaringan Serat Optik</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Polyline</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama Objek</td>
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>Orde 1</td>
+
+<td>Jaringan Tetap</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Orde 2</td>
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis Rencana Struktur Ruang</td>
+
+<td>Rencana Jaringan Telekomunikasi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Status Jaringan</td>
+
+<td>Eksisting</td>
+
+</tr>
+
+<tr>
+
+<td>Wilayah Administrasi Provinsi</td>
+
+<td>Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Wilayah Administrasi Kabupaten/Kota</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>Sumber Data</td>
+
+<td>Kegiatan Inventarisasi Infrastruktur Kawasan Perkotaan Sokaraja Th.2019</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SHAPE_Length</td>
+
+<td>0.004948</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						109.304924376,-7.455588195000019,0 109.304710729,-7.45541734599999,0 109.304527986,-7.455325974000004,0 109.304131092,-7.455353100000025,0 109.303782739,-7.455381654000007,0 109.303110303,-7.455308842000022,0 109.302325081,-7.455260301000011,0 109.301805407,-7.455297421000012,0 109.301205783,-7.455335967999986,0 109.300698958,-7.455340250999996,0 109.300068331,-7.455353516999992,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00048">
+			<name>Jaringan Serat Optik</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Polyline</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama Objek</td>
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>Orde 1</td>
+
+<td>Jaringan Tetap</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Orde 2</td>
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis Rencana Struktur Ruang</td>
+
+<td>Rencana Jaringan Telekomunikasi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Status Jaringan</td>
+
+<td>Eksisting</td>
+
+</tr>
+
+<tr>
+
+<td>Wilayah Administrasi Provinsi</td>
+
+<td>Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Wilayah Administrasi Kabupaten/Kota</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>Sumber Data</td>
+
+<td>Kegiatan Inventarisasi Infrastruktur Kawasan Perkotaan Sokaraja Th.2019</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SHAPE_Length</td>
+
+<td>0.003431</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						109.30020139,-7.451935166999988,0 109.300226397,-7.453018134999979,0 109.300229966,-7.453542805999973,0 109.300242835,-7.45410022599998,0 109.300068331,-7.455353516999992,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00049">
+			<name>Jaringan Serat Optik</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Polyline</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama Objek</td>
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>Orde 1</td>
+
+<td>Jaringan Tetap</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Orde 2</td>
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis Rencana Struktur Ruang</td>
+
+<td>Rencana Jaringan Telekomunikasi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Status Jaringan</td>
+
+<td>Eksisting</td>
+
+</tr>
+
+<tr>
+
+<td>Wilayah Administrasi Provinsi</td>
+
+<td>Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Wilayah Administrasi Kabupaten/Kota</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>Sumber Data</td>
+
+<td>Kegiatan Inventarisasi Infrastruktur Kawasan Perkotaan Sokaraja Th.2019</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SHAPE_Length</td>
+
+<td>0.003688</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						109.281249778,-7.457764837000013,0 109.281986309,-7.457585882999979,0 109.281929513,-7.45739906099999,0 109.281786377,-7.457226257999992,0 109.281628962,-7.457027084000004,0 109.281230755,-7.45711166000001,0 109.281115279,-7.457221257000014,0 109.281161354,-7.457420420999995,0 109.281242965,-7.457732136999994,0 109.281358333,-7.458200660999978,0 109.281417152,-7.458483183999988,0 109.281474906,-7.458871832,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00050">
+			<name>Jaringan Serat Optik</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Polyline</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama Objek</td>
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>Orde 1</td>
+
+<td>Jaringan Tetap</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Orde 2</td>
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis Rencana Struktur Ruang</td>
+
+<td>Rencana Jaringan Telekomunikasi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Status Jaringan</td>
+
+<td>Eksisting</td>
+
+</tr>
+
+<tr>
+
+<td>Wilayah Administrasi Provinsi</td>
+
+<td>Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Wilayah Administrasi Kabupaten/Kota</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>Sumber Data</td>
+
+<td>Kegiatan Inventarisasi Infrastruktur Kawasan Perkotaan Sokaraja Th.2019</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SHAPE_Length</td>
+
+<td>0.000661</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						109.28179875,-7.457241196999974,0 109.281156068,-7.457397571000001,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00051">
+			<name>Jaringan Serat Optik</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Polyline</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama Objek</td>
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>Orde 1</td>
+
+<td>Jaringan Tetap</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Orde 2</td>
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis Rencana Struktur Ruang</td>
+
+<td>Rencana Jaringan Telekomunikasi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Status Jaringan</td>
+
+<td>Eksisting</td>
+
+</tr>
+
+<tr>
+
+<td>Wilayah Administrasi Provinsi</td>
+
+<td>Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Wilayah Administrasi Kabupaten/Kota</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>Sumber Data</td>
+
+<td>Kegiatan Inventarisasi Infrastruktur Kawasan Perkotaan Sokaraja Th.2019</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SHAPE_Length</td>
+
+<td>0.002876</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						109.28058398,-7.456868765000024,0 109.280583986,-7.456867328999978,0 109.28061434,-7.457196151999995,0 109.280622,-7.457430999999986,0 109.280613835,-7.457718537000004,0 109.28024573,-7.457705621999992,0 109.280140046,-7.457762627000022,0 109.280142626,-7.458084165000003,0 109.280569746,-7.458206399000005,0 109.280663776,-7.458187625999983,0 109.281318836,-7.458040257999983,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00052">
+			<name>Jaringan Serat Optik</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Polyline</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama Objek</td>
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>Orde 1</td>
+
+<td>Jaringan Tetap</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Orde 2</td>
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis Rencana Struktur Ruang</td>
+
+<td>Rencana Jaringan Telekomunikasi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Status Jaringan</td>
+
+<td>Eksisting</td>
+
+</tr>
+
+<tr>
+
+<td>Wilayah Administrasi Provinsi</td>
+
+<td>Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Wilayah Administrasi Kabupaten/Kota</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>Sumber Data</td>
+
+<td>Kegiatan Inventarisasi Infrastruktur Kawasan Perkotaan Sokaraja Th.2019</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SHAPE_Length</td>
+
+<td>0.000555</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						109.281156068,-7.457397571000001,0 109.280802376,-7.457480472999976,0 109.280737058,-7.457442081000011,0 109.280622,-7.457430999999986,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00053">
+			<name>Jaringan Serat Optik</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Polyline</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama Objek</td>
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>Orde 1</td>
+
+<td>Jaringan Tetap</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Orde 2</td>
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis Rencana Struktur Ruang</td>
+
+<td>Rencana Jaringan Telekomunikasi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Status Jaringan</td>
+
+<td>Eksisting</td>
+
+</tr>
+
+<tr>
+
+<td>Wilayah Administrasi Provinsi</td>
+
+<td>Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Wilayah Administrasi Kabupaten/Kota</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>Sumber Data</td>
+
+<td>Kegiatan Inventarisasi Infrastruktur Kawasan Perkotaan Sokaraja Th.2019</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SHAPE_Length</td>
+
+<td>0.000979</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						109.280614376,-7.458197488999985,0 109.280568357,-7.457923717000028,0 109.281250947,-7.457764553000004,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00054">
+			<name>Jaringan Serat Optik</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Polyline</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama Objek</td>
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>Orde 1</td>
+
+<td>Jaringan Tetap</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Orde 2</td>
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis Rencana Struktur Ruang</td>
+
+<td>Rencana Jaringan Telekomunikasi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Status Jaringan</td>
+
+<td>Eksisting</td>
+
+</tr>
+
+<tr>
+
+<td>Wilayah Administrasi Provinsi</td>
+
+<td>Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Wilayah Administrasi Kabupaten/Kota</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>Sumber Data</td>
+
+<td>Kegiatan Inventarisasi Infrastruktur Kawasan Perkotaan Sokaraja Th.2019</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SHAPE_Length</td>
+
+<td>0.000379</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						109.280940235,-7.457837003999998,0 109.280847448,-7.457469908000008,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00055">
+			<name>Jaringan Serat Optik</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Polyline</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama Objek</td>
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>Orde 1</td>
+
+<td>Jaringan Tetap</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Orde 2</td>
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis Rencana Struktur Ruang</td>
+
+<td>Rencana Jaringan Telekomunikasi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Status Jaringan</td>
+
+<td>Eksisting</td>
+
+</tr>
+
+<tr>
+
+<td>Wilayah Administrasi Provinsi</td>
+
+<td>Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Wilayah Administrasi Kabupaten/Kota</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>Sumber Data</td>
+
+<td>Kegiatan Inventarisasi Infrastruktur Kawasan Perkotaan Sokaraja Th.2019</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SHAPE_Length</td>
+
+<td>0.001126</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						109.280589982,-7.456932283000016,0 109.280140722,-7.456951011000001,0 109.280149469,-7.45716635399998,0 109.28060935,-7.457142095999984,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00056">
+			<name>Jaringan Serat Optik</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Polyline</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama Objek</td>
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>Orde 1</td>
+
+<td>Jaringan Tetap</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Orde 2</td>
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis Rencana Struktur Ruang</td>
+
+<td>Rencana Jaringan Telekomunikasi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Status Jaringan</td>
+
+<td>Eksisting</td>
+
+</tr>
+
+<tr>
+
+<td>Wilayah Administrasi Provinsi</td>
+
+<td>Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Wilayah Administrasi Kabupaten/Kota</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>Sumber Data</td>
+
+<td>Kegiatan Inventarisasi Infrastruktur Kawasan Perkotaan Sokaraja Th.2019</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SHAPE_Length</td>
+
+<td>0.001436</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						109.287192149,-7.458899034000012,0 109.287042225,-7.458825694999973,0 109.286944464,-7.458817660000023,0 109.286410465,-7.457775099999992,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00057">
+			<name>Jaringan Serat Optik</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Polyline</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama Objek</td>
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>Orde 1</td>
+
+<td>Jaringan Tetap</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Orde 2</td>
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis Rencana Struktur Ruang</td>
+
+<td>Rencana Jaringan Telekomunikasi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Status Jaringan</td>
+
+<td>Eksisting</td>
+
+</tr>
+
+<tr>
+
+<td>Wilayah Administrasi Provinsi</td>
+
+<td>Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Wilayah Administrasi Kabupaten/Kota</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>Sumber Data</td>
+
+<td>Kegiatan Inventarisasi Infrastruktur Kawasan Perkotaan Sokaraja Th.2019</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SHAPE_Length</td>
+
+<td>0.001089</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						109.28611069,-7.456760855000027,0 109.286601189,-7.457732647,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00058">
+			<name>Jaringan Serat Optik</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Polyline</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama Objek</td>
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>Orde 1</td>
+
+<td>Jaringan Tetap</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Orde 2</td>
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis Rencana Struktur Ruang</td>
+
+<td>Rencana Jaringan Telekomunikasi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Status Jaringan</td>
+
+<td>Eksisting</td>
+
+</tr>
+
+<tr>
+
+<td>Wilayah Administrasi Provinsi</td>
+
+<td>Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Wilayah Administrasi Kabupaten/Kota</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>Sumber Data</td>
+
+<td>Kegiatan Inventarisasi Infrastruktur Kawasan Perkotaan Sokaraja Th.2019</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SHAPE_Length</td>
+
+<td>0.004633</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						109.283102383,-7.458474523999997,0 109.282851905,-7.457445096000015,0 109.284415324,-7.457118632000004,0 109.28473097,-7.457031101999974,0 109.28535467,-7.456897636000008,0 109.28611069,-7.456760855000027,0 109.286270017,-7.456715540000005,0 109.286331688,-7.456669637999994,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00059">
+			<name>Jaringan Serat Optik</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Polyline</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama Objek</td>
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>Orde 1</td>
+
+<td>Jaringan Tetap</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Orde 2</td>
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis Rencana Struktur Ruang</td>
+
+<td>Rencana Jaringan Telekomunikasi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Status Jaringan</td>
+
+<td>Eksisting</td>
+
+</tr>
+
+<tr>
+
+<td>Wilayah Administrasi Provinsi</td>
+
+<td>Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Wilayah Administrasi Kabupaten/Kota</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>Sumber Data</td>
+
+<td>Kegiatan Inventarisasi Infrastruktur Kawasan Perkotaan Sokaraja Th.2019</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SHAPE_Length</td>
+
+<td>0.003668</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						109.28354094,-7.457301217000007,0 109.283003917,-7.456109573999981,0 109.285322551,-7.455664463999995,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00060">
+			<name>Jaringan Serat Optik</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Polyline</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama Objek</td>
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>Orde 1</td>
+
+<td>Jaringan Tetap</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Orde 2</td>
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis Rencana Struktur Ruang</td>
+
+<td>Rencana Jaringan Telekomunikasi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Status Jaringan</td>
+
+<td>Eksisting</td>
+
+</tr>
+
+<tr>
+
+<td>Wilayah Administrasi Provinsi</td>
+
+<td>Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Wilayah Administrasi Kabupaten/Kota</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>Sumber Data</td>
+
+<td>Kegiatan Inventarisasi Infrastruktur Kawasan Perkotaan Sokaraja Th.2019</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SHAPE_Length</td>
+
+<td>0.002652</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						109.283003917,-7.456109573999981,0 109.28275904,-7.455535661999988,0 109.284529166,-7.455212390999974,0 109.284737939,-7.455120016000023,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00061">
+			<name>Jaringan Serat Optik</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Polyline</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama Objek</td>
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>Orde 1</td>
+
+<td>Jaringan Tetap</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Orde 2</td>
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis Rencana Struktur Ruang</td>
+
+<td>Rencana Jaringan Telekomunikasi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Status Jaringan</td>
+
+<td>Eksisting</td>
+
+</tr>
+
+<tr>
+
+<td>Wilayah Administrasi Provinsi</td>
+
+<td>Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Wilayah Administrasi Kabupaten/Kota</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>Sumber Data</td>
+
+<td>Kegiatan Inventarisasi Infrastruktur Kawasan Perkotaan Sokaraja Th.2019</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SHAPE_Length</td>
+
+<td>0.002844</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						109.28275904,-7.455535661999988,0 109.282595,-7.455237000000011,0 109.282482,-7.455060000000003,0 109.28215237,-7.454190854999978,0 109.283342142,-7.453948586000024,0 109.283461,-7.453911000000004,0 109.283478629,-7.453893477000008,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00062">
+			<name>Jaringan Serat Optik</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Polyline</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama Objek</td>
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>Orde 1</td>
+
+<td>Jaringan Tetap</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Orde 2</td>
+
+<td>Jaringan Serat Optik</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis Rencana Struktur Ruang</td>
+
+<td>Rencana Jaringan Telekomunikasi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Status Jaringan</td>
+
+<td>Eksisting</td>
+
+</tr>
+
+<tr>
+
+<td>Wilayah Administrasi Provinsi</td>
+
+<td>Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Wilayah Administrasi Kabupaten/Kota</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>Sumber Data</td>
+
+<td>Kegiatan Inventarisasi Infrastruktur Kawasan Perkotaan Sokaraja Th.2019</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SHAPE_Length</td>
+
+<td>0.003202</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						109.279614094,-7.45613727099999,0 109.280040668,-7.456057269999974,0 109.28275904,-7.455535661999988,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

@@ -1,0 +1,736 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="Tematik_Jar_Air_Minum_LN" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+	<name>Tematik_Jar_Air_Minum_LN</name>
+	<Snippet maxLines="0"></Snippet>
+	<Style id="LineStyle00">
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<width>10</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>00000000</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Folder id="FeatureLayer0">
+		<name>Tematik_Jar_Air_Minum_LN</name>
+		<Snippet maxLines="0"></Snippet>
+		<Placemark id="ID_00000">
+			<name>Unit Distribusi</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Unit Distribusi</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>OBJECTID_1</td>
+
+<td>1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMA_OBJEK</td>
+
+<td>Unit Distribusi</td>
+
+</tr>
+
+<tr>
+
+<td>JENIS</td>
+
+<td>Jaringan Perpipaan</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SUMBER_DAT</td>
+
+<td>PDAM Kab. Banyumas tahun 2017</td>
+
+</tr>
+
+<tr>
+
+<td>SHAPE_Leng</td>
+
+<td>0.001487</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						109.2873190710709,-7.457691690295452,0 109.287276323835,-7.45917809100768,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00001">
+			<name>Unit Distribusi</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Unit Distribusi</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>OBJECTID_1</td>
+
+<td>2</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMA_OBJEK</td>
+
+<td>Unit Distribusi</td>
+
+</tr>
+
+<tr>
+
+<td>JENIS</td>
+
+<td>Jaringan Perpipaan</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SUMBER_DAT</td>
+
+<td>PDAM Kab. Banyumas tahun 2017</td>
+
+</tr>
+
+<tr>
+
+<td>SHAPE_Leng</td>
+
+<td>0.008444</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						109.2873190710709,-7.457691690295452,0 109.2870346998806,-7.457693635755902,0 109.2866261878896,-7.457775805713061,0 109.2850076383749,-7.45806023470696,0 109.2844991771672,-7.458144385579804,0 109.28302603389,-7.458462718987851,0 109.2817543814138,-7.458860993192159,0 109.2811707968975,-7.458941948168164,0 109.2805926836608,-7.458968915001864,0 109.2794603038905,-7.458934605148527,0 109.2790170958793,-7.458932879934325,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00002">
+			<name>Unit Produksi</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Unit Produksi</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>OBJECTID_1</td>
+
+<td>3</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMA_OBJEK</td>
+
+<td>Unit Produksi</td>
+
+</tr>
+
+<tr>
+
+<td>JENIS</td>
+
+<td>Jaringan Perpipaan</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SUMBER_DAT</td>
+
+<td>PDAM Kab. Banyumas tahun 2017</td>
+
+</tr>
+
+<tr>
+
+<td>SHAPE_Leng</td>
+
+<td>0.00921</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						109.2986598341612,-7.45770176942525,0 109.2990944998156,-7.457342506992578,0 109.2989297862752,-7.457237144566424,0 109.2986167008607,-7.457111828991503,0 109.2977645760154,-7.456811899104122,0 109.2974391621916,-7.456667106142465,0 109.297372606234,-7.456523308839439,0 109.2969565717805,-7.455019317855237,0 109.2963887899519,-7.453088905565915,0 109.2954776568516,-7.450695449587228,0 109.2952386181203,-7.450187020145278,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00003">
+			<name>Unit Produksi</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Unit Produksi</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>OBJECTID_1</td>
+
+<td>4</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMA_OBJEK</td>
+
+<td>Unit Produksi</td>
+
+</tr>
+
+<tr>
+
+<td>JENIS</td>
+
+<td>Jaringan Perpipaan</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SUMBER_DAT</td>
+
+<td>PDAM Kab. Banyumas tahun 2017</td>
+
+</tr>
+
+<tr>
+
+<td>SHAPE_Leng</td>
+
+<td>0.007963</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						109.3057975329179,-7.454985266158491,0 109.3047017592123,-7.456014576615562,0 109.3040121905701,-7.456609829285287,0 109.3036563168248,-7.456905115412646,0 109.3022529143857,-7.457847098375281,0 109.3018779373926,-7.458123170184338,0 109.3016668298512,-7.458170206403748,0 109.3014942576829,-7.45816954344942,0 109.3006901007104,-7.457860232644414,0 109.2998763581279,-7.457550884667489,0 109.2990944998156,-7.457342506992578,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00004">
+			<name>Unit Produksi</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Unit Produksi</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>OBJECTID_1</td>
+
+<td>5</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMA_OBJEK</td>
+
+<td>Unit Produksi</td>
+
+</tr>
+
+<tr>
+
+<td>JENIS</td>
+
+<td>Jaringan Perpipaan</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SUMBER_DAT</td>
+
+<td>PDAM Kab. Banyumas tahun 2017</td>
+
+</tr>
+
+<tr>
+
+<td>SHAPE_Leng</td>
+
+<td>0.011379</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						109.2986598341612,-7.45770176942525,0 109.2981707222194,-7.457552708409888,0 109.2976684318875,-7.457468288266351,0 109.2970670666146,-7.457405569049906,0 109.2955226076421,-7.457506910840829,0 109.291802288356,-7.457607386116791,0 109.290603689856,-7.457650599709042,0 109.2884655011147,-7.457699743698043,0 109.2873190710709,-7.457691690295452,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00005">
+			<name>Unit Distribusi</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Unit Distribusi</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>OBJECTID_1</td>
+
+<td>6</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMA_OBJEK</td>
+
+<td>Unit Distribusi</td>
+
+</tr>
+
+<tr>
+
+<td>JENIS</td>
+
+<td>Jaringan Perpipaan</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SUMBER_DAT</td>
+
+<td>PDAM Kab. Banyumas tahun 2017</td>
+
+</tr>
+
+<tr>
+
+<td>SHAPE_Leng</td>
+
+<td>0.004813</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						109.2854243530048,-7.46339215079661,0 109.2854405076951,-7.463359220714969,0 109.285585414137,-7.463078684828844,0 109.2856160037023,-7.462917321646368,0 109.2856524217505,-7.462797846609464,0 109.2857133919887,-7.462528947292399,0 109.2857627722048,-7.462158328360915,0 109.2858054163733,-7.461979069259922,0 109.2859016388527,-7.461889730248007,0 109.2861543548957,-7.461621572699961,0 109.286455473163,-7.461233988024465,0 109.2867565443241,-7.460858364297295,0 109.2869369578199,-7.460691599548618,0 109.2871900447501,-7.460327750824892,0 109.2872627405989,-7.460124684925475,0 109.2873111203624,-7.46001123712175,0 109.2872876874252,-7.45987358721646,0 109.2873065354255,-7.459175337273359,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00006">
+			<name>Unit Produksi</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Unit Produksi</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>OBJECTID_1</td>
+
+<td>7</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMA_OBJEK</td>
+
+<td>Unit Produksi</td>
+
+</tr>
+
+<tr>
+
+<td>JENIS</td>
+
+<td>Jaringan Perpipaan</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SUMBER_DAT</td>
+
+<td>PDAM Kab. Banyumas tahun 2017</td>
+
+</tr>
+
+<tr>
+
+<td>SHAPE_Leng</td>
+
+<td>0.012553</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						109.2873190710709,-7.457691690295452,0 109.2872795860715,-7.457641986186165,0 109.2856390392165,-7.456050700374869,0 109.2826304368119,-7.453120393322855,0 109.280195092911,-7.450706650989265,0 109.278316776748,-7.448944782659161,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00007">
+			<name>Unit Produksi</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Unit Produksi</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>OBJECTID_1</td>
+
+<td>8</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMA_OBJEK</td>
+
+<td>Unit Produksi</td>
+
+</tr>
+
+<tr>
+
+<td>JENIS</td>
+
+<td>Jaringan Perpipaan</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SUMBER_DAT</td>
+
+<td>PDAM Kab. Banyumas tahun 2017</td>
+
+</tr>
+
+<tr>
+
+<td>SHAPE_Leng</td>
+
+<td>0.009588</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						109.2995007787508,-7.467235325413006,0 109.2992526903293,-7.465006146571542,0 109.2991318480802,-7.46370086314775,0 109.2989811140144,-7.462390475386219,0 109.2988717701221,-7.461223788147383,0 109.298809531428,-7.46027259168477,0 109.2987550700994,-7.45818883175142,0 109.2987294382296,-7.457874857883297,0 109.2987106402875,-7.45777717819485,0 109.2986598341612,-7.45770176942525,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

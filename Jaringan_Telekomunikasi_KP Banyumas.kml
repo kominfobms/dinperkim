@@ -1,0 +1,12853 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="Jaringan_Telekomunikasi" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+	<name>Jaringan_Telekomunikasi</name>
+	<Snippet maxLines="0"></Snippet>
+	<Style id="IconStyle00">
+		<IconStyle>
+			<scale>1.09375</scale>
+			<Icon>
+				<href>Layer0_Symbol_9226e38_0_0.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<PolyStyle>
+			<color>ff000000</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="IconStyle09">
+		<IconStyle>
+			<Icon>
+				<href>Layer0_Symbol_9227128_0_0.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<PolyStyle>
+			<color>ff000000</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="IconStyle01">
+		<IconStyle>
+			<Icon>
+				<href>Layer0_Symbol_9226fb0_0_0.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<PolyStyle>
+			<color>ff000000</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="IconStyle03">
+		<IconStyle>
+			<scale>1.09375</scale>
+			<Icon>
+				<href>Layer0_Symbol_9226cc0_0_0.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<PolyStyle>
+			<color>ff000000</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Folder id="FeatureLayer0">
+		<name>Jaringan_Telekomunikasi</name>
+		<Snippet maxLines="0"></Snippet>
+		<Placemark id="ID_00000">
+			<name>STO</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>STO</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>NAMOBJ</td>
+
+<td>STO</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Desa</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>KET</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE01</td>
+
+<td>Jaringan Tetap</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE02</td>
+
+<td>STO</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>JNSRSR</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>STSJRN</td>
+
+<td>Eksisting</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Garis_Lint</td>
+
+<td>-7,516377</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Bujur</td>
+
+<td>109,295859</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>109.2958589791356,-7.51637676764109,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00001">
+			<name>Rumah Kabel</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Rumah Kabel</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>NAMOBJ</td>
+
+<td>Rumah Kabel</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Desa</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>KET</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE01</td>
+
+<td>Jaringan Tetap</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE02</td>
+
+<td>Rumah Kabel</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>JNSRSR</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>STSJRN</td>
+
+<td>Eksisting</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Garis_Lint</td>
+
+<td>-7,528342</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Bujur</td>
+
+<td>109,294733</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle01</styleUrl>
+			<Point>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>109.2947330665743,-7.528341581586092,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00002">
+			<name>Rumah Kabel</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Rumah Kabel</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>2</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>NAMOBJ</td>
+
+<td>Rumah Kabel</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Desa</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>KET</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE01</td>
+
+<td>Jaringan Tetap</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE02</td>
+
+<td>Rumah Kabel</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>JNSRSR</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>STSJRN</td>
+
+<td>Eksisting</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Garis_Lint</td>
+
+<td>-7,516025</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Bujur</td>
+
+<td>109,296054</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle01</styleUrl>
+			<Point>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>109.2960541741803,-7.516025184494592,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00003">
+			<name>BTS</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>BTS</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>3</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>NAMOBJ</td>
+
+<td>BTS</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Desa</td>
+
+<td>Sudagaran</td>
+
+</tr>
+
+<tr>
+
+<td>KET</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE01</td>
+
+<td>Jaringan Bergerak Seluler</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE02</td>
+
+<td>BTS</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>JNSRSR</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>STSJRN</td>
+
+<td>Eksisting</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Garis_Lint</td>
+
+<td>-7,514067</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Bujur</td>
+
+<td>109,294667</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle03</styleUrl>
+			<Point>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>109.2946668036471,-7.514066755161448,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00004">
+			<name>BTS</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>BTS</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>4</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>NAMOBJ</td>
+
+<td>BTS</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Desa</td>
+
+<td>Sudagaran</td>
+
+</tr>
+
+<tr>
+
+<td>KET</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE01</td>
+
+<td>Jaringan Bergerak Seluler</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE02</td>
+
+<td>BTS</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>JNSRSR</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>STSJRN</td>
+
+<td>Eksisting</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Garis_Lint</td>
+
+<td>-7,516059</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Bujur</td>
+
+<td>109,295963</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle03</styleUrl>
+			<Point>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>109.2959631005587,-7.516058622518764,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00005">
+			<name>BTS</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>BTS</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>5</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>NAMOBJ</td>
+
+<td>BTS</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Desa</td>
+
+<td>Sudagaran</td>
+
+</tr>
+
+<tr>
+
+<td>KET</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE01</td>
+
+<td>Jaringan Bergerak Seluler</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE02</td>
+
+<td>BTS</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>JNSRSR</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>STSJRN</td>
+
+<td>Eksisting</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Garis_Lint</td>
+
+<td>-7,510265</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Bujur</td>
+
+<td>109,293992</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle03</styleUrl>
+			<Point>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>109.2939924496492,-7.510265113039107,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00006">
+			<name>BTS</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>BTS</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>6</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>NAMOBJ</td>
+
+<td>BTS</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Desa</td>
+
+<td>Kedunguter</td>
+
+</tr>
+
+<tr>
+
+<td>KET</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE01</td>
+
+<td>Jaringan Bergerak Seluler</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE02</td>
+
+<td>BTS</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>JNSRSR</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>STSJRN</td>
+
+<td>Eksisting</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Garis_Lint</td>
+
+<td>-7,516115</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Bujur</td>
+
+<td>109,296567</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle03</styleUrl>
+			<Point>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>109.2965668215616,-7.516115093227157,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00007">
+			<name>BTS</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>BTS</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>7</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>NAMOBJ</td>
+
+<td>BTS</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Desa</td>
+
+<td>Kedunguter</td>
+
+</tr>
+
+<tr>
+
+<td>KET</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE01</td>
+
+<td>Jaringan Bergerak Seluler</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE02</td>
+
+<td>BTS</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>JNSRSR</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>STSJRN</td>
+
+<td>Eksisting</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Garis_Lint</td>
+
+<td>-7,513623</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Bujur</td>
+
+<td>109,296251</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle03</styleUrl>
+			<Point>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>109.2962505167094,-7.513623446168633,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00008">
+			<name>BTS</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>BTS</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>8</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>NAMOBJ</td>
+
+<td>BTS</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Desa</td>
+
+<td>Sudagaran</td>
+
+</tr>
+
+<tr>
+
+<td>KET</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE01</td>
+
+<td>Jaringan Bergerak Seluler</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE02</td>
+
+<td>BTS</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>JNSRSR</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>STSJRN</td>
+
+<td>Eksisting</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Garis_Lint</td>
+
+<td>-7,528046</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Bujur</td>
+
+<td>109,296012</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle03</styleUrl>
+			<Point>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>109.2960120603056,-7.52804589279028,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00009">
+			<name>Kotak Pembagi</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>9</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>NAMOBJ</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Desa</td>
+
+<td>Kejawar</td>
+
+</tr>
+
+<tr>
+
+<td>KET</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE01</td>
+
+<td>Jaringan Tetap</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE02</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>JNSRSR</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>STSJRN</td>
+
+<td>Eksisting</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Garis_Lint</td>
+
+<td>-7,535084</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Bujur</td>
+
+<td>109,293763</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle09</styleUrl>
+			<Point>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>109.2937633456392,-7.535083741986292,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00010">
+			<name>Kotak Pembagi</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>10</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>NAMOBJ</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Desa</td>
+
+<td>Kejawar</td>
+
+</tr>
+
+<tr>
+
+<td>KET</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE01</td>
+
+<td>Jaringan Tetap</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE02</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>JNSRSR</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>STSJRN</td>
+
+<td>Eksisting</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Garis_Lint</td>
+
+<td>-7,534742</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Bujur</td>
+
+<td>109,293856</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle09</styleUrl>
+			<Point>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>109.2938556603179,-7.534741998868251,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00011">
+			<name>Kotak Pembagi</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>11</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>NAMOBJ</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Desa</td>
+
+<td>Kejawar</td>
+
+</tr>
+
+<tr>
+
+<td>KET</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE01</td>
+
+<td>Jaringan Tetap</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE02</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>JNSRSR</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>STSJRN</td>
+
+<td>Eksisting</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Garis_Lint</td>
+
+<td>-7,52849</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Bujur</td>
+
+<td>109,294792</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle09</styleUrl>
+			<Point>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>109.2947922755973,-7.528489705910153,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00012">
+			<name>Kotak Pembagi</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>12</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>NAMOBJ</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Desa</td>
+
+<td>Kejawar</td>
+
+</tr>
+
+<tr>
+
+<td>KET</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE01</td>
+
+<td>Jaringan Tetap</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE02</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>JNSRSR</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>STSJRN</td>
+
+<td>Eksisting</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Garis_Lint</td>
+
+<td>-7,529164</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Bujur</td>
+
+<td>109,294646</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle09</styleUrl>
+			<Point>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>109.2946458054793,-7.529163772811759,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00013">
+			<name>Kotak Pembagi</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>13</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>NAMOBJ</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Desa</td>
+
+<td>Kejawar</td>
+
+</tr>
+
+<tr>
+
+<td>KET</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE01</td>
+
+<td>Jaringan Tetap</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE02</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>JNSRSR</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>STSJRN</td>
+
+<td>Eksisting</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Garis_Lint</td>
+
+<td>-7,528314</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Bujur</td>
+
+<td>109,292103</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle09</styleUrl>
+			<Point>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>109.2921032469145,-7.528314160081033,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00014">
+			<name>Kotak Pembagi</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>14</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>NAMOBJ</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Desa</td>
+
+<td>Kedunggede</td>
+
+</tr>
+
+<tr>
+
+<td>KET</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE01</td>
+
+<td>Jaringan Tetap</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE02</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>JNSRSR</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>STSJRN</td>
+
+<td>Eksisting</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Garis_Lint</td>
+
+<td>-7,529372</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Bujur</td>
+
+<td>109,291202</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle09</styleUrl>
+			<Point>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>109.2912019347217,-7.529371641855459,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00015">
+			<name>Kotak Pembagi</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>15</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>NAMOBJ</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Desa</td>
+
+<td>Kedunggede</td>
+
+</tr>
+
+<tr>
+
+<td>KET</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE01</td>
+
+<td>Jaringan Tetap</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE02</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>JNSRSR</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>STSJRN</td>
+
+<td>Eksisting</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Garis_Lint</td>
+
+<td>-7,529626</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Bujur</td>
+
+<td>109,291153</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle09</styleUrl>
+			<Point>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>109.2911529946596,-7.529625635537133,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00016">
+			<name>Kotak Pembagi</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>16</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>NAMOBJ</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Desa</td>
+
+<td>Kedunggede</td>
+
+</tr>
+
+<tr>
+
+<td>KET</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE01</td>
+
+<td>Jaringan Tetap</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE02</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>JNSRSR</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>STSJRN</td>
+
+<td>Eksisting</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Garis_Lint</td>
+
+<td>-7,530314</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Bujur</td>
+
+<td>109,290041</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle09</styleUrl>
+			<Point>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>109.2900408474667,-7.530313873108193,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00017">
+			<name>Kotak Pembagi</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>17</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>NAMOBJ</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Desa</td>
+
+<td>Kedunggede</td>
+
+</tr>
+
+<tr>
+
+<td>KET</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE01</td>
+
+<td>Jaringan Tetap</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE02</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>JNSRSR</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>STSJRN</td>
+
+<td>Eksisting</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Garis_Lint</td>
+
+<td>-7,530969</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Bujur</td>
+
+<td>109,289955</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle09</styleUrl>
+			<Point>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>109.2899554535027,-7.530969036514072,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00018">
+			<name>Kotak Pembagi</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>18</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>NAMOBJ</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Desa</td>
+
+<td>Kedunggede</td>
+
+</tr>
+
+<tr>
+
+<td>KET</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE01</td>
+
+<td>Jaringan Tetap</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE02</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>JNSRSR</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>STSJRN</td>
+
+<td>Eksisting</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Garis_Lint</td>
+
+<td>-7,533255</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Bujur</td>
+
+<td>109,287945</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle09</styleUrl>
+			<Point>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>109.2879447676017,-7.533254818880951,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00019">
+			<name>Kotak Pembagi</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>19</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>NAMOBJ</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Desa</td>
+
+<td>Kedunggede</td>
+
+</tr>
+
+<tr>
+
+<td>KET</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE01</td>
+
+<td>Jaringan Tetap</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE02</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>JNSRSR</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>STSJRN</td>
+
+<td>Eksisting</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Garis_Lint</td>
+
+<td>-7,533473</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Bujur</td>
+
+<td>109,287864</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle09</styleUrl>
+			<Point>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>109.2878636006714,-7.533473398868591,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00020">
+			<name>Kotak Pembagi</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>20</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>NAMOBJ</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Desa</td>
+
+<td>Kejawar</td>
+
+</tr>
+
+<tr>
+
+<td>KET</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE01</td>
+
+<td>Jaringan Tetap</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE02</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>JNSRSR</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>STSJRN</td>
+
+<td>Eksisting</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Garis_Lint</td>
+
+<td>-7,528324</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Bujur</td>
+
+<td>109,293914</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle09</styleUrl>
+			<Point>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>109.2939140924173,-7.528323608328185,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00021">
+			<name>Kotak Pembagi</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>21</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>NAMOBJ</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Desa</td>
+
+<td>Kejawar</td>
+
+</tr>
+
+<tr>
+
+<td>KET</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE01</td>
+
+<td>Jaringan Tetap</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE02</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>JNSRSR</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>STSJRN</td>
+
+<td>Eksisting</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Garis_Lint</td>
+
+<td>-7,531322</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Bujur</td>
+
+<td>109,295551</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle09</styleUrl>
+			<Point>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>109.2955510859997,-7.531322068771016,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00022">
+			<name>Kotak Pembagi</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>22</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>NAMOBJ</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Desa</td>
+
+<td>Danaraja</td>
+
+</tr>
+
+<tr>
+
+<td>KET</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE01</td>
+
+<td>Jaringan Tetap</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE02</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>JNSRSR</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>STSJRN</td>
+
+<td>Eksisting</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Garis_Lint</td>
+
+<td>-7,528345</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Bujur</td>
+
+<td>109,308935</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle09</styleUrl>
+			<Point>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>109.3089354392058,-7.52834524726503,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00023">
+			<name>Kotak Pembagi</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>23</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>NAMOBJ</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Desa</td>
+
+<td>Kedunguter</td>
+
+</tr>
+
+<tr>
+
+<td>KET</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE01</td>
+
+<td>Jaringan Tetap</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE02</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>JNSRSR</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>STSJRN</td>
+
+<td>Eksisting</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Garis_Lint</td>
+
+<td>-7,519333</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Bujur</td>
+
+<td>109,301988</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle09</styleUrl>
+			<Point>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>109.3019876594676,-7.519333224838447,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00024">
+			<name>Kotak Pembagi</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>24</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>NAMOBJ</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Desa</td>
+
+<td>Kedunguter</td>
+
+</tr>
+
+<tr>
+
+<td>KET</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE01</td>
+
+<td>Jaringan Tetap</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE02</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>JNSRSR</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>STSJRN</td>
+
+<td>Eksisting</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Garis_Lint</td>
+
+<td>-7,51895</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Bujur</td>
+
+<td>109,301827</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle09</styleUrl>
+			<Point>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>109.3018273381671,-7.518949829793766,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00025">
+			<name>Kotak Pembagi</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>25</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>NAMOBJ</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Desa</td>
+
+<td>Kedunguter</td>
+
+</tr>
+
+<tr>
+
+<td>KET</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE01</td>
+
+<td>Jaringan Tetap</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE02</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>JNSRSR</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>STSJRN</td>
+
+<td>Eksisting</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Garis_Lint</td>
+
+<td>-7,518225</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Bujur</td>
+
+<td>109,30162</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle09</styleUrl>
+			<Point>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>109.3016203989667,-7.51822534587764,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00026">
+			<name>Kotak Pembagi</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>26</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>NAMOBJ</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Desa</td>
+
+<td>Kedunguter</td>
+
+</tr>
+
+<tr>
+
+<td>KET</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE01</td>
+
+<td>Jaringan Tetap</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE02</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>JNSRSR</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>STSJRN</td>
+
+<td>Eksisting</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Garis_Lint</td>
+
+<td>-7,517189</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Bujur</td>
+
+<td>109,301088</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle09</styleUrl>
+			<Point>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>109.3010880558344,-7.517188597902318,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00027">
+			<name>Kotak Pembagi</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>27</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>NAMOBJ</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Desa</td>
+
+<td>Kedunguter</td>
+
+</tr>
+
+<tr>
+
+<td>KET</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE01</td>
+
+<td>Jaringan Tetap</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE02</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>JNSRSR</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>STSJRN</td>
+
+<td>Eksisting</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Garis_Lint</td>
+
+<td>-7,517155</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Bujur</td>
+
+<td>109,299637</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle09</styleUrl>
+			<Point>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>109.299637283335,-7.517154867535693,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00028">
+			<name>Kotak Pembagi</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>28</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>NAMOBJ</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Desa</td>
+
+<td>Kedunguter</td>
+
+</tr>
+
+<tr>
+
+<td>KET</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE01</td>
+
+<td>Jaringan Tetap</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE02</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>JNSRSR</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>STSJRN</td>
+
+<td>Eksisting</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Garis_Lint</td>
+
+<td>-7,517166</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Bujur</td>
+
+<td>109,298868</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle09</styleUrl>
+			<Point>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>109.2988677391719,-7.517166238343754,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00029">
+			<name>Kotak Pembagi</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>29</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>NAMOBJ</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Desa</td>
+
+<td>Kedunguter</td>
+
+</tr>
+
+<tr>
+
+<td>KET</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE01</td>
+
+<td>Jaringan Tetap</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE02</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>JNSRSR</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>STSJRN</td>
+
+<td>Eksisting</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Garis_Lint</td>
+
+<td>-7,517205</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Bujur</td>
+
+<td>109,29781</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle09</styleUrl>
+			<Point>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>109.2978104244459,-7.51720519938611,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00030">
+			<name>Kotak Pembagi</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>30</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>NAMOBJ</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Desa</td>
+
+<td>Sudagaran</td>
+
+</tr>
+
+<tr>
+
+<td>KET</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE01</td>
+
+<td>Jaringan Tetap</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE02</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>JNSRSR</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>STSJRN</td>
+
+<td>Eksisting</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Garis_Lint</td>
+
+<td>-7,517391</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Bujur</td>
+
+<td>109,297534</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle09</styleUrl>
+			<Point>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>109.2975342620617,-7.517391208382646,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00031">
+			<name>Kotak Pembagi</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>31</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>NAMOBJ</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Desa</td>
+
+<td>Sudagaran</td>
+
+</tr>
+
+<tr>
+
+<td>KET</td>
+
+<td>DisBox</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE01</td>
+
+<td>Jaringan Tetap</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE02</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>JNSRSR</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>STSJRN</td>
+
+<td>Eksisting</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Garis_Lint</td>
+
+<td>-7,517383</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Bujur</td>
+
+<td>109,295973</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle09</styleUrl>
+			<Point>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>109.2959727227748,-7.517382753512736,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00032">
+			<name>Kotak Pembagi</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>32</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>NAMOBJ</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Desa</td>
+
+<td>Sudagaran</td>
+
+</tr>
+
+<tr>
+
+<td>KET</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE01</td>
+
+<td>Jaringan Tetap</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE02</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>JNSRSR</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>STSJRN</td>
+
+<td>Eksisting</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Garis_Lint</td>
+
+<td>-7,517379</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Bujur</td>
+
+<td>109,295673</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle09</styleUrl>
+			<Point>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>109.2956730875172,-7.517379197238121,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00033">
+			<name>Kotak Pembagi</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>33</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>NAMOBJ</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Desa</td>
+
+<td>Sudagaran</td>
+
+</tr>
+
+<tr>
+
+<td>KET</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE01</td>
+
+<td>Jaringan Tetap</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE02</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>JNSRSR</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>STSJRN</td>
+
+<td>Eksisting</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Garis_Lint</td>
+
+<td>-7,517383</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Bujur</td>
+
+<td>109,294069</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle09</styleUrl>
+			<Point>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>109.2940693531344,-7.517382533328855,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00034">
+			<name>Kotak Pembagi</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>34</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>NAMOBJ</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Desa</td>
+
+<td>Sudagaran</td>
+
+</tr>
+
+<tr>
+
+<td>KET</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE01</td>
+
+<td>Jaringan Tetap</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE02</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>JNSRSR</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>STSJRN</td>
+
+<td>Eksisting</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Garis_Lint</td>
+
+<td>-7,517388</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Bujur</td>
+
+<td>109,293667</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle09</styleUrl>
+			<Point>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>109.2936666031909,-7.517388144028646,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00035">
+			<name>Kotak Pembagi</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>35</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>NAMOBJ</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Desa</td>
+
+<td>Sudagaran</td>
+
+</tr>
+
+<tr>
+
+<td>KET</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE01</td>
+
+<td>Jaringan Tetap</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE02</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>JNSRSR</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>STSJRN</td>
+
+<td>Eksisting</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Garis_Lint</td>
+
+<td>-7,5213</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Bujur</td>
+
+<td>109,293778</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle09</styleUrl>
+			<Point>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>109.2937777750333,-7.52130003578171,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00036">
+			<name>Kotak Pembagi</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>36</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>NAMOBJ</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Desa</td>
+
+<td>Sudagaran</td>
+
+</tr>
+
+<tr>
+
+<td>KET</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE01</td>
+
+<td>Jaringan Tetap</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE02</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>JNSRSR</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>STSJRN</td>
+
+<td>Eksisting</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Garis_Lint</td>
+
+<td>-7,527758</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Bujur</td>
+
+<td>109,296004</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle09</styleUrl>
+			<Point>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>109.2960035472664,-7.52775841824903,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00037">
+			<name>Kotak Pembagi</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>37</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>NAMOBJ</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Desa</td>
+
+<td>Sudagaran</td>
+
+</tr>
+
+<tr>
+
+<td>KET</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE01</td>
+
+<td>Jaringan Tetap</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE02</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>JNSRSR</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>STSJRN</td>
+
+<td>Eksisting</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Garis_Lint</td>
+
+<td>-7,525376</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Bujur</td>
+
+<td>109,29608</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle09</styleUrl>
+			<Point>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>109.2960799727881,-7.525375952860884,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00038">
+			<name>Kotak Pembagi</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>38</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>NAMOBJ</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Desa</td>
+
+<td>Sudagaran</td>
+
+</tr>
+
+<tr>
+
+<td>KET</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE01</td>
+
+<td>Jaringan Tetap</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE02</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>JNSRSR</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>STSJRN</td>
+
+<td>Eksisting</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Garis_Lint</td>
+
+<td>-7,521425</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Bujur</td>
+
+<td>109,295724</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle09</styleUrl>
+			<Point>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>109.295723942711,-7.521425426695152,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00039">
+			<name>Kotak Pembagi</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>39</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>NAMOBJ</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Desa</td>
+
+<td>Sudagaran</td>
+
+</tr>
+
+<tr>
+
+<td>KET</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE01</td>
+
+<td>Jaringan Tetap</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE02</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>JNSRSR</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>STSJRN</td>
+
+<td>Eksisting</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Garis_Lint</td>
+
+<td>-7,520598</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Bujur</td>
+
+<td>109,295722</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle09</styleUrl>
+			<Point>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>109.2957221369775,-7.52059815124538,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00040">
+			<name>Kotak Pembagi</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>40</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>NAMOBJ</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Desa</td>
+
+<td>Sudagaran</td>
+
+</tr>
+
+<tr>
+
+<td>KET</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE01</td>
+
+<td>Jaringan Tetap</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE02</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>JNSRSR</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>STSJRN</td>
+
+<td>Eksisting</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Garis_Lint</td>
+
+<td>-7,518751</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Bujur</td>
+
+<td>109,29587</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle09</styleUrl>
+			<Point>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>109.2958695817182,-7.518750647480019,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00041">
+			<name>Kotak Pembagi</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>41</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>NAMOBJ</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Desa</td>
+
+<td>Kedunguter</td>
+
+</tr>
+
+<tr>
+
+<td>KET</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE01</td>
+
+<td>Jaringan Tetap</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE02</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>JNSRSR</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>STSJRN</td>
+
+<td>Eksisting</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Garis_Lint</td>
+
+<td>-7,522396</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Bujur</td>
+
+<td>109,29606</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle09</styleUrl>
+			<Point>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>109.2960602022927,-7.522395508541568,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00042">
+			<name>Kotak Pembagi</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>42</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>NAMOBJ</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Desa</td>
+
+<td>Kedunguter</td>
+
+</tr>
+
+<tr>
+
+<td>KET</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE01</td>
+
+<td>Jaringan Tetap</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE02</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>JNSRSR</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>STSJRN</td>
+
+<td>Eksisting</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Garis_Lint</td>
+
+<td>-7,521376</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Bujur</td>
+
+<td>109,297011</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle09</styleUrl>
+			<Point>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>109.2970113205344,-7.521376002992487,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00043">
+			<name>Kotak Pembagi</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>43</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>NAMOBJ</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Desa</td>
+
+<td>Kedunguter</td>
+
+</tr>
+
+<tr>
+
+<td>KET</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE01</td>
+
+<td>Jaringan Tetap</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE02</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>JNSRSR</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>STSJRN</td>
+
+<td>Eksisting</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Garis_Lint</td>
+
+<td>-7,521954</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Bujur</td>
+
+<td>109,296812</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle09</styleUrl>
+			<Point>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>109.2968124937466,-7.521954175402066,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00044">
+			<name>Kotak Pembagi</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>44</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>NAMOBJ</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Desa</td>
+
+<td>Kedunguter</td>
+
+</tr>
+
+<tr>
+
+<td>KET</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE01</td>
+
+<td>Jaringan Tetap</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE02</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>JNSRSR</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>STSJRN</td>
+
+<td>Eksisting</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Garis_Lint</td>
+
+<td>-7,522177</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Bujur</td>
+
+<td>109,296951</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle09</styleUrl>
+			<Point>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>109.2969510637221,-7.522176801955184,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00045">
+			<name>Kotak Pembagi</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>45</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>NAMOBJ</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Desa</td>
+
+<td>Kedunguter</td>
+
+</tr>
+
+<tr>
+
+<td>KET</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE01</td>
+
+<td>Jaringan Tetap</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE02</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>JNSRSR</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>STSJRN</td>
+
+<td>Eksisting</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Garis_Lint</td>
+
+<td>-7,521091</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Bujur</td>
+
+<td>109,296793</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle09</styleUrl>
+			<Point>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>109.2967934876212,-7.52109066860445,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00046">
+			<name>Kotak Pembagi</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>46</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>NAMOBJ</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Desa</td>
+
+<td>Sudagaran</td>
+
+</tr>
+
+<tr>
+
+<td>KET</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE01</td>
+
+<td>Jaringan Tetap</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE02</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>JNSRSR</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>STSJRN</td>
+
+<td>Eksisting</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Garis_Lint</td>
+
+<td>-7,520538</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Bujur</td>
+
+<td>109,296987</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle09</styleUrl>
+			<Point>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>109.2969874191514,-7.520538194677981,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00047">
+			<name>Kotak Pembagi</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>47</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>NAMOBJ</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Desa</td>
+
+<td>Sudagaran</td>
+
+</tr>
+
+<tr>
+
+<td>KET</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE01</td>
+
+<td>Jaringan Tetap</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE02</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>JNSRSR</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>STSJRN</td>
+
+<td>Eksisting</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Garis_Lint</td>
+
+<td>-7,520961</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Bujur</td>
+
+<td>109,296566</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle09</styleUrl>
+			<Point>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>109.2965662572536,-7.520961198036577,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00048">
+			<name>Kotak Pembagi</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>48</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>NAMOBJ</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Desa</td>
+
+<td>Sudagaran</td>
+
+</tr>
+
+<tr>
+
+<td>KET</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE01</td>
+
+<td>Jaringan Tetap</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE02</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>JNSRSR</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>STSJRN</td>
+
+<td>Eksisting</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Garis_Lint</td>
+
+<td>-7,521308</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Bujur</td>
+
+<td>109,296191</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle09</styleUrl>
+			<Point>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>109.2961911779378,-7.52130818407527,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00049">
+			<name>Kotak Pembagi</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>49</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>NAMOBJ</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Desa</td>
+
+<td>Sokawera</td>
+
+</tr>
+
+<tr>
+
+<td>KET</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE01</td>
+
+<td>Jaringan Tetap</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE02</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>JNSRSR</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>STSJRN</td>
+
+<td>Eksisting</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Garis_Lint</td>
+
+<td>-7,520168</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Bujur</td>
+
+<td>109,304241</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle09</styleUrl>
+			<Point>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>109.3042409135064,-7.520168337245862,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00050">
+			<name>Kotak Pembagi</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>50</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>NAMOBJ</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Desa</td>
+
+<td>Sudagaran</td>
+
+</tr>
+
+<tr>
+
+<td>KET</td>
+
+<td>DisBox</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE01</td>
+
+<td>Jaringan Tetap</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE02</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>JNSRSR</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>STSJRN</td>
+
+<td>Eksisting</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Garis_Lint</td>
+
+<td>-7,517382</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Bujur</td>
+
+<td>109,296905</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle09</styleUrl>
+			<Point>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>109.2969046963609,-7.517382476967657,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00051">
+			<name>Kotak Pembagi</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>51</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>NAMOBJ</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Desa</td>
+
+<td>Sudagaran</td>
+
+</tr>
+
+<tr>
+
+<td>KET</td>
+
+<td>DisBox</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE01</td>
+
+<td>Jaringan Tetap</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE02</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>JNSRSR</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>STSJRN</td>
+
+<td>Eksisting</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Garis_Lint</td>
+
+<td>-7,517456</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Bujur</td>
+
+<td>109,293955</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle09</styleUrl>
+			<Point>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>109.2939550528985,-7.517456123502313,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00052">
+			<name>Kotak Pembagi</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>52</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>NAMOBJ</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Desa</td>
+
+<td>Kedunguter</td>
+
+</tr>
+
+<tr>
+
+<td>KET</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE01</td>
+
+<td>Jaringan Tetap</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE02</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>JNSRSR</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>STSJRN</td>
+
+<td>Eksisting</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Garis_Lint</td>
+
+<td>-7,510457</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Bujur</td>
+
+<td>109,29626</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle09</styleUrl>
+			<Point>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>109.2962595995352,-7.510457016981196,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00053">
+			<name>Kotak Pembagi</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>53</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>NAMOBJ</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Desa</td>
+
+<td>Kedunguter</td>
+
+</tr>
+
+<tr>
+
+<td>KET</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE01</td>
+
+<td>Jaringan Tetap</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE02</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>JNSRSR</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>STSJRN</td>
+
+<td>Eksisting</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Garis_Lint</td>
+
+<td>-7,510526</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Bujur</td>
+
+<td>109,297101</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle09</styleUrl>
+			<Point>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>109.2971013238311,-7.510525955431379,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00054">
+			<name>Kotak Pembagi</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>54</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>NAMOBJ</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Desa</td>
+
+<td>Kedunguter</td>
+
+</tr>
+
+<tr>
+
+<td>KET</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE01</td>
+
+<td>Jaringan Tetap</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE02</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>JNSRSR</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>STSJRN</td>
+
+<td>Eksisting</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Garis_Lint</td>
+
+<td>-7,510563</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Bujur</td>
+
+<td>109,297465</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle09</styleUrl>
+			<Point>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>109.2974647699886,-7.510562749985558,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00055">
+			<name>Kotak Pembagi</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>55</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>NAMOBJ</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Desa</td>
+
+<td>Kedunguter</td>
+
+</tr>
+
+<tr>
+
+<td>KET</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE01</td>
+
+<td>Jaringan Tetap</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE02</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>JNSRSR</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>STSJRN</td>
+
+<td>Eksisting</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Garis_Lint</td>
+
+<td>-7,512897</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Bujur</td>
+
+<td>109,298908</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle09</styleUrl>
+			<Point>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>109.2989077595832,-7.512896952131899,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00056">
+			<name>Kotak Pembagi</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>56</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>NAMOBJ</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Desa</td>
+
+<td>Kedunguter</td>
+
+</tr>
+
+<tr>
+
+<td>KET</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE01</td>
+
+<td>Jaringan Tetap</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE02</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>JNSRSR</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>STSJRN</td>
+
+<td>Eksisting</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Garis_Lint</td>
+
+<td>-7,512867</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Bujur</td>
+
+<td>109,297686</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle09</styleUrl>
+			<Point>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>109.2976858389945,-7.512867048463949,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00057">
+			<name>Kotak Pembagi</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>57</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>NAMOBJ</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Desa</td>
+
+<td>Kedunguter</td>
+
+</tr>
+
+<tr>
+
+<td>KET</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE01</td>
+
+<td>Jaringan Tetap</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE02</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>JNSRSR</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>STSJRN</td>
+
+<td>Eksisting</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Garis_Lint</td>
+
+<td>-7,512854</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Bujur</td>
+
+<td>109,297162</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle09</styleUrl>
+			<Point>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>109.297162366249,-7.512854236647685,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00058">
+			<name>Kotak Pembagi</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>58</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>NAMOBJ</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Desa</td>
+
+<td>Kedunguter</td>
+
+</tr>
+
+<tr>
+
+<td>KET</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE01</td>
+
+<td>Jaringan Tetap</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE02</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>JNSRSR</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>STSJRN</td>
+
+<td>Eksisting</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Garis_Lint</td>
+
+<td>-7,512834</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Bujur</td>
+
+<td>109,296188</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle09</styleUrl>
+			<Point>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>109.2961879428381,-7.512834467905051,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00059">
+			<name>Kotak Pembagi</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>59</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>NAMOBJ</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Desa</td>
+
+<td>Kedunguter</td>
+
+</tr>
+
+<tr>
+
+<td>KET</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE01</td>
+
+<td>Jaringan Tetap</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE02</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>JNSRSR</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>STSJRN</td>
+
+<td>Eksisting</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Garis_Lint</td>
+
+<td>-7,512837</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Bujur</td>
+
+<td>109,296416</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle09</styleUrl>
+			<Point>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>109.2964159140069,-7.512836772052445,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00060">
+			<name>Kotak Pembagi</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>60</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>NAMOBJ</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Desa</td>
+
+<td>Sudagaran</td>
+
+</tr>
+
+<tr>
+
+<td>KET</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE01</td>
+
+<td>Jaringan Tetap</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE02</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>JNSRSR</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>STSJRN</td>
+
+<td>Eksisting</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Garis_Lint</td>
+
+<td>-7,511814</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Bujur</td>
+
+<td>109,296181</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle09</styleUrl>
+			<Point>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>109.2961810915712,-7.511814479391805,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00061">
+			<name>Kotak Pembagi</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>61</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>NAMOBJ</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Desa</td>
+
+<td>Kedunguter</td>
+
+</tr>
+
+<tr>
+
+<td>KET</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE01</td>
+
+<td>Jaringan Tetap</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE02</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>JNSRSR</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>STSJRN</td>
+
+<td>Eksisting</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Garis_Lint</td>
+
+<td>-7,515526</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Bujur</td>
+
+<td>109,300041</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle09</styleUrl>
+			<Point>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>109.3000406600902,-7.515525757429092,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00062">
+			<name>Kotak Pembagi</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>62</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>NAMOBJ</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Desa</td>
+
+<td>Kedunguter</td>
+
+</tr>
+
+<tr>
+
+<td>KET</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE01</td>
+
+<td>Jaringan Tetap</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE02</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>JNSRSR</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>STSJRN</td>
+
+<td>Eksisting</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Garis_Lint</td>
+
+<td>-7,515274</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Bujur</td>
+
+<td>109,298008</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle09</styleUrl>
+			<Point>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>109.2980084308587,-7.515274222279498,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00063">
+			<name>Kotak Pembagi</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>63</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>NAMOBJ</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Desa</td>
+
+<td>Sudagaran</td>
+
+</tr>
+
+<tr>
+
+<td>KET</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE01</td>
+
+<td>Jaringan Tetap</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE02</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>JNSRSR</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>STSJRN</td>
+
+<td>Eksisting</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Garis_Lint</td>
+
+<td>-7,515939</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Bujur</td>
+
+<td>109,296086</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle09</styleUrl>
+			<Point>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>109.2960857081195,-7.515938809942306,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00064">
+			<name>Kotak Pembagi</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>64</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>NAMOBJ</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Desa</td>
+
+<td>Sudagaran</td>
+
+</tr>
+
+<tr>
+
+<td>KET</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE01</td>
+
+<td>Jaringan Tetap</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE02</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>JNSRSR</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>STSJRN</td>
+
+<td>Eksisting</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Garis_Lint</td>
+
+<td>-7,51604</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Bujur</td>
+
+<td>109,296084</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle09</styleUrl>
+			<Point>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>109.2960840662053,-7.51603984990117,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00065">
+			<name>Kotak Pembagi</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>65</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>NAMOBJ</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Desa</td>
+
+<td>Kedunguter</td>
+
+</tr>
+
+<tr>
+
+<td>KET</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE01</td>
+
+<td>Jaringan Tetap</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE02</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>JNSRSR</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>STSJRN</td>
+
+<td>Eksisting</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Garis_Lint</td>
+
+<td>-7,516195</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Bujur</td>
+
+<td>109,296808</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle09</styleUrl>
+			<Point>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>109.2968077290505,-7.516195032385317,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00066">
+			<name>Kotak Pembagi</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>66</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>NAMOBJ</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Desa</td>
+
+<td>Kedunguter</td>
+
+</tr>
+
+<tr>
+
+<td>KET</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE01</td>
+
+<td>Jaringan Tetap</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE02</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>JNSRSR</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>STSJRN</td>
+
+<td>Eksisting</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Garis_Lint</td>
+
+<td>-7,51625</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Bujur</td>
+
+<td>109,299177</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle09</styleUrl>
+			<Point>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>109.2991769024876,-7.516250094546711,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00067">
+			<name>Kotak Pembagi</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>67</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>NAMOBJ</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Desa</td>
+
+<td>Sudagaran</td>
+
+</tr>
+
+<tr>
+
+<td>KET</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE01</td>
+
+<td>Jaringan Tetap</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE02</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>JNSRSR</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>STSJRN</td>
+
+<td>Eksisting</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Garis_Lint</td>
+
+<td>-7,510324</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Bujur</td>
+
+<td>109,294867</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle09</styleUrl>
+			<Point>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>109.2948670364877,-7.510323517921839,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00068">
+			<name>Kotak Pembagi</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>68</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>NAMOBJ</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Desa</td>
+
+<td>Sudagaran</td>
+
+</tr>
+
+<tr>
+
+<td>KET</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE01</td>
+
+<td>Jaringan Tetap</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE02</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>JNSRSR</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>STSJRN</td>
+
+<td>Eksisting</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Garis_Lint</td>
+
+<td>-7,510224</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Bujur</td>
+
+<td>109,293954</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle09</styleUrl>
+			<Point>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>109.2939544009504,-7.510223726219722,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00069">
+			<name>Kotak Pembagi</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>69</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>NAMOBJ</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Desa</td>
+
+<td>Sudagaran</td>
+
+</tr>
+
+<tr>
+
+<td>KET</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE01</td>
+
+<td>Jaringan Tetap</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE02</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>JNSRSR</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>STSJRN</td>
+
+<td>Eksisting</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Garis_Lint</td>
+
+<td>-7,511648</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Bujur</td>
+
+<td>109,293935</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle09</styleUrl>
+			<Point>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>109.293934528743,-7.511648118560269,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00070">
+			<name>Kotak Pembagi</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>70</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>NAMOBJ</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Desa</td>
+
+<td>Sudagaran</td>
+
+</tr>
+
+<tr>
+
+<td>KET</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE01</td>
+
+<td>Jaringan Tetap</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE02</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>JNSRSR</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>STSJRN</td>
+
+<td>Eksisting</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Garis_Lint</td>
+
+<td>-7,511937</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Bujur</td>
+
+<td>109,293931</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle09</styleUrl>
+			<Point>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>109.2939308498683,-7.511937358403515,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00071">
+			<name>Kotak Pembagi</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>71</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>NAMOBJ</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Desa</td>
+
+<td>Sudagaran</td>
+
+</tr>
+
+<tr>
+
+<td>KET</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE01</td>
+
+<td>Jaringan Tetap</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE02</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>JNSRSR</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>STSJRN</td>
+
+<td>Eksisting</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Garis_Lint</td>
+
+<td>-7,512784</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Bujur</td>
+
+<td>109,293926</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle09</styleUrl>
+			<Point>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>109.2939262789893,-7.512783933083463,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00072">
+			<name>Kotak Pembagi</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>72</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>NAMOBJ</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Desa</td>
+
+<td>Sudagaran</td>
+
+</tr>
+
+<tr>
+
+<td>KET</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE01</td>
+
+<td>Jaringan Tetap</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE02</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>JNSRSR</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>STSJRN</td>
+
+<td>Eksisting</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Garis_Lint</td>
+
+<td>-7,512022</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Bujur</td>
+
+<td>109,296095</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle09</styleUrl>
+			<Point>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>109.296095177256,-7.51202180255774,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00073">
+			<name>Kotak Pembagi</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>73</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>NAMOBJ</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Desa</td>
+
+<td>Sudagaran</td>
+
+</tr>
+
+<tr>
+
+<td>KET</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE01</td>
+
+<td>Jaringan Tetap</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE02</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>JNSRSR</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>STSJRN</td>
+
+<td>Eksisting</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Garis_Lint</td>
+
+<td>-7,5103</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Bujur</td>
+
+<td>109,292206</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle09</styleUrl>
+			<Point>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>109.2922064542832,-7.510299826172067,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00074">
+			<name>Kotak Pembagi</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>74</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>NAMOBJ</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Desa</td>
+
+<td>Sudagaran</td>
+
+</tr>
+
+<tr>
+
+<td>KET</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE01</td>
+
+<td>Jaringan Tetap</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE02</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>JNSRSR</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>STSJRN</td>
+
+<td>Eksisting</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Garis_Lint</td>
+
+<td>-7,511565</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Bujur</td>
+
+<td>109,292185</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle09</styleUrl>
+			<Point>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>109.2921852027252,-7.511564682035775,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00075">
+			<name>Kotak Pembagi</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>75</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>NAMOBJ</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Desa</td>
+
+<td>Sudagaran</td>
+
+</tr>
+
+<tr>
+
+<td>KET</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE01</td>
+
+<td>Jaringan Tetap</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE02</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>JNSRSR</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>STSJRN</td>
+
+<td>Eksisting</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Garis_Lint</td>
+
+<td>-7,512576</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Bujur</td>
+
+<td>109,292172</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle09</styleUrl>
+			<Point>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>109.2921718548618,-7.512575996618972,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00076">
+			<name>Kotak Pembagi</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>76</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>NAMOBJ</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Desa</td>
+
+<td>Sudagaran</td>
+
+</tr>
+
+<tr>
+
+<td>KET</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE01</td>
+
+<td>Jaringan Tetap</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE02</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>JNSRSR</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>STSJRN</td>
+
+<td>Eksisting</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Garis_Lint</td>
+
+<td>-7,512995</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Bujur</td>
+
+<td>109,292164</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle09</styleUrl>
+			<Point>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>109.2921635319518,-7.512994877476503,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00077">
+			<name>Kotak Pembagi</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>77</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>NAMOBJ</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Desa</td>
+
+<td>Sudagaran</td>
+
+</tr>
+
+<tr>
+
+<td>KET</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE01</td>
+
+<td>Jaringan Tetap</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE02</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>JNSRSR</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>STSJRN</td>
+
+<td>Eksisting</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Garis_Lint</td>
+
+<td>-7,515983</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Bujur</td>
+
+<td>109,292137</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle09</styleUrl>
+			<Point>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>109.29213731173,-7.515983136302609,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00078">
+			<name>Kotak Pembagi</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>78</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>NAMOBJ</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Desa</td>
+
+<td>Sudagaran</td>
+
+</tr>
+
+<tr>
+
+<td>KET</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE01</td>
+
+<td>Jaringan Tetap</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE02</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>JNSRSR</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>STSJRN</td>
+
+<td>Eksisting</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Garis_Lint</td>
+
+<td>-7,516037</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Bujur</td>
+
+<td>109,293081</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle09</styleUrl>
+			<Point>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>109.2930809608985,-7.516036806156848,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00079">
+			<name>Kotak Pembagi</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>79</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>NAMOBJ</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Desa</td>
+
+<td>Sudagaran</td>
+
+</tr>
+
+<tr>
+
+<td>KET</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE01</td>
+
+<td>Jaringan Tetap</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE02</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>JNSRSR</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>STSJRN</td>
+
+<td>Eksisting</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Garis_Lint</td>
+
+<td>-7,515919</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Bujur</td>
+
+<td>109,293916</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle09</styleUrl>
+			<Point>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>109.2939160841847,-7.515919316587486,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00080">
+			<name>Kotak Pembagi</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>80</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>NAMOBJ</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Desa</td>
+
+<td>Sudagaran</td>
+
+</tr>
+
+<tr>
+
+<td>KET</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE01</td>
+
+<td>Jaringan Tetap</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE02</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>JNSRSR</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>STSJRN</td>
+
+<td>Eksisting</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Garis_Lint</td>
+
+<td>-7,516051</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Bujur</td>
+
+<td>109,294132</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle09</styleUrl>
+			<Point>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>109.2941324786724,-7.516050550369227,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00081">
+			<name>Kotak Pembagi</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>81</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>NAMOBJ</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Desa</td>
+
+<td>Sudagaran</td>
+
+</tr>
+
+<tr>
+
+<td>KET</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE01</td>
+
+<td>Jaringan Tetap</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE02</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>JNSRSR</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>STSJRN</td>
+
+<td>Eksisting</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Garis_Lint</td>
+
+<td>-7,516041</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Bujur</td>
+
+<td>109,295124</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle09</styleUrl>
+			<Point>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>109.2951240605081,-7.51604143348596,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00082">
+			<name>Kotak Pembagi</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>82</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>NAMOBJ</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Desa</td>
+
+<td>Pakunden</td>
+
+</tr>
+
+<tr>
+
+<td>KET</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE01</td>
+
+<td>Jaringan Tetap</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE02</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>JNSRSR</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>STSJRN</td>
+
+<td>Eksisting</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Garis_Lint</td>
+
+<td>-7,51731</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Bujur</td>
+
+<td>109,289001</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle09</styleUrl>
+			<Point>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>109.2890012129647,-7.517309508782267,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00083">
+			<name>Kotak Pembagi</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>83</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>NAMOBJ</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Desa</td>
+
+<td>Pakunden</td>
+
+</tr>
+
+<tr>
+
+<td>KET</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE01</td>
+
+<td>Jaringan Tetap</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE02</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>JNSRSR</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>STSJRN</td>
+
+<td>Eksisting</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Garis_Lint</td>
+
+<td>-7,516528</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Bujur</td>
+
+<td>109,289015</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle09</styleUrl>
+			<Point>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>109.2890145181208,-7.516528394360187,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00084">
+			<name>Kotak Pembagi</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>84</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>NAMOBJ</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Desa</td>
+
+<td>Pakunden</td>
+
+</tr>
+
+<tr>
+
+<td>KET</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE01</td>
+
+<td>Jaringan Tetap</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE02</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>JNSRSR</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>STSJRN</td>
+
+<td>Eksisting</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Garis_Lint</td>
+
+<td>-7,516229</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Bujur</td>
+
+<td>109,289031</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle09</styleUrl>
+			<Point>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>109.289030896281,-7.516229229942471,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00085">
+			<name>Kotak Pembagi</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>85</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>NAMOBJ</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Desa</td>
+
+<td>Pakunden</td>
+
+</tr>
+
+<tr>
+
+<td>KET</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE01</td>
+
+<td>Jaringan Tetap</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE02</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>JNSRSR</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>STSJRN</td>
+
+<td>Eksisting</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Garis_Lint</td>
+
+<td>-7,514169</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Bujur</td>
+
+<td>109,289082</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle09</styleUrl>
+			<Point>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>109.2890819638322,-7.514169046496665,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00086">
+			<name>Kotak Pembagi</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>86</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>NAMOBJ</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Desa</td>
+
+<td>Pakunden</td>
+
+</tr>
+
+<tr>
+
+<td>KET</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE01</td>
+
+<td>Jaringan Tetap</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE02</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>JNSRSR</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>STSJRN</td>
+
+<td>Eksisting</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Garis_Lint</td>
+
+<td>-7,511676</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Bujur</td>
+
+<td>109,287225</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle09</styleUrl>
+			<Point>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>109.2872249486435,-7.511675906758009,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00087">
+			<name>Kotak Pembagi</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>87</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>NAMOBJ</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Desa</td>
+
+<td>Pakunden</td>
+
+</tr>
+
+<tr>
+
+<td>KET</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE01</td>
+
+<td>Jaringan Tetap</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE02</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>JNSRSR</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>STSJRN</td>
+
+<td>Eksisting</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Garis_Lint</td>
+
+<td>-7,511699</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Bujur</td>
+
+<td>109,289133</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle09</styleUrl>
+			<Point>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>109.2891330658699,-7.511699134249201,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00088">
+			<name>Kotak Pembagi</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>88</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>NAMOBJ</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Desa</td>
+
+<td>Pakunden</td>
+
+</tr>
+
+<tr>
+
+<td>KET</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE01</td>
+
+<td>Jaringan Tetap</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE02</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>JNSRSR</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>STSJRN</td>
+
+<td>Eksisting</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Garis_Lint</td>
+
+<td>-7,512113</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Bujur</td>
+
+<td>109,289153</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle09</styleUrl>
+			<Point>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>109.2891530590818,-7.512112840463764,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00089">
+			<name>Kotak Pembagi</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>89</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>NAMOBJ</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Desa</td>
+
+<td>Sudagaran</td>
+
+</tr>
+
+<tr>
+
+<td>KET</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE01</td>
+
+<td>Jaringan Tetap</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE02</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>JNSRSR</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>STSJRN</td>
+
+<td>Eksisting</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Garis_Lint</td>
+
+<td>-7,510639</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Bujur</td>
+
+<td>109,296106</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle09</styleUrl>
+			<Point>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>109.2961059107647,-7.510639000374352,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
