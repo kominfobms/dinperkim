@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="_14_TOPONIM_PT" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+	<name>Infrastruktur Transportasi</name>
+	<Snippet maxLines="0"></Snippet>
+	<Style id="IconStyle00">
+		<IconStyle>
+			<scale>2.1875</scale>
+			<Icon>
+				<href>Layer0_Symbol_149f04a0_0.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<PolyStyle>
+			<color>ff000000</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Folder id="FeatureLayer0">
+		<name>_14_TOPONIM_PT</name>
+		<Snippet maxLines="0"></Snippet>
+		<Placemark id="ID_00000">
+			<name>20230816_094522.jpg</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>20230816_094522.jpg</td>
+
+</tr>
+
+<tr bgcolor="#9CBCE2">
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr align="center">
+
+<td><a target="_blank" href="ATTID_76_94AA984196A94136AC252E8417791A8E.jpeg"><img src="ATTID_76_94AA984196A94136AC252E8417791A8E.jpeg" width="275px" border="0"></a></td>
+
+</tr>
+
+<tr align="center">
+
+<td>20230816_094522.jpg</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>JENIS_UTAMA</td>
+
+<td>Fasilitas Umum dan Sosial</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>JENIS</td>
+
+<td>Transportasi</td>
+
+</tr>
+
+<tr>
+
+<td>KEGIATAN_OBJEK</td>
+
+<td>Terminal</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TOPONIM</td>
+
+<td>Terminal Bus Kota Wangon</td>
+
+</tr>
+
+<tr>
+
+<td>SUMBER</td>
+
+<td>Survey Kegiatan Lapangan Tahun 2023</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FOTO</td>
+
+<td>20230816_094522.jpg</td>
+
+</tr>
+
+<tr>
+
+<td>Path</td>
+
+<td>F:\Proyek 2023\Wangon 2023\Digitasi Wangon\Toponimi\Foto Wangon\20230816_094522.jpg</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>20230816_094522.jpg</td>
+
+</tr>
+
+<tr>
+
+<td>DateTime</td>
+
+<td>2023:08:16 09:45:22</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Direction</td>
+
+<td>-9999</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.0602149882473,-7.509894086592023,57</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
