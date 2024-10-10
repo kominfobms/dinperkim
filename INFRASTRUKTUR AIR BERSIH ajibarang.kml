@@ -1,0 +1,543 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="AIR_BERSIH_PT" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+	<name>INFRASTRUKTUR AIR BERSIH</name>
+	<Snippet maxLines="0"></Snippet>
+	<Style id="IconStyle00">
+		<IconStyle>
+			<scale>1.125</scale>
+			<Icon>
+				<href>https://raw.githubusercontent.com/kominfobms/dinperkim/main/icon/peta_ajibarang/Layer0_Symbol_12432470_0.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<PolyStyle>
+			<color>ff000000</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="IconStyle03">
+		<IconStyle>
+			<scale>1.125</scale>
+			<Icon>
+				<href>https://raw.githubusercontent.com/kominfobms/dinperkim/main/icon/peta_ajibarang/Layer0_Symbol_12433610_0.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<PolyStyle>
+			<color>ff000000</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Folder id="FeatureLayer0">
+		<name>AIR_BERSIH_PT</name>
+		<Snippet maxLines="0"></Snippet>
+		<Placemark id="ID_00000">
+			<name>Bangunan Penangkap Mata Air</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Bangunan Penangkap Mata Air</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Bangunan Penangkap Mata Air</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>16012500</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>16011101</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>46010000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.0776199238125,-7.394302375422512,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00001">
+			<name>Bangunan Penangkap Mata Air</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Bangunan Penangkap Mata Air</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Bangunan Penangkap Mata Air</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>16012500</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>16011101</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>46010000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.0736756287325,-7.416294098942501,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00002">
+			<name>Bangunan Penangkap Mata Air</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Bangunan Penangkap Mata Air</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>2</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Bangunan Penangkap Mata Air</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>16012500</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>16011101</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>46010000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.0775213453275,-7.420965970609984,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00003">
+			<name>Bangunan Penampung Air</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Bangunan Penampung Air</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>4</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Bangunan Penampung Air</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>16011200</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>16011202</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>46010000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle03</styleUrl>
+			<Point>
+				<coordinates>109.07743406314,-7.417690046532528,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

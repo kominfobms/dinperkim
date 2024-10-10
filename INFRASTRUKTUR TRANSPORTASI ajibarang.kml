@@ -1,0 +1,6325 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="TRANSPORTASI_PT" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+	<name>INFRASTRUKTUR TRANSPORTASI</name>
+	<Snippet maxLines="0"></Snippet>
+	<Style id="IconStyle00">
+		<IconStyle>
+			<scale>1.375</scale>
+			<Icon>
+				<href>https://raw.githubusercontent.com/kominfobms/dinperkim/main/icon/peta_ajibarang/Layer0_Symbol_12433030_0.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<PolyStyle>
+			<color>ff000000</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="IconStyle041">
+		<IconStyle>
+			<scale>1.4375</scale>
+			<Icon>
+				<href>https://raw.githubusercontent.com/kominfobms/dinperkim/main/icon/peta_ajibarang/Layer0_Symbol_123e1de8_0.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<PolyStyle>
+			<color>ff000000</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="IconStyle042">
+		<IconStyle>
+			<scale>1.4375</scale>
+			<Icon>
+				<href>https://raw.githubusercontent.com/kominfobms/dinperkim/main/icon/peta_ajibarang/Layer0_Symbol_12432d40_0_0.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<PolyStyle>
+			<color>ff000000</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="IconStyle049">
+		<IconStyle>
+			<scale>1.5625</scale>
+			<Icon>
+				<href>https://raw.githubusercontent.com/kominfobms/dinperkim/main/icon/peta_ajibarang/Layer0_Symbol_123e23c8_0.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<PolyStyle>
+			<color>ff000000</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Folder id="FeatureLayer0">
+		<name>TRANSPORTASI_PT</name>
+		<Snippet maxLines="0"></Snippet>
+		<Placemark id="ID_00000">
+			<name>Jembatan</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jembatan</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jembatan</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>12014000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>12014000</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>42000000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.06711620859,-7.404781588987476,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00001">
+			<name>Jembatan</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jembatan</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jembatan</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>12014000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>12014000</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>42000000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.07349292278,-7.406310391009981,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00002">
+			<name>Jembatan</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jembatan</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>2</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jembatan</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>12014000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>12014000</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>42000000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.0697547390775,-7.405090971397499,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00003">
+			<name>Jembatan</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jembatan</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>3</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jembatan</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>12014000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>12014000</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>42000000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.083767453405,-7.407474215065008,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00004">
+			<name>Jembatan</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jembatan</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>4</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jembatan</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>12014000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>12014000</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>42000000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.0988928499975,-7.402432483534994,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00005">
+			<name>Jembatan</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jembatan</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>5</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jembatan</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>12014000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>12014000</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>42000000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.081516242525,-7.408978154520014,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00006">
+			<name>Jembatan</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jembatan</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>6</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jembatan</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>12014000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>12014000</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>42000000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.0732351358225,-7.426180767979986,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00007">
+			<name>Jembatan</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jembatan</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>7</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jembatan</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>12014000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>12014000</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>42000000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.072021564565,-7.411131359309991,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00008">
+			<name>Jembatan</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jembatan</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>8</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jembatan</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>12014000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>12014000</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>42000000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.0737722467925,-7.410695651337505,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00009">
+			<name>Jembatan</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jembatan</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>9</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jembatan</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>12014000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>12014000</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>42000000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.0705442669275,-7.404742568117513,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00010">
+			<name>Jembatan</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jembatan</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>10</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jembatan</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>12014000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>12014000</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>42000000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.0809764426675,-7.411609727220024,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00011">
+			<name>Jembatan</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jembatan</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>11</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jembatan</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>12014000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>12014000</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>42000000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.0808760856275,-7.410628245639998,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00012">
+			<name>Jembatan</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jembatan</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>12</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jembatan</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>12014000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>12014000</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>42000000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.080252265965,-7.402200101037522,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00013">
+			<name>Jembatan</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jembatan</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>13</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jembatan</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>12014000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>12014000</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>42000000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.0833550200975,-7.399652840274996,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00014">
+			<name>Jembatan</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jembatan</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>14</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jembatan</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>12014000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>12014000</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>42000000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.081710618625,-7.407900848104987,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00015">
+			<name>Jembatan</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jembatan</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>15</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jembatan</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>12014000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>12014000</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>42000000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.0819523224675,-7.406704664355004,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00016">
+			<name>Jembatan</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jembatan</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>16</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jembatan</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>12014000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>12014000</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>42000000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.095602998745,-7.403378068002495,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00017">
+			<name>Jembatan</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jembatan</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>18</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jembatan</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>12014000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>12014000</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>42000000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.0767606252975,-7.426384692387501,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00018">
+			<name>Jembatan</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jembatan</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>20</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jembatan</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>12014000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>12014000</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>42000000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.0799059930625,-7.402091471280016,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00019">
+			<name>Jembatan</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jembatan</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>21</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jembatan</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>12014000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>12014000</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>42000000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.08594142427,-7.416718221074974,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00020">
+			<name>Jembatan</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jembatan</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>22</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jembatan</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>12014000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>12014000</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>42000000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.080566405775,-7.415147501427498,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00021">
+			<name>Jembatan</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jembatan</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>23</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jembatan</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>12014000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>12014000</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>42000000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.0819989680075,-7.404189965107491,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00022">
+			<name>Jembatan</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jembatan</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>24</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jembatan</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>12014000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>12014000</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>42000000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.07748318504,-7.394561056664998,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00023">
+			<name>Jembatan</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jembatan</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>25</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jembatan</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>12014000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>12014000</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>42000000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.083319206045,-7.400220220247489,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00024">
+			<name>Jembatan</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jembatan</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>26</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jembatan</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>12014000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>12014000</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>42000000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.083593249655,-7.40036129519001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00025">
+			<name>Jembatan</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jembatan</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>27</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jembatan</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>12014000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>12014000</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>42000000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.0809833543175,-7.411604860507509,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00026">
+			<name>Jembatan</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jembatan</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>28</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jembatan</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>12014000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>12014000</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>42000000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.080885099865,-7.411800090825011,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00027">
+			<name>Jembatan</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jembatan</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>29</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jembatan</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>12014000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>12014000</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>42000000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.081379551435,-7.409520784737481,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00028">
+			<name>Jembatan</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jembatan</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>30</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jembatan</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>12014000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>12014000</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>42000000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.081641211775,-7.408283297722504,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00029">
+			<name>Jembatan</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jembatan</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>31</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jembatan</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>12014000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>12014000</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>42000000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.0827859937275,-7.405132773342472,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00030">
+			<name>Jembatan</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jembatan</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>32</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jembatan</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>12014000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>12014000</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>42000000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.0773458968075,-7.394848860517527,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00031">
+			<name>Jembatan</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jembatan</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>33</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jembatan</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>12014000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>12014000</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>42000000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.082273983365,-7.405851110207493,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00032">
+			<name>Jembatan</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jembatan</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>34</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jembatan</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>12014000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>12014000</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>42000000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.0670800785975,-7.40418473420499,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00033">
+			<name>Jembatan</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jembatan</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>35</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jembatan</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>12014000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>12014000</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>42000000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.0672994169025,-7.404225466809976,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00034">
+			<name>Jembatan</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jembatan</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>36</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jembatan</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>12014000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>12014000</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>42000000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.0826375008725,-7.415125999532506,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00035">
+			<name>Jembatan</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jembatan</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>37</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jembatan</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>12014000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>12014000</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>42000000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.0826375008725,-7.415125999532506,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00036">
+			<name>Jembatan</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jembatan</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>38</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jembatan</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>12014000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>12014000</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>42000000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.0852243410975,-7.396164411705001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00037">
+			<name>Jembatan</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jembatan</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>39</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jembatan</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>12014000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>12014000</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>42000000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.08495087282,-7.39717901424251,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00038">
+			<name>Jembatan</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jembatan</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>40</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jembatan</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>12014000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>12014000</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>42000000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.0811797547325,-7.415252362374986,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00039">
+			<name>Jembatan</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jembatan</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>41</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jembatan</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>12014000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>12014000</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>42000000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.082125079215,-7.41531185204252,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00040">
+			<name>Jembatan</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jembatan</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>42</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jembatan</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>12014000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>12014000</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>42000000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.0851611895975,-7.415731045987514,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00041">
+			<name>Jembatan Timbang</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jembatan Timbang</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>43</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jembatan Timbang</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>12015000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>12015000</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>42000000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle041</styleUrl>
+			<Point>
+				<coordinates>109.0779322256125,-7.399065311844992,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00042">
+			<name>Halte</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Halte</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>44</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Halte</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>12018000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>12018000</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>42000000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle042</styleUrl>
+			<Point>
+				<coordinates>109.0779805538225,-7.416114918437472,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00043">
+			<name>Halte</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Halte</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>45</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Halte</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>12018000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>12018000</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>42000000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle042</styleUrl>
+			<Point>
+				<coordinates>109.079703731855,-7.412502270250001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00044">
+			<name>Halte</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Halte</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>46</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Halte</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>12018000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>12018000</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>42000000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle042</styleUrl>
+			<Point>
+				<coordinates>109.079561124015,-7.412318321532496,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00045">
+			<name>Halte</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Halte</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>47</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Halte</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>12018000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>12018000</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>42000000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle042</styleUrl>
+			<Point>
+				<coordinates>109.08141502589,-7.408877588849975,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00046">
+			<name>Halte</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Halte</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>48</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Halte</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>12018000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>12018000</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>42000000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle042</styleUrl>
+			<Point>
+				<coordinates>109.0811060422475,-7.408992179050016,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00047">
+			<name>Halte</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Halte</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>49</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Halte</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>12018000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>12018000</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>42000000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle042</styleUrl>
+			<Point>
+				<coordinates>109.09348271889,-7.403827861059995,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00048">
+			<name>Halte</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Halte</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>50</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Halte</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>12018000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>12018000</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>42000000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle042</styleUrl>
+			<Point>
+				<coordinates>109.09370257264,-7.40387912450251,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00049">
+			<name>Terminal Penumpang Tipe C</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Terminal Penumpang Tipe C</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>51</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Terminal Penumpang Tipe C</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>12016300</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>12016300</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>42000000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle049</styleUrl>
+			<Point>
+				<coordinates>109.07715594498,-7.416388110984997,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

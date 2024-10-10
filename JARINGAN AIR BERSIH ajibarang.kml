@@ -1,0 +1,12721 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="AIR_BERSIH_LN" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+	<name>JARINGAN AIR BERSIH</name>
+	<Snippet maxLines="0"></Snippet>
+	<Style id="LineStyle00">
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ffa9e600</color>
+			<width>1.5</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>00000000</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Folder id="FeatureLayer0">
+		<name>AIR_BERSIH_LN</name>
+		<Snippet maxLines="0"></Snippet>
+		<Placemark id="ID_00000">
+			<name>Jaringan Transmisi Air Minum</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Transmisi Air Minum</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jaringan Transmisi Air Minum</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>16011200</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>26011201</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>46010000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>0,016065</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.07674805515,-7.400955735529976,0 109.0762536813175,-7.402494837650011,0 109.0757878290525,-7.403971222652501,0 109.075060529085,-7.406470473597495,0 109.075060529085,-7.406600743812475,0 109.075112818625,-7.406735838889972,0 109.0751460937875,-7.406841985052495,0 109.075207890515,-7.406904707794979,0 109.07537901992,-7.407025328477516,0 109.075645221215,-7.407121825050012,0 109.0759827264275,-7.407358241732481,0 109.076168116615,-7.407502986702525,0 109.0769001701775,-7.408091616722515,0 109.077085560365,-7.408217062564972,0 109.077399297605,-7.408361807810024,0 109.0784260740275,-7.408593400297491,0 109.0808123784925,-7.409080709875013,0 109.082485643775,-7.409317127582484,0 109.0827423378825,-7.409273703912504,0 109.0828992065025,-7.409143432930023,0 109.08376436071,-7.407879323840007,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00001">
+			<name>Jaringan Transmisi Air Minum</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Transmisi Air Minum</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jaringan Transmisi Air Minum</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>16011200</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>26011201</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>46010000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>0,002441</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.08179062864,-7.40876930612751,0 109.082218650215,-7.408846302644974,0 109.08245038795,-7.408852333704998,0 109.0825870537925,-7.408773929940025,0 109.08271183565,-7.408641246675018,0 109.082872269465,-7.408387942372485,0 109.0834783527725,-7.407429005935001,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00002">
+			<name>Jaringan Transmisi Air Minum</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Transmisi Air Minum</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>2</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jaringan Transmisi Air Minum</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>16011200</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>26011201</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>46010000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>0,005941</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.07533530551,-7.405526246387524,0 109.07645303519,-7.405785851964993,0 109.0772658998575,-7.406144094604998,0 109.0773015518175,-7.406270746110009,0 109.0772694650525,-7.406353974262516,0 109.0767025989025,-7.407323764292528,0 109.0767382508625,-7.40736718777498,0 109.0774013773025,-7.407862939497476,0 109.07786485277,-7.408054726807507,0 109.079012845855,-7.408308030925014,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00003">
+			<name>Jaringan Transmisi Air Minum</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Transmisi Air Minum</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>3</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jaringan Transmisi Air Minum</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>16011200</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>26011201</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>46010000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>0,006385</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.0777816648675,-7.399557058902474,0 109.0766598165525,-7.402992292814986,0 109.07589417035,-7.405656049157528,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00004">
+			<name>Jaringan Transmisi Air Minum</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Transmisi Air Minum</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>4</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jaringan Transmisi Air Minum</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>16011200</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>26011201</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>46010000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>0,005084</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.0785569761375,-7.394786372752492,0 109.078079239885,-7.395191647535,0 109.077958023225,-7.395343625675026,0 109.077965153615,-7.395517315037523,0 109.07802219675,-7.39573442683252,0 109.078157674195,-7.396928543572528,0 109.078114891845,-7.397825942467477,0 109.077958023225,-7.398831899790026,0 109.0777816648675,-7.399557058902474,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00005">
+			<name>Jaringan Transmisi Air Minum</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Transmisi Air Minum</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>5</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jaringan Transmisi Air Minum</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>16011200</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>26011201</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>46010000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>0,001263</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.0768813340575,-7.396663184024987,0 109.07718556411,-7.396508793087493,0 109.07739472227,-7.396460545929983,0 109.0780899354725,-7.396331484809991,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00006">
+			<name>Jaringan Transmisi Air Minum</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Transmisi Air Minum</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>6</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jaringan Transmisi Air Minum</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>16011200</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>26011201</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>46010000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>0,001203</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.075426734125,-7.401163059680016,0 109.0766062249875,-7.401397285682492,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00007">
+			<name>Jaringan Transmisi Air Minum</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Transmisi Air Minum</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>7</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jaringan Transmisi Air Minum</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>16011200</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>26011201</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>46010000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>0,001149</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.0753940531625,-7.401428421862477,0 109.0765159509425,-7.401678329917502,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00008">
+			<name>Jaringan Transmisi Air Minum</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Transmisi Air Minum</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>8</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jaringan Transmisi Air Minum</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>16011200</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>26011201</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>46010000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>0,002396</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.0747998538425,-7.402535104460014,0 109.0749543456675,-7.402121982845017,0 109.074972171645,-7.402073735090027,0 109.074989997625,-7.401654582935008,0 109.075016736595,-7.401627443599978,0 109.075043475565,-7.401627443599978,0 109.0764137431925,-7.401996526785014,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00009">
+			<name>Jaringan Transmisi Air Minum</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Transmisi Air Minum</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>9</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jaringan Transmisi Air Minum</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>16011200</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>26011201</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>46010000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>0,008607</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.066994277615,-7.404984721232494,0 109.0688317158825,-7.40514748920998,0 109.0694306687975,-7.405224686145005,0 109.0698062027675,-7.405359780812489,0 109.07015321517,-7.40560584620249,0 109.070357619735,-7.405702342470022,0 109.070880515135,-7.405851911724994,0 109.074003626755,-7.406720379347519,0 109.0741985241325,-7.406792751724994,0 109.07433162478,-7.406831350329981,0 109.0746263476425,-7.406840999982478,0 109.0748259986125,-7.406889248245023,0 109.0750589247475,-7.406947146167511,0 109.0752934552175,-7.406965018132496,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00010">
+			<name>Jaringan Transmisi Air Minum</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Transmisi Air Minum</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>10</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jaringan Transmisi Air Minum</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>16011200</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>26011201</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>46010000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>0,0032</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.0757096902225,-7.404239733680015,0 109.0754677338775,-7.404312798197509,0 109.0750921999075,-7.40442859338998,0 109.0748973025325,-7.404626410247488,0 109.0741985241325,-7.406792751724994,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00011">
+			<name>Jaringan Transmisi Air Minum</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Transmisi Air Minum</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>11</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jaringan Transmisi Air Minum</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>16011200</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>26011201</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>46010000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>0,001416</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.0742270457,-7.404057083917507,0 109.07418426335,-7.404158404652492,0 109.0741414809975,-7.404317622994996,0 109.0740986986475,-7.404438242990011,0 109.0741034522425,-7.404587811830027,0 109.0741367274025,-7.404679483077473,0 109.0742508136725,-7.404804927972521,0 109.0743601463475,-7.404940022515007,0 109.0745075077775,-7.405036518639974,0 109.07473173829,-7.405139688892518,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00012">
+			<name>Jaringan Transmisi Air Minum</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Transmisi Air Minum</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>12</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jaringan Transmisi Air Minum</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>16011200</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>26011201</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>46010000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>0,000441</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.074440957455,-7.404452717392473,0 109.07430548001,-7.404872475237481,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00013">
+			<name>Jaringan Transmisi Air Minum</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Transmisi Air Minum</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>13</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jaringan Transmisi Air Minum</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>16011200</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>26011201</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>46010000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>0,002565</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.07062382103,-7.403260993214984,0 109.0706654149825,-7.403966618995014,0 109.070653530995,-7.404244044815015,0 109.070689182955,-7.404461160792494,0 109.0707367189,-7.404678276875017,0 109.070784254845,-7.404979827162492,0 109.07070106694,-7.405287408662501,0 109.07042754063,-7.405722342675006,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00014">
+			<name>Jaringan Transmisi Air Minum</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Transmisi Air Minum</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>14</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jaringan Transmisi Air Minum</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>16011200</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>26011201</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>46010000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>0,003658</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.070077157655,-7.401065720044983,0 109.0701068676225,-7.401964333324997,0 109.0703029533975,-7.403188621402478,0 109.07062382103,-7.403260993214984,0 109.071806277675,-7.403393674902475,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00015">
+			<name>Jaringan Transmisi Air Minum</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Transmisi Air Minum</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>15</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jaringan Transmisi Air Minum</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>16011200</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>26011201</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>46010000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>0,000593</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.0706428354075,-7.400895245064986,0 109.07050022757,-7.400961585555025,0 109.070077157655,-7.401065720044983,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00016">
+			<name>Jaringan Transmisi Air Minum</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Transmisi Air Minum</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>16</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jaringan Transmisi Air Minum</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>16011200</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>26011201</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>46010000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>0,000508</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.0706071834475,-7.401781796077501,0 109.0701026532975,-7.40183686592502,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00017">
+			<name>Jaringan Transmisi Air Minum</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Transmisi Air Minum</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>17</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jaringan Transmisi Air Minum</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>16011200</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>26011201</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>46010000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>0,000527</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.0697277684575,-7.40292768090751,0 109.0702522443625,-7.402872012357477,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00018">
+			<name>Jaringan Transmisi Air Minum</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Transmisi Air Minum</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>18</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jaringan Transmisi Air Minum</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>16011200</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>26011201</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>46010000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>0,001668</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.0691811050825,-7.401854167665022,0 109.06915733711,-7.401245040494985,0 109.0691632791025,-7.401130452307484,0 109.0692167570425,-7.401088235612519,0 109.07008227097,-7.40122037821999,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00019">
+			<name>Jaringan Transmisi Air Minum</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Transmisi Air Minum</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>19</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jaringan Transmisi Air Minum</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>16011200</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>26011201</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>46010000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>0,009865</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.075583008545,-7.415784707577473,0 109.075478429465,-7.415697858999977,0 109.0734533981875,-7.411471248392502,0 109.0730160674875,-7.410496624610006,0 109.0729780387325,-7.410265031147503,0 109.0730255746775,-7.409811494295012,0 109.07299705311,-7.409589550895021,0 109.0730636034325,-7.409386907017506,0 109.0730826178125,-7.409232511742516,0 109.07363403478,-7.408267542462511,0 109.07373861386,-7.408035950142506,0 109.0741985241325,-7.406792751724994,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00020">
+			<name>Jaringan Transmisi Air Minum</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Transmisi Air Minum</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>20</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jaringan Transmisi Air Minum</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>16011200</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>26011201</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>46010000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>0,002309</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.071212910235,-7.412068688985016,0 109.0720210213075,-7.411489703539985,0 109.0732347328375,-7.410983936237528,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00021">
+			<name>Jaringan Transmisi Air Minum</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Transmisi Air Minum</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>21</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jaringan Transmisi Air Minum</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>16011200</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>26011201</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>46010000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>0,000551</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.07243933763,-7.41014839011001,0 109.0729780387325,-7.410265031147503,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00022">
+			<name>Jaringan Transmisi Air Minum</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Transmisi Air Minum</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>22</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jaringan Transmisi Air Minum</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>16011200</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>26011201</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>46010000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>0,000926</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.07273406049,-7.409270266207499,0 109.07243933763,-7.41014839011001,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00023">
+			<name>Jaringan Transmisi Air Minum</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Transmisi Air Minum</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>23</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jaringan Transmisi Air Minum</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>16011200</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>26011201</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>46010000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>0,003122</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.0784098523875,-7.41559086640001,0 109.076945745265,-7.415532967372485,0 109.0767460942925,-7.41547506835002,0 109.076403835485,-7.415204873015,0 109.076008137235,-7.41540854883499,0 109.075583008545,-7.415784707577473,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00024">
+			<name>Jaringan Transmisi Air Minum</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Transmisi Air Minum</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>24</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jaringan Transmisi Air Minum</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>16011200</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>26011201</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>46010000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>0,002319</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.078523938655,-7.41327491103749,0 109.0784098523875,-7.41559086640001,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00025">
+			<name>Jaringan Transmisi Air Minum</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Transmisi Air Minum</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>25</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jaringan Transmisi Air Minum</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>16011200</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>26011201</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>46010000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>0,001589</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.076936238075,-7.413207362517483,0 109.078523938655,-7.41327491103749,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00026">
+			<name>Jaringan Transmisi Air Minum</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Transmisi Air Minum</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>26</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jaringan Transmisi Air Minum</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>16011200</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>26011201</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>46010000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>0,002298</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.07684591978,-7.415504017859972,0 109.076936238075,-7.413207362517483,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00027">
+			<name>Jaringan Transmisi Air Minum</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Transmisi Air Minum</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>27</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jaringan Transmisi Air Minum</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>16011200</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>26011201</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>46010000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>0,000435</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.07889471903,-7.414577634469993,0 109.078459877745,-7.414575348352514,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00028">
+			<name>Jaringan Transmisi Air Minum</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Transmisi Air Minum</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>28</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jaringan Transmisi Air Minum</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>16011200</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>26011201</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>46010000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>0,00181</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.07733015261,-7.416907106317524,0 109.0777389617425,-7.416916756185003,0 109.0778340336325,-7.416858856985016,0 109.0778435408225,-7.416752708474973,0 109.07788177852,-7.415569983390015,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00029">
+			<name>Jaringan Transmisi Air Minum</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Transmisi Air Minum</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>29</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jaringan Transmisi Air Minum</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>16011200</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>26011201</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>46010000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>0,005781</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.079781046495,-7.408870100489992,0 109.079757654895,-7.409174412492519,0 109.0796245542475,-7.41012973398,0 109.0794724392225,-7.411499996610019,0 109.079348845765,-7.41233952576249,0 109.079130180415,-7.413410651427512,0 109.07889471903,-7.414577634469993,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00030">
+			<name>Jaringan Transmisi Air Minum</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Transmisi Air Minum</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>30</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jaringan Transmisi Air Minum</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>16011200</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>26011201</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>46010000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>0,014053</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.0807483832275,-7.420733294704974,0 109.079702592425,-7.420618701582498,0 109.0784310058825,-7.420510139700013,0 109.078490425815,-7.419352147935001,0 109.0785260777725,-7.41921946156748,0 109.0789539012825,-7.418109722570023,0 109.0790727411475,-7.417832288244995,0 109.07932230486,-7.416119436625024,0 109.08001157607,-7.412585192874985,0 109.0804596218225,-7.409008673054984,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00031">
+			<name>Jaringan Transmisi Air Minum</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Transmisi Air Minum</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>31</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jaringan Transmisi Air Minum</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>16011200</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>26011201</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>46010000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>0,007006</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.0744890876,-7.421965273145019,0 109.0746316954375,-7.421714373869975,0 109.0747172601375,-7.421627524152484,0 109.074764796085,-7.421473124697514,0 109.074755288895,-7.421241525612514,0 109.0748313464075,-7.421019576602475,0 109.0748978967325,-7.420797627699983,0 109.0749454326775,-7.420575678907483,0 109.0749929686225,-7.420353730222473,0 109.07513557646,-7.420035282302479,0 109.07533522743,-7.41934048761749,0 109.07543980651,-7.419108889625021,0 109.0755729071575,-7.41889659156999,0 109.07566797905,-7.418674643712507,0 109.0758296012625,-7.418404446464989,0 109.0758391084525,-7.418163199060018,0 109.0757915725075,-7.417902652007513,0 109.0757440365625,-7.417748253824982,0 109.0755729071575,-7.41754560628999,0 109.0753162130525,-7.417449107494975,0 109.075059518945,-7.417391208227515,0 109.07481233203,-7.417304359342496,0 109.074432044465,-7.41719821072752,0 109.0741468287925,-7.417024513045022,0 109.073909149065,-7.416821865835004,0 109.0737094980925,-7.416503420402479,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00032">
+			<name>Jaringan Transmisi Air Minum</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Transmisi Air Minum</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>32</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jaringan Transmisi Air Minum</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>16011200</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>26011201</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>46010000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>0,002736</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.0775979384375,-7.421241525612514,0 109.0748978967325,-7.420797627699983,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00033">
+			<name>Jaringan Transmisi Air Minum</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Transmisi Air Minum</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>33</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jaringan Transmisi Air Minum</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>16011200</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>26011201</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>46010000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>0,00641</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.0735098471225,-7.425140126024985,0 109.073680976525,-7.425082225772485,0 109.076342989475,-7.424281273042481,0 109.0767517986075,-7.424020722462501,0 109.077312722765,-7.423036421622499,0 109.0774743449775,-7.422631121899997,0 109.0775979384375,-7.421241525612514,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00034">
+			<name>Jaringan Transmisi Air Minum</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Transmisi Air Minum</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>34</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jaringan Transmisi Air Minum</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>16011200</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>26011201</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>46010000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>0,004505</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.077312722765,-7.424802374657476,0 109.0774553306,-7.424628674052485,0 109.0777595606525,-7.424059322537516,0 109.07820639854,-7.422746921782505,0 109.0782729488625,-7.422138972725008,0 109.0784310058825,-7.420510139700013,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00035">
+			<name>Jaringan Transmisi Air Minum</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Transmisi Air Minum</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>35</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jaringan Transmisi Air Minum</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>16011200</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>26011201</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>46010000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>0,003892</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.0817819213925,-7.42431755818501,0 109.0796039553375,-7.423654021897505,0 109.07806428661,-7.423164316152508,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00036">
+			<name>Jaringan Transmisi Air Minum</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Transmisi Air Minum</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>36</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jaringan Transmisi Air Minum</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>16011200</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>26011201</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>46010000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>0,002056</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.07905253837,-7.425574378152476,0 109.0794993762575,-7.42500502544749,0 109.0800322018775,-7.423784490849982,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00037">
+			<name>Jaringan Transmisi Air Minum</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Transmisi Air Minum</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>37</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jaringan Transmisi Air Minum</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>16011200</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>26011201</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>46010000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>0,004601</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.0751726544975,-7.411359833992492,0 109.076343227155,-7.411552829002517,0 109.07642641506,-7.411522673524984,0 109.0764858349925,-7.411450300392517,0 109.077529924285,-7.40839127103999,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00038">
+			<name>Jaringan Transmisi Air Minum</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Transmisi Air Minum</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>38</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jaringan Transmisi Air Minum</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>16011200</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>26011201</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>46010000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>0,003619</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.074126863695,-7.409767628300016,0 109.0753449723,-7.408748378355028,0 109.07557076804,-7.408651881439993,0 109.075784679795,-7.408657912495016,0 109.07596293959,-7.408706160952477,0 109.0772301116875,-7.409269676107499,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00039">
+			<name>Jaringan Transmisi Air Minum</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Transmisi Air Minum</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>39</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jaringan Transmisi Air Minum</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>16011200</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>26011201</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>46010000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>0,002523</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.0796475109025,-7.409964963894993,0 109.0780901731525,-7.409616851537521,0 109.0772301116875,-7.409269676107499,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00040">
+			<name>Jaringan Transmisi Air Minum</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Transmisi Air Minum</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>40</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jaringan Transmisi Air Minum</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>16011200</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>26011201</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>46010000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>0,002441</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.0797101036225,-7.409515708515016,0 109.07811988312,-7.409176583674991,0 109.077372353185,-7.408852930057492,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00041">
+			<name>Jaringan Transmisi Air Minum</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Transmisi Air Minum</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>41</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jaringan Transmisi Air Minum</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>16011200</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>26011201</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>46010000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>0,000639</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.078778771935,-7.409317095959977,0 109.07887855204,-7.408685801234981,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00042">
+			<name>Jaringan Transmisi Air Minum</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Transmisi Air Minum</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>42</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jaringan Transmisi Air Minum</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>16011200</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>26011201</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>46010000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>0,000642</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.078073302325,-7.409156415857524,0 109.07807539926,-7.408514304542506,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00043">
+			<name>Jaringan Transmisi Air Minum</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Transmisi Air Minum</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>43</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jaringan Transmisi Air Minum</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>16011200</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>26011201</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>46010000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>0,002699</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.07956365634,-7.410678306024977,0 109.076901170925,-7.410233424209991,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00044">
+			<name>Jaringan Transmisi Air Minum</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Transmisi Air Minum</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>44</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jaringan Transmisi Air Minum</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>16011200</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>26011201</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>46010000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>0,002865</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.0794632724675,-7.41156226326251,0 109.0766815926275,-7.410876757494975,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00045">
+			<name>Jaringan Transmisi Air Minum</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Transmisi Air Minum</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>45</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jaringan Transmisi Air Minum</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>16011200</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>26011201</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>46010000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>0,000831</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.0780004799925,-7.410417110652475,0 109.0780133435725,-7.409585838227486,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00046">
+			<name>Jaringan Transmisi Air Minum</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Transmisi Air Minum</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>46</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jaringan Transmisi Air Minum</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>16011200</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>26011201</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>46010000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>0,002988</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.0822503136175,-7.409283877487496,0 109.08204239089,-7.410471655934998,0 109.0819829709575,-7.410525935665021,0 109.0803053776025,-7.410239922487506,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00047">
+			<name>Jaringan Transmisi Air Minum</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Transmisi Air Minum</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>47</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jaringan Transmisi Air Minum</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>16011200</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>26011201</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>46010000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>0,00438</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.0828992065025,-7.409143432930023,0 109.0826722421675,-7.410984298105006,0 109.0826068802425,-7.411080795517478,0 109.0825296343325,-7.411129044232496,0 109.0802355989475,-7.410796929429978,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00048">
+			<name>Jaringan Transmisi Air Minum</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Transmisi Air Minum</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>48</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jaringan Transmisi Air Minum</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>16011200</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>26011201</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>46010000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>0,001257</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.081325931835,-7.410413916932499,0 109.081649011135,-7.409198918712491,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00049">
+			<name>Jaringan Transmisi Air Minum</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Transmisi Air Minum</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>49</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jaringan Transmisi Air Minum</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>16011200</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>26011201</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>46010000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>0,002109</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.082238476665,-7.411334101329999,0 109.0819235510275,-7.411316008052495,0 109.0815610894425,-7.411406474445016,0 109.081174859885,-7.411484878665021,0 109.0801817388425,-7.411226867254982,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00050">
+			<name>Jaringan Transmisi Air Minum</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Transmisi Air Minum</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>50</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jaringan Transmisi Air Minum</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>16011200</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>26011201</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>46010000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>0,002118</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.07896784516,-7.407579480417495,0 109.07834037068,-7.407396136764987,0 109.0769860319775,-7.40683886901752,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00051">
+			<name>Jaringan Transmisi Air Minum</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Transmisi Air Minum</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>51</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jaringan Transmisi Air Minum</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>16011200</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>26011201</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>46010000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>0,001882</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.0790534098625,-7.406952252442522,0 109.0772694650525,-7.406353974262516,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00052">
+			<name>Jaringan Transmisi Air Minum</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Transmisi Air Minum</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>52</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jaringan Transmisi Air Minum</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>16011200</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>26011201</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>46010000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>0,000751</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.0782698704675,-7.408144093750025,0 109.07834037068,-7.407396136764987,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00053">
+			<name>Jaringan Transmisi Air Minum</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Transmisi Air Minum</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>53</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jaringan Transmisi Air Minum</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>16011200</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>26011201</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>46010000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>0,008806</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.0808847321625,-7.400116328002526,0 109.080605458485,-7.401696437825024,0 109.08046879264,-7.402926756157513,0 109.0802014029475,-7.403915838025,0 109.0792935611825,-7.408770550639986,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00054">
+			<name>Jaringan Transmisi Air Minum</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Transmisi Air Minum</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>54</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jaringan Transmisi Air Minum</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>16011200</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>26011201</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>46010000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>0,007657</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.08026795327,-7.400034608732483,0 109.08014673661,-7.40063529094499,0 109.07983299937,-7.402408393687494,0 109.079426567035,-7.404615735372488,0 109.0790534098625,-7.406952252442522,0 109.07896784516,-7.407579480417495,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00055">
+			<name>Jaringan Transmisi Air Minum</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Transmisi Air Minum</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>55</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jaringan Transmisi Air Minum</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>16011200</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>26011201</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>46010000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>0,001322</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.079085734305,-7.402162330035026,0 109.0790762271175,-7.402191278692499,0 109.07904770555,-7.402413218467473,0 109.07903819836,-7.402635158347493,0 109.07914277744,-7.402818500072499,0 109.0793709499775,-7.402972893159983,0 109.0797049227075,-7.403103979294997,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00056">
+			<name>Jaringan Transmisi Air Minum</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Transmisi Air Minum</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>56</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jaringan Transmisi Air Minum</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>16011200</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>26011201</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>46010000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>0,00357</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.07713676054,-7.405163350767509,0 109.07775472783,-7.405346693515014,0 109.0778973356675,-7.405298445414985,0 109.07914277744,-7.402818500072499,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00057">
+			<name>Jaringan Transmisi Air Minum</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Transmisi Air Minum</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>57</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jaringan Transmisi Air Minum</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>16011200</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>26011201</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>46010000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>0,002987</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.0764435525225,-7.403744694462489,0 109.0768800664325,-7.403870304025019,0 109.07691809519,-7.403822056085005,0 109.077060703025,-7.403252730765018,0 109.077184296485,-7.403088688009973,0 109.077288875565,-7.403040440152496,0 109.078743191345,-7.403614161382507,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00058">
+			<name>Jaringan Transmisi Air Minum</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Transmisi Air Minum</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>58</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jaringan Transmisi Air Minum</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>16011200</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>26011201</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>46010000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>0,002114</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.0815714681225,-7.407618380642475,0 109.08085842894,-7.407527915007506,0 109.0808346609675,-7.407491728760021,0 109.080775241035,-7.407413325229982,0 109.0804127794525,-7.407340952755021,0 109.0801097377975,-7.40731079756,0 109.079990897935,-7.407353014832495,0 109.079937419995,-7.407401263150007,0 109.079563977425,-7.407324485772507,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00059">
+			<name>Jaringan Transmisi Air Minum</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Transmisi Air Minum</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>59</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jaringan Transmisi Air Minum</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>16011200</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>26011201</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>46010000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>0,001001</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.0797829281725,-7.408390354792516,0 109.079937419995,-7.407401263150007,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00060">
+			<name>Jaringan Transmisi Air Minum</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Transmisi Air Minum</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>60</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jaringan Transmisi Air Minum</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>16011200</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>26011201</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>46010000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>0,000993</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.0807217630975,-7.408510975872503,0 109.08085842894,-7.407527915007506,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00061">
+			<name>Jaringan Transmisi Air Minum</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Transmisi Air Minum</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>61</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jaringan Transmisi Air Minum</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>16011200</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>26011201</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>46010000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>0,001653</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.0832071634,-7.407858077674973,0 109.0815714681225,-7.407618380642475,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00062">
+			<name>Jaringan Transmisi Air Minum</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Transmisi Air Minum</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>62</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jaringan Transmisi Air Minum</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>16011200</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>26011201</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>46010000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>0,000964</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.0829062362875,-7.408334200495005,0 109.0819517556875,-7.408197361132522,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00063">
+			<name>Jaringan Transmisi Air Minum</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Transmisi Air Minum</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>63</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jaringan Transmisi Air Minum</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>16011200</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>26011201</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>46010000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>0,003927</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.08266341733,-7.407778396365018,0 109.0827895767275,-7.407003214685005,0 109.0827598667625,-7.406942904339985,0 109.07971766093,-7.406502657320004,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00064">
+			<name>Jaringan Transmisi Air Minum</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Transmisi Air Minum</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>64</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jaringan Transmisi Air Minum</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>16011200</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>26011201</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>46010000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>0,001977</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.081743785925,-7.406418204695001,0 109.07978784004,-7.406127372329991,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00065">
+			<name>Jaringan Transmisi Air Minum</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Transmisi Air Minum</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>65</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jaringan Transmisi Air Minum</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>16011200</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>26011201</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>46010000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>0,001953</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.0822116285225,-7.406863567054983,0 109.082048045945,-7.407688218997521,0 109.0819517556875,-7.408197361132522,0 109.08179062864,-7.40876930612751,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00066">
+			<name>Jaringan Transmisi Air Minum</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Transmisi Air Minum</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>66</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jaringan Transmisi Air Minum</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>16011200</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>26011201</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>46010000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>0,001911</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.0817241287525,-7.406793019439987,0 109.0815583043225,-7.407616710507511,0 109.081387266335,-7.408673814382495,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00067">
+			<name>Jaringan Transmisi Air Minum</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Transmisi Air Minum</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>67</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jaringan Transmisi Air Minum</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>16011200</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>26011201</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>46010000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>0,002009</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.0818566837975,-7.405990001987504,0 109.079877613905,-7.405647304227501,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00068">
+			<name>Jaringan Transmisi Air Minum</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Transmisi Air Minum</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>68</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jaringan Transmisi Air Minum</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>16011200</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>26011201</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>46010000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>0,002206</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.0811228480875,-7.405862930217495,0 109.081156918425,-7.405632657044976,0 109.0813813243425,-7.405103442735026,0 109.0813100204225,-7.40505519466251,0 109.08120900654,-7.404994884579992,0 109.080977268805,-7.40494060551248,0 109.080022946375,-7.404870136097486,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00069">
+			<name>Jaringan Transmisi Air Minum</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Transmisi Air Minum</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>69</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jaringan Transmisi Air Minum</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>16011200</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>26011201</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>46010000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>0,003185</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.0816833292575,-7.405959983727485,0 109.081708135495,-7.405730519852511,0 109.082076537545,-7.405091380717522,0 109.0820646535575,-7.405012977604997,0 109.0820349435925,-7.404910450477473,0 109.0819398717025,-7.404844109405019,0 109.08152987417,-7.404639055250016,0 109.08119118056,-7.404512404199977,0 109.0800972177575,-7.404472968987478,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00070">
+			<name>Jaringan Transmisi Air Minum</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Transmisi Air Minum</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>70</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jaringan Transmisi Air Minum</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>16011200</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>26011201</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>46010000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>0,002404</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.082076537545,-7.405091380717522,0 109.0827539247675,-7.405404993307513,0 109.08283117068,-7.405459272429994,0 109.08277769274,-7.405622109842511,0 109.0826291429125,-7.405790978330003,0 109.08249841906,-7.406014126072478,0 109.082373637205,-7.406219180849973,0 109.0822904493,-7.406412173667491,0 109.0822116285225,-7.406863567054983,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00071">
+			<name>Jaringan Transmisi Air Minum</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Transmisi Air Minum</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>71</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jaringan Transmisi Air Minum</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>16011200</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>26011201</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>46010000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>0,000593</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.0824360281325,-7.406116653449999,0 109.0818566837975,-7.405990001987504,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00072">
+			<name>Jaringan Transmisi Air Minum</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Transmisi Air Minum</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>72</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jaringan Transmisi Air Minum</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>16011200</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>26011201</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>46010000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>0,000538</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.08227062278,-7.406525716779981,0 109.081743785925,-7.406418204695001,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00073">
+			<name>Jaringan Transmisi Air Minum</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Transmisi Air Minum</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>73</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jaringan Transmisi Air Minum</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>16011200</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>26011201</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>46010000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>0,007019</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.0840671052625,-7.39844525729751,0 109.0839185554325,-7.398596030340001,0 109.08379971557,-7.39872871066001,0 109.0836868177,-7.398843298240024,0 109.083585803815,-7.398909638432485,0 109.08350261591,-7.398994071417519,0 109.0834431959775,-7.399120720924998,0 109.083401602025,-7.39926546326251,0 109.083306530135,-7.399374020045001,0 109.0831817482775,-7.399506700592497,0 109.08305696642,-7.399597164624993,0 109.0829856625025,-7.399735876174987,0 109.082982395145,-7.400027524004998,0 109.08305696642,-7.400357063209981,0 109.0830510244275,-7.400489744044989,0 109.0830034884825,-7.400652579670008,0 109.082896532605,-7.400773198687489,0 109.0827895767275,-7.401062684464989,0 109.0827598667625,-7.401219489337507,0 109.0827539247675,-7.401382325222528,0 109.0827717507475,-7.40155119213,0 109.0827895767275,-7.401677842352512,0 109.0828074027075,-7.401852740335016,0 109.0827717507475,-7.402009545482484,0 109.082171609435,-7.403155430890023,0 109.0819517556875,-7.403523321029979,0 109.0819042197425,-7.403698219725015,0 109.081677880715,-7.404713078507484,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00074">
+			<name>Jaringan Transmisi Air Minum</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Transmisi Air Minum</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>74</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jaringan Transmisi Air Minum</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>16011200</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>26011201</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>46010000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>0,000969</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.0849366169325,-7.398152958765025,0 109.0845278078025,-7.398152958765025,0 109.084290128075,-7.398230154507473,0 109.0840671052625,-7.39844525729751,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00075">
+			<name>Jaringan Transmisi Air Minum</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Transmisi Air Minum</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>75</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jaringan Transmisi Air Minum</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>16011200</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>26011201</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>46010000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>0,001563</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.08157107199,-7.400237248427515,0 109.0815045216675,-7.401009209994982,0 109.0814569857225,-7.401028509049978,0 109.0807200796625,-7.401047919005009,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00076">
+			<name>Jaringan Transmisi Air Minum</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Transmisi Air Minum</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>76</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jaringan Transmisi Air Minum</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>16011200</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>26011201</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>46010000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>0,011088</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.0838242758075,-7.393878265047476,0 109.0836816679725,-7.395045841044976,0 109.0835770888925,-7.395364271385006,0 109.083424973865,-7.3958274431875,0 109.0829876431675,-7.397612588934976,0 109.0828735568975,-7.3982205050375,0 109.08241721182,-7.399368793234999,0 109.082274603985,-7.399687226612515,0 109.0821795320925,-7.400237248427515,0 109.0821224889575,-7.400285495984974,0 109.08157107199,-7.400237248427515,0 109.0808847321625,-7.400116328002526,0 109.08026795327,-7.400034608732483,0 109.077758093305,-7.399629237579973,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00077">
+			<name>Jaringan Transmisi Air Minum</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Transmisi Air Minum</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>77</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jaringan Transmisi Air Minum</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>16011200</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>26011201</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>46010000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>0,009683</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.0829781359775,-7.393675628195011,0 109.08284503533,-7.394833554277511,0 109.0827689778175,-7.395007243442478,0 109.0823411543075,-7.396946776997481,0 109.08198938831,-7.398191556635026,0 109.0816566366925,-7.399137205465024,0 109.08158057918,-7.399436339689998,0 109.0814379713425,-7.399532834645015,0 109.077906899165,-7.399042114132499,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00078">
+			<name>Jaringan Transmisi Air Minum</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Transmisi Air Minum</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>78</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jaringan Transmisi Air Minum</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>16011200</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>26011201</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>46010000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>0,00268</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.0850602103925,-7.395528311345004,0 109.0849366169325,-7.395779196102525,0 109.08487006661,-7.395981833892506,0 109.0847940090975,-7.396203770624992,0 109.08477499472,-7.39635816146,0 109.0847274587725,-7.396628345545025,0 109.08454682218,-7.396724839900003,0 109.0842140705625,-7.396666943285027,0 109.08331423621,-7.396279463962514,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00079">
+			<name>Jaringan Transmisi Air Minum</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Transmisi Air Minum</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>79</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jaringan Transmisi Air Minum</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>16011200</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>26011201</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>46010000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>0,005682</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.0939719919725,-7.404062371089991,0 109.0885172422225,-7.405654556709977,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00080">
+			<name>Jaringan Transmisi Air Minum</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Transmisi Air Minum</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>80</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jaringan Transmisi Air Minum</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>16011200</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>26011201</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>46010000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>0,008205</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.0988870464625,-7.402217953472474,0 109.09806661948,-7.402356808762477,0 109.0966120195475,-7.402718667277498,0 109.095941762715,-7.402914070994996,0 109.0955781127325,-7.40303710300998,0 109.0949149862925,-7.403138423514974,0 109.0946083794425,-7.40321803250248,0 109.0909647492175,-7.404310848174987,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00081">
+			<name>Jaringan Transmisi Air Minum</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Transmisi Air Minum</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>81</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jaringan Transmisi Air Minum</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>16011200</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>26011201</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>46010000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>0,003885</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.0973234741975,-7.404729801755025,0 109.097168982375,-7.404717739745024,0 109.097204634335,-7.404717739745024,0 109.0962895673825,-7.404560933662481,0 109.09498232888,-7.40427144565001,0 109.094839721045,-7.404199073674988,0 109.094839721045,-7.404126701712528,0 109.09485160503,-7.403897523907517,0 109.094804069085,-7.403813090009976,0 109.0939719919725,-7.404062371089991,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00082">
+			<name>Jaringan Transmisi Air Minum</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Transmisi Air Minum</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>82</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jaringan Transmisi Air Minum</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>16011200</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>26011201</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>46010000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>0,003742</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.095528992255,-7.408203673632499,0 109.0965670286475,-7.404608479482476,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00083">
+			<name>Jaringan Transmisi Air Minum</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Transmisi Air Minum</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>83</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jaringan Transmisi Air Minum</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>16011200</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>26011201</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>46010000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>0,002582</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.09600409771,-7.406558162897511,0 109.09544580435,-7.406321989722528,0 109.095362616445,-7.40627374152001,0 109.0956359481325,-7.40538115070001,0 109.0957578443075,-7.404443183545027,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00084">
+			<name>Jaringan Transmisi Air Minum</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Transmisi Air Minum</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>84</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jaringan Transmisi Air Minum</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>16011200</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>26011201</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>46010000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>0,002062</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.09098765915,-7.406889237477515,0 109.0912048057425,-7.406144597190007,0 109.0912446170975,-7.404858463200014,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00085">
+			<name>Jaringan Transmisi Air Minum</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Transmisi Air Minum</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>85</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jaringan Transmisi Air Minum</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>16011200</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>26011201</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>46010000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>0,007012</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.08639892165,-7.410848819789977,0 109.0865415294875,-7.410892243610022,0 109.0868695275125,-7.410863294395028,0 109.08709770005,-7.410921192827516,0 109.0873971765075,-7.410979091265006,0 109.0877109137475,-7.410979091265006,0 109.0881387372575,-7.410602751547515,0 109.0881387372575,-7.410255361320026,0 109.0881244764725,-7.409994818822497,0 109.0882956058775,-7.409661903627524,0 109.0884524744975,-7.409386886912501,0 109.0886236039025,-7.408822379442482,0 109.08873769017,-7.408156551025001,0 109.0887804725225,-7.407403876599973,0 109.0888232548725,-7.406882795040019,0 109.0886663862525,-7.406086699370007,0 109.0885172422225,-7.405654556709977,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00086">
+			<name>Jaringan Transmisi Air Minum</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Transmisi Air Minum</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>86</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jaringan Transmisi Air Minum</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>16011200</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>26011201</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>46010000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>0,003049</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.0856573609,-7.406578831075023,0 109.0886663862525,-7.406086699370007,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00087">
+			<name>Jaringan Transmisi Air Minum</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Transmisi Air Minum</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>87</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jaringan Transmisi Air Minum</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>16011200</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>26011201</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>46010000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>0,006026</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.0861707491125,-7.409705327335018,0 109.086028141275,-7.409965869664973,0 109.085985358925,-7.410139564635017,0 109.0860709236275,-7.410255361320026,0 109.0871162535375,-7.410281333114995,0 109.0873401333725,-7.410269835907514,0 109.087425698075,-7.410168513804991,0 109.08748274121,-7.409922445932523,0 109.0874970019925,-7.409517157967514,0 109.0877109137475,-7.408793430362494,0 109.08779647845,-7.408344719827483,0 109.0878250000175,-7.408055229395018,0 109.0877536960975,-7.407780213657475,0 109.08772517453,-7.407563096085028,0 109.0878250000175,-7.406969641925002,0 109.0877732372775,-7.406232775492525,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00088">
+			<name>Jaringan Transmisi Air Minum</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Transmisi Air Minum</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>88</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jaringan Transmisi Air Minum</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>16011200</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>26011201</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>46010000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>0,001785</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.08651300792,-7.40824339815498,0 109.08611111589,-7.40650461856751,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00089">
+			<name>Jaringan Transmisi Air Minum</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Transmisi Air Minum</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>89</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jaringan Transmisi Air Minum</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>16011200</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>26011201</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>46010000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>0,012207</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.10010346496,-7.399989728617527,0 109.0992859164825,-7.399995005550011,0 109.0988105570275,-7.400023954069979,0 109.0967855257475,-7.400216944247518,0 109.09167065801,-7.400902060042482,0 109.09144248547,-7.401037153420019,0 109.090986140395,-7.401731919997474,0 109.090776982235,-7.402397738967522,0 109.0908055038,-7.403111806777474,0 109.0909647492175,-7.404310848174987,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00090">
+			<name>Jaringan Transmisi Air Minum</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Transmisi Air Minum</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>90</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jaringan Transmisi Air Minum</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>16011200</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>26011201</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>46010000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>0,002381</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.0972483346625,-7.402560372142488,0 109.096889190855,-7.400207064720007,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00091">
+			<name>Jaringan Transmisi Air Minum</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Transmisi Air Minum</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>91</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jaringan Transmisi Air Minum</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>16011200</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>26011201</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>46010000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>0,001062</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.0981830825475,-7.40178981726001,0 109.0971221618575,-7.401733617257491,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

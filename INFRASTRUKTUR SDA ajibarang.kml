@@ -1,0 +1,652 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="IRIGASI_PT" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+	<name>INFRASTRUKTUR SDA</name>
+	<Snippet maxLines="0"></Snippet>
+	<Style id="IconStyle00">
+		<IconStyle>
+			<scale>1.75</scale>
+			<Icon>
+				<href>https://raw.githubusercontent.com/kominfobms/dinperkim/main/icon/peta_ajibarang/Layer0_Symbol_124322f8_0.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<PolyStyle>
+			<color>ff000000</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Folder id="FeatureLayer0">
+		<name>IRIGASI_PT</name>
+		<Snippet maxLines="0"></Snippet>
+		<Placemark id="ID_00000">
+			<name>Prasarana Irigasi</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Prasarana Irigasi</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Prasarana Irigasi</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>45010000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>15013000</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>45000000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td>Bangunan Irigasi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td>Dinas Pekerjaan Umum Kabupaten Banyumas, 2021</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.0969096665925,-7.406434597707516,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00001">
+			<name>Prasarana Irigasi</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Prasarana Irigasi</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Prasarana Irigasi</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>45010000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>15013000</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>45000000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td>Bangunan Irigasi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td>Dinas Pekerjaan Umum Kabupaten Banyumas, 2021</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.0846111111225,-7.402166666100015,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00002">
+			<name>Prasarana Irigasi</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Prasarana Irigasi</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>2</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Prasarana Irigasi</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>45010000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>15013000</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>45000000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td>Bangunan Irigasi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td>Dinas Pekerjaan Umum Kabupaten Banyumas, 2021</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.0764199999875,-7.396600000027491,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00003">
+			<name>Prasarana Irigasi</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Prasarana Irigasi</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>3</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Prasarana Irigasi</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>45010000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>15013000</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>45000000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td>Bangunan Irigasi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td>Dinas Pekerjaan Umum Kabupaten Banyumas, 2021</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.071532487835,-7.398610735037494,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00004">
+			<name>Prasarana Irigasi</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Prasarana Irigasi</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>4</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Prasarana Irigasi</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>45010000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>15013000</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>45000000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td>Bangunan Irigasi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td>Dinas Pekerjaan Umum Kabupaten Banyumas, 2021</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.090506266235,-7.398306511305009,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

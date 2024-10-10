@@ -1,0 +1,7277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="ENERGI_PT" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+	<name>INFRASTRUKTUR ENERGI</name>
+	<Snippet maxLines="0"></Snippet>
+	<Style id="IconStyle00">
+		<IconStyle>
+			<scale>1.125</scale>
+			<Icon>
+				<href>https://raw.githubusercontent.com/kominfobms/dinperkim/main/icon/peta_ajibarang/Layer0_Symbol_124328d8_0.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<PolyStyle>
+			<color>ff000000</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Folder id="FeatureLayer0">
+		<name>ENERGI_PT</name>
+		<Snippet maxLines="0"></Snippet>
+		<Placemark id="ID_00000">
+			<name>Gardu Distribusi</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>13021400</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>13021403</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>43000000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.0880083208725,-7.405721257730023,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00001">
+			<name>Gardu Distribusi</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>13021400</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>13021403</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>43000000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.0956645280675,-7.404037767847512,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00002">
+			<name>Gardu Distribusi</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>2</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>13021400</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>13021403</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>43000000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.09580711865,-7.405147505192473,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00003">
+			<name>Gardu Distribusi</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>3</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>13021400</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>13021403</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>43000000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.090883682335,-7.402930739107489,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00004">
+			<name>Gardu Distribusi</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>4</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>13021400</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>13021403</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>43000000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.0908728562925,-7.402431020894993,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00005">
+			<name>Gardu Distribusi</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>5</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>13021400</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>13021403</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>43000000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.0959071822825,-7.400444526570026,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00006">
+			<name>Gardu Distribusi</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>6</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>13021400</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>13021403</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>43000000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.0965407757975,-7.400358454859997,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00007">
+			<name>Gardu Distribusi</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>7</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>13021400</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>13021403</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>43000000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.0965497664625,-7.40106400853,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00008">
+			<name>Gardu Distribusi</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>8</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>13021400</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>13021403</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>43000000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.0967772948625,-7.402394722599979,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00009">
+			<name>Gardu Distribusi</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>9</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>13021400</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>13021403</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>43000000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.09773004302,-7.40306543521001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00010">
+			<name>Gardu Distribusi</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>10</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>13021400</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>13021403</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>43000000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.0925917733775,-7.404380071207527,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00011">
+			<name>Gardu Distribusi</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>11</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>13021400</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>13021403</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>43000000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.0842044820375,-7.407196086172519,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00012">
+			<name>Gardu Distribusi</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>12</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>13021400</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>13021403</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>43000000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.0820778869125,-7.398552305102498,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00013">
+			<name>Gardu Distribusi</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>13</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>13021400</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>13021403</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>43000000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.08351510499,-7.395166523907507,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00014">
+			<name>Gardu Distribusi</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>14</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>13021400</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>13021403</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>43000000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.0808539320325,-7.40001242873501,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00015">
+			<name>Gardu Distribusi</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>15</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>13021400</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>13021403</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>43000000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.0804452755225,-7.402100002835027,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00016">
+			<name>Gardu Distribusi</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>16</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>13021400</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>13021403</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>43000000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.0799515458275,-7.40465292043001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00017">
+			<name>Gardu Distribusi</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>17</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>13021400</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>13021403</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>43000000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.07965851373,-7.406269946999998,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00018">
+			<name>Gardu Distribusi</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>18</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>13021400</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>13021403</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>43000000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.0819216108825,-7.407892322660018,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00019">
+			<name>Gardu Distribusi</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>19</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>13021400</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>13021403</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>43000000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.0819940941525,-7.407529802744989,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00020">
+			<name>Gardu Distribusi</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>20</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>13021400</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>13021403</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>43000000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.0821195061075,-7.406870386407491,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00021">
+			<name>Gardu Distribusi</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>21</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>13021400</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>13021403</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>43000000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.07708614565,-7.404706289884984,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00022">
+			<name>Gardu Distribusi</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>22</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>13021400</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>13021403</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>43000000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.0748165657,-7.406832032842487,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00023">
+			<name>Gardu Distribusi</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>23</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>13021400</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>13021403</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>43000000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.0830977182375,-7.408734572172477,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00024">
+			<name>Gardu Distribusi</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>24</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>13021400</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>13021403</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>43000000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.08097658351,-7.408711119862517,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00025">
+			<name>Gardu Distribusi</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>25</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>13021400</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>13021403</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>43000000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.0791740925125,-7.408716774009974,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00026">
+			<name>Gardu Distribusi</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>26</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>13021400</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>13021403</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>43000000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.07752705816,-7.407957332775027,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00027">
+			<name>Gardu Distribusi</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>27</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>13021400</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>13021403</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>43000000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.076611597325,-7.407306415580024,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00028">
+			<name>Gardu Distribusi</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>28</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>13021400</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>13021403</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>43000000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.0761304611075,-7.404438646645019,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00029">
+			<name>Gardu Distribusi</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>29</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>13021400</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>13021403</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>43000000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.076890649055,-7.402024529189988,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00030">
+			<name>Gardu Distribusi</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>30</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>13021400</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>13021403</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>43000000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.077985097915,-7.398111340415027,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00031">
+			<name>Gardu Distribusi</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>31</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>13021400</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>13021403</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>43000000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.0778745768425,-7.395413719575004,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00032">
+			<name>Gardu Distribusi</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>32</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>13021400</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>13021403</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>43000000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.0724641791375,-7.406241025609972,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00033">
+			<name>Gardu Distribusi</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>33</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>13021400</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>13021403</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>43000000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.0682975679725,-7.404752257022494,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00034">
+			<name>Gardu Distribusi</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>34</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>13021400</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>13021403</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>43000000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.07057794389,-7.404124529550018,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00035">
+			<name>Gardu Distribusi</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>35</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>13021400</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>13021403</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>43000000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.0705886394775,-7.403650493482474,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00036">
+			<name>Gardu Distribusi</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>36</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>13021400</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>13021403</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>43000000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.0697864703975,-7.403469563817509,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00037">
+			<name>Gardu Distribusi</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>37</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>13021400</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>13021403</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>43000000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.082002545295,-7.410991220380026,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00038">
+			<name>Gardu Distribusi</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>38</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>13021400</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>13021403</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>43000000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.0803974646525,-7.410739393549989,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00039">
+			<name>Gardu Distribusi</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>39</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>13021400</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>13021403</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>43000000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.07920894091,-7.410557459245013,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00040">
+			<name>Gardu Distribusi</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>40</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>13021400</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>13021403</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>43000000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.0782353857175,-7.411204786014991,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00041">
+			<name>Gardu Distribusi</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>41</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>13021400</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>13021403</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>43000000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.076852105465,-7.410875486267514,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00042">
+			<name>Gardu Distribusi</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>42</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>13021400</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>13021403</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>43000000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.0733980018125,-7.410943024952473,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00043">
+			<name>Gardu Distribusi</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>43</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>13021400</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>13021403</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>43000000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.073461025725,-7.408857477192498,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00044">
+			<name>Gardu Distribusi</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>44</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>13021400</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>13021403</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>43000000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.074958721945,-7.416127219832504,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00045">
+			<name>Gardu Distribusi</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>45</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>13021400</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>13021403</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>43000000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.077186876265,-7.415683897609994,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00046">
+			<name>Gardu Distribusi</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>46</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>13021400</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>13021403</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>43000000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.0780052663125,-7.415699159257485,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00047">
+			<name>Gardu Distribusi</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>47</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>13021400</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>13021403</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>43000000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.07966407012,-7.410640941790007,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00048">
+			<name>Gardu Distribusi</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>48</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>13021400</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>13021403</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>43000000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.079894772485,-7.412351225814973,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00049">
+			<name>Gardu Distribusi</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>49</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>13021400</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>13021403</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>43000000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.07923767008,-7.415713241450021,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00050">
+			<name>Gardu Distribusi</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>50</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>13021400</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>13021403</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>43000000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.0783316242825,-7.420388134040024,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00051">
+			<name>Gardu Distribusi</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>51</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>13021400</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>13021403</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>43000000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.0776267792975,-7.420703725457486,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00052">
+			<name>Gardu Distribusi</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>52</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>13021400</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>13021403</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>43000000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.077530656265,-7.424158115770013,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00053">
+			<name>Gardu Distribusi</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>53</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>13021400</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>13021403</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>43000000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.07704815671,-7.425611510540023,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00054">
+			<name>Gardu Distribusi</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>54</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>13021400</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>13021403</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>43000000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.078210254405,-7.423821419157491,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00055">
+			<name>Gardu Distribusi</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>55</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>13021400</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>13021403</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>43000000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.07654824523,-7.423207809157476,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00056">
+			<name>Gardu Distribusi</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>56</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>13021400</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>13021403</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>43000000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.076417338665,-7.420792309169996,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00057">
+			<name>Gardu Distribusi</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>57</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>13021400</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>13021403</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>43000000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.0769532771425,-7.419338631929974,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

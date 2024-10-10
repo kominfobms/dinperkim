@@ -1,0 +1,5581 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="IRIGASI_LN" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+	<name>JARINGAN SDA</name>
+	<Snippet maxLines="0"></Snippet>
+	<Style id="LineStyle00">
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff00a838</color>
+			<width>1.5</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>00000000</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Folder id="FeatureLayer0">
+		<name>IRIGASI_LN</name>
+		<Snippet maxLines="0"></Snippet>
+		<Placemark id="ID_00000">
+			<name>Jaringan Irigasi Sekunder</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Irigasi Sekunder</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jaringan Irigasi Sekunder</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>25011000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>25011200</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>45000000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>0,004892</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.081181,-7.423027999999988,116.1000000000058 109.081196,-7.422695999999974,0 109.081299,-7.422591000000012,0 109.081402,-7.422485999999992,117.8000000000029 109.081359,-7.422401999999977,117.3999999999942 109.081338,-7.422309999999982,115.3000000000029 109.081383,-7.422228000000018,115.6000000000058 109.081401,-7.42213700000002,115.3000000000029 109.08141,-7.422046000000024,112.1999999999971 109.081451,-7.421963000000005,110.3999999999942 109.081445,-7.421873000000005,108.1000000000058 109.081435,-7.421775000000025,105 109.081453,-7.421685000000025,104.8000000000029 109.081375,-7.421632999999986,109.6000000000058 109.081379,-7.421615999999972,107.8999999999942 109.081336,-7.421531000000016,106.6000000000058 109.08131,-7.421442000000013,106.8999999999942 109.081317,-7.421348000000023,107.6999999999971 109.081326,-7.421248999999989,108.5 109.081264,-7.421176000000003,109.1000000000058 109.081235,-7.421110999999995,109.5 109.081207,-7.421023999999989,110 109.081222,-7.420931999999993,108.8000000000029 109.081236,-7.420838000000003,107.5 109.081151,-7.420799999999986,109 109.081108,-7.420736999999975,110.6000000000058 109.081096,-7.420644999999979,114 109.081083,-7.420313000000021,113.1000000000058 109.08097,-7.420339000000013,114.3999999999942 109.080933,-7.420275000000003,114.5 109.080882,-7.420195999999977,114 109.080944,-7.420116000000007,114.6999999999971 109.081046,-7.420041000000026,115.6999999999971 109.081025,-7.419951000000026,116 109.081039,-7.419857999999977,115.8000000000029 109.081061,-7.419762999999989,115.8999999999942 109.081054,-7.419670999999994,116.6999999999971 109.081003,-7.419590000000028,117.1999999999971 109.08107,-7.419464000000005,113 109.080957,-7.419475999999975,110.1000000000058 109.080838,-7.419481000000019,108 109.080736,-7.419479000000024,109.1000000000058 109.080662,-7.419420000000002,113.5 109.080655,-7.41941700000001,113.6999999999971 109.080557,-7.41941700000001,113.5 109.08046,-7.419422999999995,112.8000000000029 109.080381,-7.419377999999995,114.3999999999942 109.080377,-7.419335999999986,114.8999999999942 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00001">
+			<name>Jaringan Irigasi Sekunder</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Irigasi Sekunder</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jaringan Irigasi Sekunder</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>25011000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>25011200</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>45000000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>0,00046</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.073186,-7.406633999999997,145.1000000000058 109.073281,-7.406318999999996,145.8999999999942 109.073351,-7.40634399999999,146.8000000000029 109.073404,-7.406362999999998,148.1999999999971 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00002">
+			<name>Jaringan Irigasi Primer</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Irigasi Primer</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>2</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jaringan Irigasi Primer</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>25011000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>25011100</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>45000000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>0,005725</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.080377,-7.419335999999986,0 109.080409,-7.41913599999998,0 109.080425,-7.419036000000006,0 109.080441,-7.418935999999974,0 109.08043,-7.418845999999974,0 109.080406,-7.418749999999988,0 109.080445,-7.418656999999996,0 109.080444,-7.418607000000008,0 109.080404,-7.418520000000002,0 109.080408,-7.418439999999975,0 109.080419,-7.418345999999985,0 109.080387,-7.418252999999993,0 109.080429,-7.41816799999998,0 109.080469,-7.418075999999985,0 109.080486,-7.417981999999995,0 109.080465,-7.417867000000001,0 109.080485,-7.417634000000021,0 109.080533,-7.417550000000006,0 109.080586,-7.417462,0 109.080628,-7.417362000000026,0 109.080596,-7.417272000000025,0 109.080501,-7.417247999999972,0 109.080415,-7.417216999999993,0 109.08033,-7.41717799999998,0 109.080205,-7.417163000000016,0 109.080104,-7.417131999999981,0 109.080019,-7.417140000000017,0 109.079962,-7.417095000000018,0 109.079998,-7.416781000000015,0 109.07998,-7.416599000000018,0 109.079965,-7.416516999999999,0 109.079974,-7.416477999999984,0 109.079986,-7.416444000000013,0 109.080045,-7.416324999999972,0 109.08006,-7.416044999999996,0 109.080098,-7.415857000000016,0 109.08019,-7.415643999999986,0 109.080298,-7.415506999999992,0 109.080337,-7.415454000000011,0 109.080511,-7.41534200000001,0 109.080517,-7.415268000000026,0 109.080587,-7.415145999999993,0 109.080728,-7.414937000000009,0 109.080756,-7.414870000000008,0 109.080778,-7.414824000000009,0 109.080801,-7.414778000000013,0 109.080854,-7.414701999999977,0 109.08086,-7.414610999999979,0 109.080924,-7.414504000000023,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00003">
+			<name>Jaringan Irigasi Tersier</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Irigasi Tersier</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>3</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jaringan Irigasi Tersier</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>25011000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>25011300</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>45000000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>0,003173</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.070333,-7.406773999999984,148.5 109.071037,-7.40699699999999,0 109.071094,-7.407044999999982,0 109.071321,-7.407146000000012,0 109.071649,-7.40718099999998,0 109.072046,-7.406980999999973,0 109.0724,-7.40688,0 109.072614,-7.406866999999977,148.5 109.072748,-7.406762000000015,148.5 109.072869,-7.406778999999972,148.5 109.072938,-7.406802000000027,148.6000000000058 109.073092,-7.406837999999994,148.3999999999942 109.073128,-7.406706999999982,0 109.073188,-7.406633,148.3999999999942 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00004">
+			<name>Jaringan Irigasi Tersier</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Irigasi Tersier</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>4</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jaringan Irigasi Tersier</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>25011000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>25011300</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>45000000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>0,000894</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.073046,-7.404492000000005,144.6000000000058 109.073431,-7.404544999999985,0 109.073837,-7.404585999999995,144.6999999999971 109.073934,-7.404590999999982,144.3000000000029 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00005">
+			<name>Jaringan Irigasi Tersier</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Irigasi Tersier</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>5</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jaringan Irigasi Tersier</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>25011000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>25011300</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>45000000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>0,001048</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.07249,-7.399726999999984,148.1000000000058 109.072535,-7.399786000000006,0 109.072593,-7.399820999999974,0 109.072677,-7.399876000000006,0 109.072787,-7.399937000000022,148.6000000000058 109.072818,-7.399959000000024,148.3000000000029 109.072889,-7.40000600000002,147.8000000000029 109.072904,-7.400021999999979,0 109.073062,-7.40016300000002,146 109.073112,-7.400237000000004,146.1999999999971 109.07318,-7.400284999999997,146.1999999999971 109.07321,-7.400316999999973,146.1000000000058 109.073245,-7.400418000000002,146.1000000000058 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00006">
+			<name>Jaringan Irigasi Sekunder</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Irigasi Sekunder</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>6</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jaringan Irigasi Sekunder</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>25011000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>25011200</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>45000000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>0,006396</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.08605,-7.416463000000022,125.7498999999953 109.085885,-7.416389999999977,0 109.085577,-7.416283000000022,0 109.085253,-7.416158999999994,0 109.08521,-7.416121999999972,133.1132999999973 109.085272,-7.415935999999988,127.4336999999941 109.085318,-7.415843999999992,128.1803999999975 109.085246,-7.415775999999994,126.7698999999993 109.085029,-7.415724000000013,0 109.084798,-7.415669999999977,133.3859999999986 109.08467,-7.415557999999976,135.2652999999991 109.084506,-7.41553399999998,134.7614999999932 109.084413,-7.415510999999982,137.3277999999991 109.08412,-7.415481999999997,0 109.084018,-7.415497000000016,0 109.083955,-7.415479000000006,140.8101000000024 109.083751,-7.415445999999974,136.6582999999955 109.083457,-7.415369999999996,0 109.083271,-7.415290000000027,140.0774999999994 109.083217,-7.415263999999979,139.9661999999953 109.083108,-7.415214999999989,0 109.082909,-7.41519199999999,0 109.082724,-7.415180000000021,0 109.082658,-7.415158000000019,140.8191999999981 109.082608,-7.415127999999982,0 109.082617,-7.414957000000015,141.8937000000005 109.082653,-7.414622000000008,141.5464999999967 109.082652,-7.414493999999991,0 109.082697,-7.414374000000009,0 109.082697,-7.414222999999993,0 109.082663,-7.414117999999974,149.8867000000027 109.082606,-7.413992000000007,152.2698999999993 109.082596,-7.413877000000013,142.8625999999931 109.082568,-7.413771999999994,155.0927999999985 109.082534,-7.413704999999993,155.3591000000015 109.082494,-7.413504999999986,156.6389000000054 109.082476,-7.413409000000001,151.7314000000042 109.082438,-7.413279999999986,155.5460000000021 109.082458,-7.413052999999991,150.9530999999988 109.082507,-7.412967999999978,150.7140000000072 109.082555,-7.412928000000022,149.1040999999968 109.082551,-7.412889000000006,160.094299999997 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00007">
+			<name>Jaringan Irigasi Tersier</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Irigasi Tersier</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>7</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jaringan Irigasi Tersier</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>25011000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>25011300</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>45000000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>0,003135</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.070056,-7.407877999999982,141.1999999999971 109.070303,-7.407988999999986,0 109.070748,-7.408051,0 109.070732,-7.408233999999993,0 109.071579,-7.408266000000025,0 109.072429,-7.408271000000013,141.1000000000058 109.072618,-7.408273000000009,140.8000000000029 109.072625,-7.408240999999975,140.5 109.072642,-7.408187999999996,141.6000000000058 109.072651,-7.408139000000006,142.1000000000058 109.072663,-7.408087000000023,142.3000000000029 109.072689,-7.408065000000021,142.1999999999971 109.072752,-7.408067000000017,141.3999999999942 109.072805,-7.408083999999973,140.5 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00008">
+			<name>Jaringan Irigasi Tersier</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Irigasi Tersier</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>8</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jaringan Irigasi Tersier</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>25011000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>25011300</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>45000000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>0,002155</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.07226,-7.405057999999997,135.6999999999971 109.072486,-7.405142000000011,0 109.07248,-7.40527800000001,0 109.072644,-7.405339000000027,0 109.072832,-7.405422999999985,0 109.072927,-7.405427999999972,0 109.073096,-7.405483000000004,0 109.073364,-7.405529999999999,0 109.07363,-7.405619000000002,0 109.073754,-7.405626999999981,0 109.07388,-7.405619000000002,135.1000000000058 109.073942,-7.405568000000017,0 109.074006,-7.405529999999999,134.5 109.074041,-7.405501000000015,134 109.074071,-7.40548899999999,134.1000000000058 109.07411,-7.405484999999999,0 109.074154,-7.405506000000003,133.1000000000058 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00009">
+			<name>Jaringan Irigasi Tersier</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Irigasi Tersier</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>9</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jaringan Irigasi Tersier</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>25011000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>25011300</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>45000000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>0,000598</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.083408,-7.40222399999999,0 109.083473,-7.401944000000015,169.6000000000058 109.083518,-7.401683999999989,170 109.083471,-7.401683999999989,165.8999999999942 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00010">
+			<name>Jaringan Irigasi Sekunder</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Irigasi Sekunder</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>10</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jaringan Irigasi Sekunder</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>25011000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>25011200</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>45000000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>0,000641</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.073033,-7.401823999999976,149.6999999999971 109.072717,-7.40155900000002,154.1999999999971 109.072675,-7.401528999999982,152.8000000000029 109.072561,-7.401393999999983,164.8999999999942 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00011">
+			<name>Jaringan Irigasi Primer</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Irigasi Primer</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>11</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jaringan Irigasi Primer</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>25011000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>25011100</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>45000000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>0,002229</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.084673267005,-7.399436319390021,167.553899999999 109.084694,-7.399399000000018,167.6000000000058 109.084735,-7.399184999999989,0 109.0847594390725,-7.399091769464973,151.0696999999927 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.083471,-7.401682999999991,165.8999999999942 109.083409,-7.401552999999979,0 109.083261,-7.401229000000001,0 109.083252,-7.401125999999977,0 109.083273,-7.401042000000018,0 109.083324,-7.40096699999998,167.8000000000029 109.083434,-7.40080499999999,0 109.083488,-7.40059500000001,0 109.083618,-7.400139000000024,163.3000000000029 109.083648,-7.400087999999982,0 109.083692,-7.400050000000023,0 109.083767533525,-7.400005984059987,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00012">
+			<name>Jaringan Irigasi Sekunder</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Irigasi Sekunder</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>12</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jaringan Irigasi Sekunder</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>25011000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>25011200</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>45000000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>0,001504</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.072803,-7.408086000000025,135.3000000000029 109.072829,-7.407990999999981,135.3000000000029 109.07285,-7.407884000000024,105.3999999999942 109.07319,-7.406633,145.1000000000058 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00013">
+			<name>Jaringan Irigasi Primer</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Irigasi Primer</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>13</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jaringan Irigasi Primer</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>25011000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>25011100</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>45000000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>0,007194</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.073243,-7.400417000000003,0 109.073412,-7.400421999999992,0 109.073469,-7.400413000000015,0 109.073533,-7.400396999999998,0 109.073595,-7.400386000000026,0 109.07365,-7.400385000000028,0 109.073691,-7.400383999999974,0 109.073729,-7.400380999999982,0 109.073767,-7.400382999999977,0 109.073859,-7.400414000000012,0 109.073928,-7.400453000000028,0 109.074091,-7.400521000000026,0 109.074163,-7.400539999999978,0 109.074205,-7.40054600000002,0 109.074299,-7.400503000000015,0 109.074387,-7.400493999999981,0 109.074477,-7.400502000000018,0 109.074523,-7.400512999999989,0 109.074564,-7.400514999999984,0 109.074614,-7.400529000000006,0 109.07463,-7.40054600000002,0 109.074654,-7.400569000000019,0 109.074685,-7.400623999999994,0 109.074768,-7.400683000000015,0 109.074826,-7.400714999999991,0 109.074859,-7.400732000000005,0 109.075043,-7.400755000000004,0 109.075191,-7.400740999999982,0 109.075272,-7.400676999999972,0 109.075306,-7.400639000000012,0 109.075358,-7.400575000000003,0 109.07539,-7.400498000000028,0 109.075437,-7.400404999999978,0 109.075502,-7.400246999999978,0 109.075542,-7.400153999999986,0 109.075563,-7.400110999999982,0 109.075593,-7.400046999999972,0 109.075629,-7.399986000000012,0 109.075665,-7.399919000000011,0 109.075708,-7.399845000000029,0 109.07575,-7.399772999999982,0 109.075794,-7.399703999999986,0 109.075854,-7.399599000000023,0 109.075919,-7.399518999999998,0 109.075979,-7.399463000000026,0 109.076048,-7.399379000000009,0 109.076131,-7.399312000000009,0 109.076274,-7.399230999999986,0 109.076419,-7.399153000000013,0 109.076439,-7.399142999999981,0 109.076595,-7.399042000000009,0 109.076639,-7.399016000000017,0 109.076681,-7.398978,0 109.076707,-7.398954000000003,0 109.076815,-7.398868999999991,0 109.076943,-7.398740999999973,0 109.076992,-7.398675000000026,0 109.077013,-7.398592000000007,0 109.077043,-7.398394999999994,0 109.077029,-7.398263999999983,0 109.076962,-7.398097000000007,0 109.076892,-7.39794599999999,0 109.076862,-7.397889000000021,0 109.076842,-7.397842000000026,0 109.076801,-7.397738000000004,0 109.076761,-7.397625000000005,0 109.076745,-7.397573000000023,0 109.076714,-7.397479999999972,0 109.076697,-7.397447,0 109.076685,-7.397378000000004,0 109.076668,-7.397322999999972,0 109.076635,-7.397279000000026,0 109.076575,-7.397156999999992,0 109.076557,-7.397123000000022,0 109.076546,-7.397077000000024,0 109.076495,-7.396933999999987,0 109.076482,-7.396862999999996,0 109.076459,-7.396618999999988,0 109.0764,-7.396589000000006,0 109.0763397357175,-7.396589000000006,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00014">
+			<name>Jaringan Irigasi Sekunder</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Irigasi Sekunder</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>14</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jaringan Irigasi Sekunder</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>25011000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>25011200</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>45000000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>0,002656</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.082552,-7.412882000000025,160.094299999997 109.082575,-7.412849999999992,159.1781999999948 109.082606,-7.412820000000011,0 109.082619,-7.412736999999992,155.4851999999955 109.082599,-7.412552000000005,154.6184000000067 109.08254,-7.412473999999974,157.9587999999931 109.082458,-7.412345000000016,0 109.082423,-7.412283000000002,158.4236999999994 109.082431,-7.412183000000027,0 109.08238,-7.412072000000023,0 109.082298,-7.412012000000003,169.0032000000065 109.082223,-7.411800000000028,0 109.082069,-7.411601000000019,0 109.082037,-7.411472000000003,0 109.081825,-7.411390999999981,184.4891000000061 109.081687,-7.411324999999977,197.3463999999949 109.081513,-7.411330000000021,197.3463999999949 109.081364,-7.411383000000001,167.4511999999959 109.081203,-7.411431999999991,167.4033000000054 109.081203,-7.411432999999987,163.7541999999958 109.081068,-7.411335000000009,155.6000000000058 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00015">
+			<name>Jaringan Irigasi Tersier</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Irigasi Tersier</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>15</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jaringan Irigasi Tersier</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>25011000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>25011300</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>45000000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>0,000335</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.081497,-7.397504000000026,0 109.081273,-7.397479999999972,0 109.081164606705,-7.397463324107491,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00016">
+			<name>Jaringan Irigasi Primer</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Irigasi Primer</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>16</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jaringan Irigasi Primer</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>25011000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>25011100</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>45000000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>0,001525</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.080858,-7.410675000000026,0 109.080866,-7.410595000000001,0 109.080958,-7.410472000000027,0 109.081101,-7.410230000000013,0 109.081188,-7.410131999999976,0 109.081246,-7.410004000000015,0 109.081334,-7.409625000000005,0 109.081415,-7.409285000000011,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00017">
+			<name>Jaringan Irigasi Sekunder</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Irigasi Sekunder</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>17</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jaringan Irigasi Sekunder</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>25011000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>25011200</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>45000000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>0,000762</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.072596,-7.408816999999999,157.6999999999971 109.072609,-7.408748999999999,157.3999999999942 109.07262,-7.408701000000008,157 109.072641,-7.408608000000015,157 109.072689,-7.408451000000014,156.8000000000029 109.072773,-7.408181000000013,157.6999999999971 109.072805,-7.408085000000028,158.8000000000029 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00018">
+			<name>Jaringan Irigasi Sekunder</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Irigasi Sekunder</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>18</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jaringan Irigasi Sekunder</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>25011000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>25011200</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>45000000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>0,00806</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.0767066731225,-7.426393752297486,78.58400000000256 109.076749,-7.426195000000007,78.39999999999418 109.076746,-7.426027999999974,79.39999999999418 109.076805,-7.426067999999987,79 109.076919,-7.426009000000022,0 109.077107,-7.42593499999998,71.89999999999418 109.077228,-7.42567200000002,0 109.077394,-7.425720000000013,80.80000000000291 109.077469,-7.425657,84.10000000000582 109.077553,-7.425620999999978,78.89999999999418 109.077637,-7.425674000000014,79.69999999999709 109.077793,-7.425516000000016,0 109.077948,-7.425358000000018,86.5 109.078036,-7.42523399999999,87.19999999999709 109.07811,-7.425143999999988,86.5 109.078079,-7.424959000000001,0 109.078018,-7.424589000000026,0 109.077987,-7.424403999999981,95.19999999999709 109.077976,-7.424170000000004,0 109.077965,-7.423936000000027,0 109.078003,-7.423852000000011,0 109.078095,-7.423581000000013,0 109.077984,-7.423543999999993,0 109.078006,-7.423322999999982,0 109.078034,-7.423151000000018,0 109.078045,-7.423024999999996,0 109.078059,-7.42285099999998,0 109.078103,-7.422702000000014,0 109.078146,-7.422581999999976,84.30000000000291 109.078129,-7.422586000000024,84.19999999999709 109.078193,-7.422394999999995,104.6999999999971 109.078267,-7.422329999999988,0 109.078348,-7.422333999999978,0 109.078479,-7.422217999999987,103.6000000000058 109.078484,-7.422109999999976,103.1999999999971 109.078546,-7.421991999999988,103.3000000000029 109.078663,-7.422039999999981,0 109.078759,-7.421868000000018,0 109.07892,-7.421859999999982,96.69999999999709 109.079121,-7.421717000000001,0 109.079241,-7.421697999999992,0 109.079361,-7.421696999999994,0 109.079601,-7.421723999999983,0 109.079626,-7.42145099999999,0 109.079754,-7.421266999999999,0 109.079669,-7.421243000000004,0 109.079671,-7.421198000000004,0 109.079717,-7.420923000000017,0 109.079764,-7.420818999999995,0 109.079838,-7.420798999999989,98.50000000000001 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00019">
+			<name>Jaringan Irigasi Tersier</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Irigasi Tersier</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>19</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jaringan Irigasi Tersier</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>25011000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>25011300</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>45000000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>0,002754</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.069889,-7.408757999999978,0 109.070568,-7.408822999999984,0 109.070585,-7.408762000000023,0 109.071403,-7.408794999999998,0 109.072201,-7.408810000000017,142.3000000000029 109.072475,-7.408815000000004,142.6000000000058 109.072593,-7.408816999999999,142.5 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00020">
+			<name>Jaringan Irigasi Sekunder</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Irigasi Sekunder</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>20</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jaringan Irigasi Sekunder</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>25011000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>25011200</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>45000000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>0,008976</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.074422,-7.411614999999983,0 109.074449,-7.411592999999981,0 109.074636,-7.410893999999985,0 109.07539,-7.411031999999977,0 109.075541,-7.410405000000027,0 109.075629,-7.409813999999982,0 109.075769,-7.409249999999986,0 109.076286,-7.409560999999997,0 109.076313,-7.409851000000004,0 109.076513,-7.409958000000018,0 109.076536,-7.409943999999996,0 109.076594,-7.409966999999995,0 109.076638,-7.409982000000014,0 109.076695,-7.409997999999972,0 109.076827,-7.409993999999984,0 109.07682772155,-7.409992291065009,0 109.076846,-7.409948999999982,0 109.076826,-7.409991999999988,0 109.07682772155,-7.409992291065009,0 109.079807,-7.410496000000022,0 109.079974,-7.410529999999994,0 109.080438,-7.410588000000018,0 109.08085,-7.410676000000023,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00021">
+			<name>Jaringan Irigasi Primer</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Irigasi Primer</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>21</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jaringan Irigasi Primer</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>25011000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>25011100</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>45000000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>0,013375</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.094097511255,-7.398984438482501,0 109.094131,-7.398957999999993,0 109.094185,-7.398926000000017,0 109.09424,-7.398893999999985,0 109.094284,-7.398879000000023,0 109.094329,-7.398864000000003,0 109.094364,-7.398843999999997,0 109.094388,-7.398823999999991,0 109.094437,-7.398776999999994,0 109.0944538345175,-7.398723971267486,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.084527,-7.404803000000015,0 109.084611,-7.404651000000001,0 109.084695,-7.404499999999986,0 109.084778,-7.404334000000007,0 109.084811,-7.404183999999987,0 109.084818,-7.404004999999985,0 109.084859,-7.403888999999992,0 109.085001,-7.403841,0 109.085163,-7.403786000000024,0 109.08529,-7.403509999999982,0 109.085435,-7.403350999999985,0 109.085687,-7.403265999999974,0 109.085864,-7.403211999999996,0 109.085982,-7.403170999999986,0 109.086037,-7.403059999999982,0 109.085972,-7.402812999999981,0 109.085832,-7.402547000000027,0 109.085881,-7.402345000000025,0 109.085929,-7.402143000000024,0 109.08605,-7.401989000000015,0 109.08617,-7.401835000000005,0 109.086519,-7.401792,0 109.086819,-7.401768000000005,0 109.08712,-7.401744000000007,0 109.087189,-7.401509999999973,0 109.087302,-7.401344999999992,0 109.087573,-7.401228000000003,0 109.08773,-7.401198000000022,0 109.087836,-7.401102999999979,0 109.087967,-7.400888000000009,0 109.088091,-7.400664000000006,0 109.088266,-7.400510999999995,0 109.08851,-7.400397999999996,0 109.088628,-7.400353999999992,0 109.08872,-7.400351999999998,0 109.088833,-7.40033299999999,0 109.08899,-7.400351000000001,0 109.089088,-7.400348000000008,0 109.089175,-7.400330999999994,0 109.089264,-7.400322000000016,0 109.089355,-7.400305999999999,0 109.089445,-7.400270999999976,0 109.089483,-7.400252000000024,0 109.089555,-7.400214000000005,0 109.089652,-7.400181999999973,0 109.089736,-7.40016700000001,0 109.089787,-7.400126999999998,0 109.089946,-7.400116000000025,0 109.090014,-7.400095000000022,0 109.090083,-7.400072000000022,0 109.090175,-7.400020999999982,0 109.090252,-7.399971999999992,0 109.090339,-7.399927999999989,0 109.090429,-7.39991600000002,0 109.090503,-7.399855000000002,0 109.090578,-7.399808000000007,0 109.090648,-7.399744999999996,0 109.09072,-7.399684999999976,0 109.090754,-7.399653999999998,0 109.090775,-7.399604000000012,0 109.090835,-7.399528999999974,0 109.090871,-7.399449000000004,0 109.090918,-7.399379000000009,0 109.090997,-7.399289000000009,0 109.09104,-7.399198000000013,0 109.091175,-7.399073999999985,0 109.09125,-7.399018000000013,0 109.091323,-7.398984999999982,0 109.091408,-7.39892500000002,0 109.09149,-7.398924000000023,0 109.0916,-7.398923000000025,0 109.091684,-7.398885000000007,0 109.09177,-7.398866999999996,0 109.091783,-7.398819000000003,0 109.091858,-7.398817000000009,0 109.091954,-7.398836000000017,0 109.092045,-7.398842000000001,0 109.092128,-7.398870999999986,0 109.092176,-7.39892500000002,0 109.092225,-7.398951000000011,0 109.092292,-7.398948000000019,0 109.092328,-7.398922000000027,0 109.092373,-7.398906000000011,0 109.092408,-7.39888000000002,0 109.092464,-7.398825999999984,0 109.092614,-7.398805999999979,0 109.092816,-7.398779999999987,0 109.092897,-7.398787000000027,0 109.092969,-7.398837000000015,0 109.093039,-7.398849999999982,0 109.093101,-7.398868999999991,0 109.093164,-7.398886000000005,0 109.09326,-7.398858000000019,0 109.093351,-7.398840000000007,0 109.093426972965,-7.398852278460025,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.09364101132,-7.398981336562485,0 109.093674,-7.399017000000015,0 109.093762,-7.399053999999977,0 109.093863,-7.399047999999993,0 109.093959,-7.399033999999972,0 109.0940183760175,-7.399024722497473,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00022">
+			<name>Jaringan Irigasi Tersier</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Irigasi Tersier</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>22</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jaringan Irigasi Tersier</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>25011000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>25011300</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>45000000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>0,003602</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.080673,-7.423603000000014,105.8999999999942 109.080687,-7.423565999999995,0 109.080731,-7.423225000000002,0 109.080774,-7.42288400000001,0 109.080682,-7.422878000000026,0 109.080734,-7.422384000000022,0 109.08076,-7.42213700000002,0 109.080786,-7.421889000000021,0 109.080812,-7.42164200000002,0 109.080838,-7.421395000000017,0 109.080864,-7.421148000000017,0 109.08089,-7.420901000000015,0 109.080649,-7.420832000000019,0 109.080409,-7.42076400000002,106.1000000000058 109.080318,-7.420761000000027,105.1000000000058 109.080231,-7.420728999999994,107.1000000000058 109.080202,-7.420644999999979,107.3000000000029 109.080203,-7.42066699999998,107.5 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00023">
+			<name>Jaringan Irigasi Sekunder</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Irigasi Sekunder</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>23</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jaringan Irigasi Sekunder</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>25011000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>25011200</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>45000000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>0,001122</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.074151,-7.405509999999992,130.6999999999971 109.074224,-7.405350999999996,123.3999999999942 109.074244,-7.405305999999996,132.1000000000058 109.074257,-7.405150999999989,0 109.074177,-7.405093000000023,132 109.073969,-7.405013999999995,0 109.073955,-7.404871000000015,0 109.073936,-7.404696999999999,131.8999999999942 109.073934,-7.404594999999973,130.5 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00024">
+			<name>Jaringan Irigasi Sekunder</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Irigasi Sekunder</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>24</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jaringan Irigasi Sekunder</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>25011000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>25011200</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>45000000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>0,001139</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.073403,-7.406362999999998,0 109.0734041288125,-7.406362050772486,0 109.073447,-7.406325999999979,0 109.073498,-7.406274999999994,141.6999999999971 109.073746,-7.405995000000019,0 109.073969,-7.405731000000003,140.3999999999942 109.073998,-7.405682000000013,0 109.074072,-7.405601999999988,139.3000000000029 109.074104,-7.405561999999975,138.8999999999942 109.074153,-7.405507999999998,139 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00025">
+			<name>Jaringan Irigasi Tersier</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Irigasi Tersier</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>25</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jaringan Irigasi Tersier</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>25011000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>25011300</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>45000000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>0,000403</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.07307,-7.402181999999982,149.1999999999971 109.073027,-7.402127000000007,149 109.072974,-7.402070999999977,0 109.072979,-7.401966000000016,0 109.073033,-7.401824999999973,149 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00026">
+			<name>Jaringan Irigasi Primer</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Irigasi Primer</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>26</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jaringan Irigasi Primer</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>25011000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>25011100</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>45000000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>0,003362</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.080918,-7.414507000000015,0 109.080917,-7.414252999999973,0 109.080916,-7.413998999999989,0 109.080867,-7.413824999999974,0 109.080782,-7.413717000000021,0 109.080888,-7.413354000000027,0 109.080908,-7.413184999999999,0 109.080945,-7.413024000000008,0 109.080875,-7.412785999999983,0 109.080748,-7.412612000000024,0 109.080725,-7.412329,0 109.080754,-7.412169000000006,0 109.080895,-7.411806000000013,0 109.080954,-7.411704999999984,0 109.081011,-7.411602000000017,0 109.081091,-7.411422000000015,0 109.08108,-7.41135300000002,0 109.081068,-7.411335000000009,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00027">
+			<name>Jaringan Irigasi Tersier</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Irigasi Tersier</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>27</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jaringan Irigasi Tersier</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>25011000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>25011300</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>45000000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>0,002979</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.07262,-7.408754999999985,155.6999999999971 109.072923,-7.408830000000023,155.1999999999971 109.072955,-7.408763000000022,155 109.073038,-7.408569,154.8999999999942 109.073137,-7.407798000000015,161.6000000000058 109.07316,-7.407645999999999,144.6999999999971 109.073269,-7.407101000000011,0 109.073422,-7.406648000000018,0 109.073469,-7.406615999999985,143.6999999999971 109.073522,-7.40647100000001,143.8999999999942 109.073541,-7.406415999999978,143.8000000000029 109.0734041288125,-7.406362050772486,143.8000000000029 109.073404,-7.406362000000001,143.8000000000029 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00028">
+			<name>Jaringan Irigasi Tersier</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Irigasi Tersier</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>28</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jaringan Irigasi Tersier</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>25011000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>25011300</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>45000000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>0,002563</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.079651,-7.423288000000015,99.39999999999418 109.079711,-7.423071999999991,0 109.07977,-7.422856000000024,0 109.079807,-7.42264,0 109.079844,-7.422423999999978,101.8999999999942 109.079877,-7.422333999999978,102.1999999999971 109.079895,-7.422244999999976,102.6999999999971 109.079889,-7.422151999999982,104.1000000000058 109.079916,-7.421767999999986,105 109.079892,-7.421679999999982,102.8999999999942 109.07991,-7.421587999999986,101.8000000000029 109.079859,-7.421437000000026,0 109.079852,-7.421352000000013,102.3000000000029 109.079787,-7.421238000000017,0 109.079832,-7.420908999999995,0 109.079846,-7.420791000000008,98.50000000000001 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00029">
+			<name>Jaringan Irigasi Tersier</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Irigasi Tersier</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>29</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jaringan Irigasi Tersier</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>25011000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>25011300</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>45000000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>0,006536</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.084485,-7.417985999999985,0 109.084332,-7.41770200000002,0 109.084178,-7.417417999999997,0 109.083898,-7.417309999999986,0 109.083437,-7.417182000000025,0 109.083108,-7.417137000000025,0 109.082577,-7.417185000000017,0 109.082229,-7.417179999999973,0 109.082144,-7.417147000000001,0 109.082187,-7.416971999999987,0 109.082192,-7.416785000000004,0 109.082206,-7.416436999999974,0 109.082208,-7.415748000000008,0 109.082192,-7.415505999999993,0 109.082117,-7.415288999999974,0 109.082122,-7.415160000000014,0 109.082184,-7.414848000000007,0 109.082199,-7.414748999999972,0 109.082156,-7.414643000000013,0 109.082033,-7.414605999999991,0 109.08183,-7.414603999999997,0 109.081627,-7.414602000000001,0 109.081366,-7.414602000000001,0 109.081287,-7.414624000000003,0 109.080918,-7.414493999999991,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00030">
+			<name>Jaringan Irigasi Sekunder</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Irigasi Sekunder</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>30</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jaringan Irigasi Sekunder</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>25011000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>25011200</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>45000000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>0,007901</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.069992,-7.404867000000024,162 109.070004,-7.404793999999981,160.1000000000058 109.069978,-7.404728999999975,159.8000000000029 109.069963,-7.404637999999977,161.8999999999942 109.069936,-7.404590999999982,161.6000000000058 109.06991,-7.404548999999976,161.3000000000029 109.069883,-7.404510000000016,160.6999999999971 109.069866,-7.404448999999999,158.8000000000029 109.069888,-7.404404999999997,156.8999999999942 109.069901,-7.404355000000009,155.5 109.069898,-7.40429899999998,155.5 109.069905,-7.404246000000001,155.6000000000058 109.069916,-7.404200000000003,155.6999999999971 109.06993,-7.404153000000008,155.6999999999971 109.069943,-7.404108000000008,155.8999999999942 109.069953,-7.404051999999979,156 109.069965,-7.404005999999981,156 109.069982,-7.403892999999982,155.1999999999971 109.069944,-7.403766000000019,155.6000000000058 109.06975,-7.403512999999976,155.8000000000029 109.069728,-7.403406000000018,0 109.069665,-7.403261999999984,155 109.069636,-7.403223000000025,155.1000000000058 109.069604,-7.403187000000003,155 109.069586,-7.403153999999972,154.6000000000058 109.069565,-7.40309400000001,154.3999999999942 109.069542,-7.403008999999997,154.1000000000058 109.0695,-7.402898999999992,154.8000000000029 109.069489,-7.402836999999978,155 109.069479,-7.402789999999982,155.1000000000058 109.069435,-7.402506000000018,155.6999999999971 109.069663,-7.40245299999998,0 109.069893,-7.402434000000028,155.8999999999942 109.070216,-7.40245299999998,156 109.070286,-7.402466000000004,155.8999999999942 109.070342,-7.402476999999976,156.1999999999971 109.070389,-7.402489000000003,156.3999999999942 109.070442,-7.402509000000009,156.3999999999942 109.070518,-7.40253899999999,156.3000000000029 109.070562,-7.402545999999973,0 109.070644,-7.402560999999992,157.1000000000058 109.070689,-7.402301000000023,157 109.070698,-7.402101000000015,156.5 109.07067,-7.402059000000009,0 109.070632,-7.402029000000027,157.3000000000029 109.07053,-7.402015000000006,157.1999999999971 109.070486,-7.402000999999985,157 109.070455,-7.401985000000025,156.8000000000029 109.070429,-7.401935999999978,156.8000000000029 109.0704,-7.401867999999979,156.6999999999971 109.070371,-7.401822999999979,156.6000000000058 109.070338,-7.401759000000027,156.6000000000058 109.070314,-7.401720000000012,156.5 109.070306,-7.401631000000009,0 109.070319,-7.401550999999984,157.1999999999971 109.070318,-7.401491000000021,157 109.070349,-7.401429000000007,0 109.070401,-7.401406000000009,153.3000000000029 109.070447,-7.401400000000025,155 109.070477,-7.401402000000019,155 109.070522,-7.401404000000013,155 109.070564,-7.401435999999989,153.6000000000058 109.07056,-7.401486999999975,0 109.070592,-7.401505999999983,153.5 109.070627,-7.401525999999989,153.5 109.070672,-7.401548999999989,153.3999999999942 109.070714,-7.401566000000004,153.3000000000029 109.070764,-7.401562000000013,153.3000000000029 109.070809,-7.401552999999979,153.1999999999971 109.070845,-7.401541000000009,153.1999999999971 109.070886,-7.401529999999979,153.1000000000058 109.070929,-7.401534000000026,153 109.070998,-7.401570999999989,153.1000000000058 109.071065,-7.401659999999993,0 109.071111,-7.401678000000005,0 109.071159,-7.401679999999999,153 109.071242,-7.401630000000011,152.8999999999942 109.071308,-7.401602000000025,0 109.071381,-7.401588000000003,141.6000000000058 109.071409,-7.401591999999993,0 109.071439,-7.401584000000015,147.1000000000058 109.071464,-7.401544000000001,148.3000000000029 109.071464,-7.401475000000005,148.8000000000029 109.071467,-7.401423000000024,148.6999999999971 109.071445,-7.401371999999981,148.6000000000058 109.071426,-7.401337000000012,148.6000000000058 109.071417,-7.401292000000012,148.5 109.071473,-7.401271000000008,0 109.071528,-7.401254999999993,0 109.071638,-7.401260999999977,148.5 109.071684,-7.401291000000015,148.5 109.071724,-7.401323999999988,148.3999999999942 109.071773,-7.401341999999999,148.1000000000058 109.071835,-7.401348999999983,147.8000000000029 109.071882,-7.401374999999973,147.6999999999971 109.071949,-7.401402000000019,147.3999999999942 109.072013,-7.401422000000025,147.1000000000058 109.072313,-7.40146900000002,147.1000000000058 109.072412,-7.401449000000013,146.3000000000029 109.072524,-7.401412999999991,0 109.072561,-7.401395999999977,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00031">
+			<name>Jaringan Irigasi Primer</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Irigasi Primer</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>31</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jaringan Irigasi Primer</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>25011000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>25011100</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>45000000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>0,001375</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.072559,-7.401395999999977,146.3000000000029 109.072573,-7.401354000000026,155.1000000000058 109.072586,-7.401273000000003,152.1000000000058 109.072579,-7.401161999999999,0 109.072538,-7.401061000000027,151.8999999999942 109.07252,-7.400994000000026,151.6999999999971 109.072541,-7.400957000000004,0 109.072562,-7.400938999999994,151.5 109.07259,-7.400866000000008,150.8000000000029 109.07262,-7.400821000000009,150.8999999999942 109.072659,-7.400761999999986,153.3999999999942 109.072692,-7.400733000000002,152.8999999999942 109.07313,-7.400439000000006,153 109.073242,-7.400418000000002,147.8999999999942 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00032">
+			<name>Jaringan Irigasi Sekunder</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Irigasi Sekunder</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>32</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jaringan Irigasi Sekunder</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>25011000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>25011200</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>45000000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>0,000379</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.079846,-7.420787000000018,102.1999999999971 109.079988,-7.420720000000017,0 109.08016,-7.420672000000025,106.5 109.080203,-7.42066699999998,107.5 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00033">
+			<name>Jaringan Irigasi Sekunder</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Irigasi Sekunder</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>33</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jaringan Irigasi Sekunder</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>25011000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>25011200</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>45000000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>0,002953</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.0723147480525,-7.409880292942489,148.5427999999956 109.072318,-7.409878999999989,154.6000000000058 109.07238,-7.409717000000001,0 109.07241,-7.40955600000001,154.6000000000058 109.072437,-7.409491000000002,154.5 109.072471,-7.409310000000006,155.6000000000058 109.072486,-7.409221000000002,156.1000000000058 109.072498,-7.409175000000006,156 109.072514,-7.409127000000012,155.8000000000029 109.072527,-7.40908300000001,155.8000000000029 109.072538,-7.409033000000022,155.5 109.072557,-7.40898199999998,155.3999999999942 109.072597,-7.408814000000008,155.6000000000058 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.0715295248625,-7.410267967534992,0.8349000000016531 109.071626,-7.410261999999989,154.3000000000029 109.071681,-7.410250000000018,154.1999999999971 109.071729,-7.410219999999981,154.1000000000058 109.07181,-7.410180000000026,154.3000000000029 109.071886,-7.410132999999974,154.3000000000029 109.071936,-7.410108999999976,154.3999999999942 109.072169,-7.409964000000002,154.6000000000058 109.072235,-7.40991200000002,0 109.07231362709,-7.40988073862752,146.4548000000068 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.0707875885675,-7.410720372679976,153.7112999999954 109.070808,-7.410676000000023,153.8000000000029 109.070823,-7.410655000000021,153.6000000000058 109.070852,-7.410640999999998,153.8000000000029 109.071001,-7.410595000000001,154.1999999999971 109.071115,-7.41056900000001,154.1000000000058 109.071173,-7.410547000000008,154.3999999999942 109.071312,-7.410505999999998,154.5 109.071513,-7.410443999999984,0 109.07152,-7.410411000000011,154.8000000000029 109.07152,-7.410396757369995,154.8000000000029 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.070745178625,-7.410835225712503,150.997000000003 109.070768,-7.410794000000011,153.5 109.070783750125,-7.410730999497503,153.6852999999974 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00034">
+			<name>Jaringan Irigasi Primer</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Irigasi Primer</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>34</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jaringan Irigasi Primer</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>25011000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>25011100</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>45000000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>0,008217</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.081415,-7.409289000000001,0 109.081481,-7.409033000000022,0 109.081663,-7.407993999999974,0 109.081716,-7.407741999999985,0 109.081852,-7.407118000000026,0 109.081891,-7.406963000000019,0 109.08192,-7.406830000000014,0 109.081934,-7.406696000000011,0 109.081958,-7.406545999999992,0 109.082024,-7.406317999999998,0 109.082123,-7.406110000000012,0 109.082305,-7.405722000000026,0 109.082682,-7.405207000000019,0 109.083078,-7.404862999999978,0 109.083213,-7.404578000000015,0 109.083279,-7.404451999999992,0 109.083415,-7.404214000000024,0 109.083448,-7.404053999999975,0 109.083418,-7.403901000000019,0 109.083346,-7.403573999999992,0 109.083284,-7.403238999999986,0 109.083167,-7.403042000000028,0 109.083146,-7.402932000000021,0 109.083153,-7.402851999999996,0 109.083271,-7.402460000000019,0 109.083405,-7.401968000000011,0 109.083465,-7.401765000000012,0 109.083471,-7.401683999999989,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00035">
+			<name>Jaringan Irigasi Sekunder</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Irigasi Sekunder</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>35</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jaringan Irigasi Sekunder</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>25011000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>25011200</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>45000000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>0,00172</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.080203,-7.42066699999998,107.5 109.080221,-7.420675000000017,102.8999999999942 109.080309,-7.420649000000025,103.1999999999971 109.080309,-7.420648000000028,103.1999999999971 109.080423,-7.420398999999975,119.3999999999942 109.080468,-7.42029100000002,108.8000000000029 109.080532,-7.420139000000006,0 109.080312,-7.420050000000002,0 109.080365,-7.419948999999974,119.3999999999942 109.080253,-7.419811999999979,0 109.080252,-7.419695999999989,118.8999999999942 109.080307,-7.419616000000018,118.3000000000029 109.080357,-7.419453999999974,117.6999999999971 109.080338,-7.419360999999981,117.3000000000029 109.080377,-7.419335999999986,114.8999999999942 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00036">
+			<name>Jaringan Irigasi Sekunder</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Irigasi Sekunder</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>36</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jaringan Irigasi Sekunder</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>25011000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>25011200</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>45000000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>0,003612</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.073935,-7.404593999999975,144.6000000000058 109.073935,-7.404524999999978,144.1000000000058 109.07393,-7.40430600000002,143.3999999999942 109.073941,-7.404239000000018,143.1000000000058 109.073947,-7.404186999999979,143 109.073957,-7.404145000000028,143 109.073968,-7.404068999999993,143.1000000000058 109.074021,-7.403980999999987,142.8999999999942 109.074077,-7.403908,142.6999999999971 109.074166,-7.403562000000022,0 109.074277,-7.403133000000025,0 109.074107,-7.402956000000017,0 109.074028,-7.402850999999998,0 109.074026,-7.402788999999984,0 109.074045,-7.402732000000015,141.8999999999942 109.074069,-7.402421000000004,141.6999999999971 109.074064,-7.402304000000015,142.6999999999971 109.074035,-7.402264000000003,141.3999999999942 109.073992,-7.402232000000027,140.3000000000029 109.073949,-7.402225999999985,139.5 109.073902,-7.402204999999981,139.1999999999971 109.073855,-7.402192000000014,138 109.073581,-7.402137999999978,138.8000000000029 109.073505,-7.402117999999973,139.3999999999942 109.073419,-7.402074000000027,140.8000000000029 109.073371,-7.402040999999997,141.6000000000058 109.073328,-7.402015000000006,142.8000000000029 109.073255,-7.401981999999975,143.5 109.073175,-7.401927999999997,143.8999999999942 109.073119,-7.401882000000001,144.6000000000058 109.073034,-7.401824999999973,149 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00037">
+			<name>Jaringan Irigasi Tersier</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Irigasi Tersier</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>37</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jaringan Irigasi Tersier</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>25011000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>25011300</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>45000000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>0,001402</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.081838,-7.413840999999991,0 109.081851,-7.413560000000018,0 109.081863,-7.413449000000014,0 109.08188,-7.41318000000001,0 109.082025,-7.413097999999991,0 109.082206,-7.413053999999988,153.4989999999962 109.082294,-7.413030999999989,145.4366000000009 109.082434,-7.412960999999996,0 109.082548,-7.412881000000028,160.094299999997 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00038">
+			<name>Jaringan Irigasi Primer</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Irigasi Primer</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>38</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jaringan Irigasi Primer</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>25011000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>25011100</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>45000000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>0,000115</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.081682,-7.396757999999978,0 109.081654,-7.396753999999987,0 109.081572,-7.396738000000028,0 109.081569221105,-7.396736147405023,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00039">
+			<name>Jaringan Irigasi Primer</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaringan Irigasi Primer</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>39</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jaringan Irigasi Primer</td>
+
+</tr>
+
+<tr>
+
+<td>ORDE01</td>
+
+<td>25011000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORDE02</td>
+
+<td>25011100</td>
+
+</tr>
+
+<tr>
+
+<td>JNSRSR</td>
+
+<td>45000000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STSJRN</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>0,000716</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.081068,-7.411335000000009,0 109.081042,-7.411287000000016,0 109.081023,-7.411139999999989,0 109.080976,-7.410978999999998,0 109.080926,-7.410907000000009,0 109.080855,-7.410833000000025,0 109.080863,-7.410733999999991,0 109.080846,-7.410681000000011,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
