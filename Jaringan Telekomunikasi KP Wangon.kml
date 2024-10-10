@@ -1,0 +1,4148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="Jaringan_Telekomunikasi_Perkotaan_Wangon" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+	<name>Jaringan_Telekomunikasi_Perkotaan_Wangon</name>
+	<open>1</open>
+	<Snippet maxLines="0"></Snippet>
+	<Style id="LineStyle00">
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff00aa3c</color>
+			<width>10</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>00000000</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Folder id="FeatureLayer0">
+		<name>Jaringan_Telekomunikasi_Perkotaan_Wangon</name>
+		<Snippet maxLines="0"></Snippet>
+		<Placemark id="ID_00000">
+			<name>Telepon Fixed Line</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Telepon Fixed Line</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Telepon Fixed Line</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td>Tidak Ada</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td>Dinas Perumahan dan Kawasan Permukiman Kabupaten Banyumas, 2022</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.0574590040275,-7.513632885790003,0 109.0576262693375,-7.513723550267514,0 109.058164921275,-7.513925291620011,0 109.0592209564825,-7.514099132370006,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00001">
+			<name>Telepon Fixed Line</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Telepon Fixed Line</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Telepon Fixed Line</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td>Tidak Ada</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td>Dinas Perumahan dan Kawasan Permukiman Kabupaten Banyumas, 2022</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.0568253086725,-7.51520251930998,0 109.056998442945,-7.515280155757523,0 109.0575835230625,-7.515530837777475,0 109.0577283651725,-7.515606403312517,0 109.0581430173875,-7.515823306299978,0 109.0583328930475,-7.515922134597473,0 109.0585619108025,-7.515714460455001,0 109.0587250136475,-7.515539439792519,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00002">
+			<name>Telepon Fixed Line</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Telepon Fixed Line</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>2</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Telepon Fixed Line</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td>Tidak Ada</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td>Dinas Perumahan dan Kawasan Permukiman Kabupaten Banyumas, 2022</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.0541902091225,-7.518680783947501,0 109.0543322913025,-7.518201620107504,0 109.054687159285,-7.516887550519982,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00003">
+			<name>Telepon Fixed Line</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Telepon Fixed Line</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>3</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Telepon Fixed Line</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td>Tidak Ada</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td>Dinas Perumahan dan Kawasan Permukiman Kabupaten Banyumas, 2022</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.0553007860825,-7.519027691480006,0 109.0553007860825,-7.519027691480006,0 109.0541902091225,-7.518680783947501,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00004">
+			<name>Telepon Fixed Line</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Telepon Fixed Line</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>4</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Telepon Fixed Line</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td>Tidak Ada</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td>Dinas Perumahan dan Kawasan Permukiman Kabupaten Banyumas, 2022</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.04975070509,-7.530924911147508,0 109.049666663385,-7.53089667943749,0 109.0496662173225,-7.530896535547526,0 109.0496644123825,-7.53089598066498,0 109.0496639564275,-7.530895847564977,0 109.04966214789,-7.530895343045017,0 109.049661691035,-7.530895221637479,0 109.0496598789,-7.530894766579991,0 109.04965942924,-7.530894659559977,0 109.04945754583,-7.530849391287518,0 109.0493232761475,-7.530811947112511,0 109.049322417295,-7.530811716887513,0 109.0493215602425,-7.530811495654973,0 109.0493207022875,-7.530811282515004,0 109.0491528195475,-7.530771464132499,0 109.0489280861625,-7.530712664657528,0 109.04892769226,-7.530712565732472,0 109.0489261346325,-7.530712195212516,0 109.0489257497225,-7.530712107977479,0 109.048924181305,-7.530711770732523,0 109.0489238539525,-7.530711704182523,0 109.0489225130625,-7.530711441580024,0 109.0489221092675,-7.530711366935009,0 109.04892151032,-7.530711265312505,0 109.048780718755,-7.530688429727492,0 109.048780294275,-7.530688363177489,0 109.04877991746,-7.530688305620004,0 109.0487795766175,-7.530688254359973,0 109.0485959323575,-7.530661672197482,0 109.048595391865,-7.530661597555024,0 109.048594940405,-7.530661537299977,0 109.0485945833725,-7.530661491435011,0 109.0484727117475,-7.530646327964973,0 109.0482446931375,-7.530617915685012,0 109.04809233989,-7.530586236164994,0 109.0480916941775,-7.530586106662497,0 109.048091018785,-7.530585977160001,0 109.0480902678525,-7.53058583866499,0 109.04808977952,-7.530585754130016,0 109.048089413495,-7.530585692975023,0 109.0480890411775,-7.530585632719975,0 109.0478181096175,-7.530542654119983,0 109.0476745733225,-7.53051088466998,0 109.047673576875,-7.530510675127516,0 109.0476726092025,-7.530510483572527,0 109.0476716631175,-7.530510306405005,0 109.04767133936,-7.530510250647524,0 109.04767042475,-7.530510101359995,0 109.047669396825,-7.530509944877508,0 109.04766834372,-7.53050979648998,0 109.04750618876,-7.53048895380249,0 109.0475051491425,-7.530488832392507,0 109.0475040816475,-7.530488720877486,0 109.0475029808775,-7.53048861835498,0 109.04738977422,-7.530479492935001,0 109.047389407295,-7.530479467752514,0 109.0473879440975,-7.530479379619976,0 109.0473875798725,-7.530479360735002,0 109.0473861211725,-7.530479302277512,0 109.0473857641425,-7.530479291484994,0 109.0473843099375,-7.5304792618075,0 109.0473838782625,-7.530479258209994,0 109.04738337914,-7.5304792618075,0 109.04738287552,-7.53047926720501,0 109.047382352115,-7.530479276197526,0 109.047359097445,-7.530479799602517,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00005">
+			<name>Telepon Fixed Line</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Telepon Fixed Line</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>5</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Telepon Fixed Line</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td>Tidak Ada</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td>Dinas Perumahan dan Kawasan Permukiman Kabupaten Banyumas, 2022</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.047072568045,-7.530868451517506,0 109.047092517705,-7.530844944139972,0 109.0471721454775,-7.530755427419989,0 109.047276983945,-7.530660600207511,0 109.0473215408575,-7.530633013502494,0 109.047334382275,-7.530625067092501,0 109.0473818359025,-7.530623998697478,0 109.0474894847525,-7.530632675357481,0 109.04764646951,-7.530652854345021,0 109.0477889661875,-7.530684391770023,0 109.0477899617375,-7.530684600414986,0 109.0477909294075,-7.530684791969974,0 109.04779177477,-7.530684951150022,0 109.0477920301775,-7.530684997014987,0 109.047792433975,-7.530685065362491,0 109.047792791905,-7.530685125617482,0 109.04779314264,-7.530685182275021,0 109.0480645193625,-7.530728232822526,0 109.0482180848975,-7.530760163250023,0 109.048218789065,-7.530760303544979,0 109.048219468055,-7.530760433947479,0 109.04822013805,-7.53076055715502,0 109.048220433925,-7.530760608414994,0 109.04822142498,-7.530760769394989,0 109.04822255183,-7.530760938467494,0 109.04822370386,-7.530761097647485,0 109.0484547621775,-7.530789889442474,0 109.04857588467,-7.530804959382521,0 109.048758127785,-7.530831339195003,0 109.048894668255,-7.530853485900025,0 109.0491169500875,-7.530911642357522,0 109.0491174069425,-7.530911759269998,0 109.04911791326,-7.530911886074989,0 109.04911847084,-7.530912022772496,0 109.0492857024725,-7.530951686470019,0 109.0494204407,-7.530989261045023,0 109.049421563055,-7.530989557822522,0 109.0494226863075,-7.530989840209998,0 109.04942382485,-7.530990110905009,0 109.049623976165,-7.531034990672481,0 109.04974456748,-7.531075500220026,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00006">
+			<name>Telepon Fixed Line</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Telepon Fixed Line</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>6</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Telepon Fixed Line</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td>Tidak Ada</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td>Dinas Perumahan dan Kawasan Permukiman Kabupaten Banyumas, 2022</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.069343550965,-7.526851934470016,0 109.0694885121075,-7.526849406535007,0 109.07087772063,-7.526825180537514,0 109.0719889346425,-7.526813491149993,0 109.072357861725,-7.526806036669996,0 109.0725716017975,-7.526801282852488,0 109.0725993737625,-7.526642656832507,0 109.07271913378,-7.525521957672481,0 109.0727321244875,-7.52544555846498,0 109.072742397445,-7.525426725762485,0 109.0727528907325,-7.525366946927477,0 109.07282454152,-7.524959937152516,0 109.07332527594,-7.525001857250004,0 109.0734966948175,-7.52500359114248,0 109.074195364625,-7.524992105002525,0 109.0748761271325,-7.524971360339975,0 109.0749938546825,-7.524953592434998,0 109.0755010948,-7.524775166040001,0 109.07628700604,-7.524480087684992,0 109.0767200682775,-7.524315067487522,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00007">
+			<name>Telepon Fixed Line</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Telepon Fixed Line</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>7</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Telepon Fixed Line</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td>Tidak Ada</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td>Dinas Perumahan dan Kawasan Permukiman Kabupaten Banyumas, 2022</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.0694885121075,-7.526849406535007,0 109.0694807884075,-7.526679430112495,0 109.069426588965,-7.525558333450022,0 109.069366738185,-7.524645238287519,0 109.069310000855,-7.523771642247482,0 109.069267924275,-7.523114557990027,0 109.069193865105,-7.522203095994997,0 109.0691553381475,-7.521597422382513,0 109.069101591965,-7.52093279461252,0 109.069055719345,-7.520345309787501,0 109.0690106795,-7.519658260120025,0 109.068991027515,-7.51934454601502,0 109.068915725,-7.518096259479989,0 109.0689157249025,-7.518096257857508,0 109.0689157249025,-7.518096257857508,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00008">
+			<name>Telepon Fixed Line</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Telepon Fixed Line</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>8</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Telepon Fixed Line</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td>Tidak Ada</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td>Dinas Perumahan dan Kawasan Permukiman Kabupaten Banyumas, 2022</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.069343550965,-7.526851934470016,0 109.06933721704,-7.526711912724977,0 109.069335286095,-7.526671971040003,0 109.069284214595,-7.525615556412505,0 109.0692557771325,-7.525151285002494,0 109.069200962555,-7.52433739945252,0 109.069145325995,-7.523468546435026,0 109.0691092371025,-7.522928011617522,0 109.069077965875,-7.522561946177518,0 109.06902345167,-7.521807670387489,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00009">
+			<name>Telepon Fixed Line</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Telepon Fixed Line</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>9</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Telepon Fixed Line</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td>Tidak Ada</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td>Dinas Perumahan dan Kawasan Permukiman Kabupaten Banyumas, 2022</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.067063336105,-7.516321244730022,0 109.067373901685,-7.516326643360004,0 109.0677648108975,-7.516303316744995,0 109.067811228505,-7.516336373124999,0 109.06786107253,-7.516364017385,0 109.0679137125475,-7.51638589879002,0 109.06796848216,-7.516401741247479,0 109.0680690542425,-7.516378532442502,0 109.0682526319525,-7.516292124682479,0 109.068357769895,-7.516181040422509,0 109.068856120215,-7.5159058865475,0 109.0695014620225,-7.515533253357489,0 109.0699294868575,-7.515295072574986,0 109.0699294868575,-7.515295072574986,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00010">
+			<name>Telepon Fixed Line</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Telepon Fixed Line</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>10</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Telepon Fixed Line</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td>Tidak Ada</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td>Dinas Perumahan dan Kawasan Permukiman Kabupaten Banyumas, 2022</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.0648883949825,-7.51369920025752,0 109.0650307450725,-7.51370251425999,0 109.065148139875,-7.513699057265001,0 109.0653390281725,-7.513678771257503,0 109.065663745485,-7.513640435857496,0 109.0658410935925,-7.513610434475027,0 109.0659215145675,-7.513591321182503,0 109.0661084791225,-7.513536057842487,0 109.0665107108,-7.513407839699994,0 109.0669459547925,-7.51327515552498,0 109.0671532907925,-7.513213479117495,0 109.0673338881475,-7.513161617014987,0 109.06774152745,-7.513044555862507,0 109.068154223895,-7.51291061333751,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00011">
+			<name>Telepon Fixed Line</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Telepon Fixed Line</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>11</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Telepon Fixed Line</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td>Tidak Ada</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td>Dinas Perumahan dan Kawasan Permukiman Kabupaten Banyumas, 2022</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.0748869495725,-7.517603909992487,0 109.0727689625175,-7.518841203557485,0 109.0726117117025,-7.518933066524994,0 109.0726117117025,-7.518933066524994,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00012">
+			<name>Telepon Fixed Line</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Telepon Fixed Line</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>12</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Telepon Fixed Line</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td>Tidak Ada</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td>Dinas Perumahan dan Kawasan Permukiman Kabupaten Banyumas, 2022</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.0689157249025,-7.518096257857508,0 109.0689157249,-7.518096257827493,0 109.0688705228575,-7.517660555589998,0 109.0688377893325,-7.517380315149978,0 109.0688103752975,-7.517262052502474,0 109.0687133024775,-7.517006607269991,0 109.068540327775,-7.516563217217481,0 109.0684677030225,-7.516390683182522,0 109.068357769895,-7.516181040422509,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00013">
+			<name>Telepon Fixed Line</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Telepon Fixed Line</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>13</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Telepon Fixed Line</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td>Tidak Ada</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td>Dinas Perumahan dan Kawasan Permukiman Kabupaten Banyumas, 2022</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.0610185107,-7.51221952323499,0 109.0610147865025,-7.512237993487474,0 109.0610082871025,-7.512270244077513,0 109.0609898698875,-7.512374333407478,0 109.060967665625,-7.512499199777494,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00014">
+			<name>Telepon Fixed Line</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Telepon Fixed Line</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>14</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Telepon Fixed Line</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td>Tidak Ada</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td>Dinas Perumahan dan Kawasan Permukiman Kabupaten Banyumas, 2022</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.0610185107,-7.51221952323499,0 109.0608721198525,-7.51219341409501,0 109.06080131263,-7.512167840972495,0 109.0607991992225,-7.512166969530027,0 109.0607005534875,-7.512124040392507,0 109.060582229685,-7.512093615427489,0 109.0601323959925,-7.511948615037511,0 109.05998448,-7.511893077402476,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00015">
+			<name>Telepon Fixed Line</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Telepon Fixed Line</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>15</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Telepon Fixed Line</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td>Tidak Ada</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td>Dinas Perumahan dan Kawasan Permukiman Kabupaten Banyumas, 2022</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.05998448,-7.511893077402476,0 109.05995056117,-7.511880342104973,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00016">
+			<name>Telepon Fixed Line</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Telepon Fixed Line</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>16</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Telepon Fixed Line</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td>Tidak Ada</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td>Dinas Perumahan dan Kawasan Permukiman Kabupaten Banyumas, 2022</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.058307217405,-7.511441995452515,0 109.0582946241975,-7.511476099542506,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00017">
+			<name>Telepon Fixed Line</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Telepon Fixed Line</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>17</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Telepon Fixed Line</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td>Tidak Ada</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td>Dinas Perumahan dan Kawasan Permukiman Kabupaten Banyumas, 2022</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.06466285221,-7.510156639417517,0 109.06466304826,-7.510156671792516,0 109.0646630748375,-7.510156670882509,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00018">
+			<name>Telepon Fixed Line</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Telepon Fixed Line</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>18</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Telepon Fixed Line</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td>Tidak Ada</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td>Dinas Perumahan dan Kawasan Permukiman Kabupaten Banyumas, 2022</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.063816946295,-7.509987505717504,0 109.06381732311,-7.509987577665016,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00019">
+			<name>Telepon Fixed Line</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Telepon Fixed Line</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>19</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Telepon Fixed Line</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td>Tidak Ada</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td>Dinas Perumahan dan Kawasan Permukiman Kabupaten Banyumas, 2022</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.0636321832775,-7.509951045404988,0 109.0636322588225,-7.509951063390019,0 109.063632650925,-7.50995113893498,0 109.0636327021875,-7.509951146127491,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00020">
+			<name>Telepon Fixed Line</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Telepon Fixed Line</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>20</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Telepon Fixed Line</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td>Tidak Ada</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td>Dinas Perumahan dan Kawasan Permukiman Kabupaten Banyumas, 2022</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.06192720483,-7.509633035107527,0 109.0619235370425,-7.50965166289501,0 109.06190173028,-7.509729923697478,0 109.0619016340525,-7.509730255547482,0 109.0619012302575,-7.509731604529975,0 109.06190112234,-7.509731952567506,0 109.061900691565,-7.509733292557486,0 109.061900584545,-7.509733614515028,0 109.0619001285875,-7.509734946409991,0 109.0618999846975,-7.509735352005009,0 109.06189978235,-7.509735893397476,0 109.0618995782025,-7.509736432989995,0 109.061899364165,-7.50973698427498,0 109.06185757177,-7.509842975672485,0 109.0618574143875,-7.509843361482523,0 109.061856780365,-7.509844866947503,0 109.061856621185,-7.50984523387001,0 109.06185595389,-7.509846724947522,0 109.0618557839175,-7.509847092769974,0 109.061855083345,-7.509848568557516,0 109.0618549025825,-7.509848939077472,0 109.0617998964475,-7.509958297537481,0 109.06176630497,-7.510029675830026,0 109.06173785312,-7.510105060599984,0 109.061737711925,-7.510105429322493,0 109.0617081413175,-7.510181752984976,0 109.06170795336,-7.510182230525004,0 109.0617077698975,-7.510182687379995,0 109.06170758284,-7.510183147834995,0 109.0615904515375,-7.510466500827475,0 109.0615735649675,-7.510517440227488,0 109.06157335093,-7.510518069752493,0 109.0615731278975,-7.510518710070016,0 109.0615729021675,-7.510519343192527,0 109.06157281853,-7.510519571620023,0 109.06157254154,-7.510520307267483,0 109.06157222318,-7.510521131044983,0 109.06157189133,-7.510521964717499,0 109.06151693286,-7.510656043742472,0 109.061516660365,-7.510656697547518,0 109.0615163743825,-7.510657364844975,0 109.061516089295,-7.510658014155014,0 109.061441592155,-7.510824666625012,0 109.061441209045,-7.510825500297529,0 109.06144081604,-7.51082633576749,0 109.061440411345,-7.510827170337507,0 109.06137246127,-7.51096391135502,0 109.0613722580225,-7.510964314252476,0 109.06137206377,-7.510964695565008,0 109.06137187671,-7.510965058890007,0 109.061292081665,-7.511118249407502,0 109.061214440495,-7.511283615845002,0 109.061157081735,-7.511443183455015,0 109.0611265470525,-7.511597934297527,0 109.06110386705,-7.511768038365005,0 109.0611037294525,-7.511768996142507,0 109.061103581065,-7.511769948525,0 109.0611034389725,-7.511770805577498,0 109.0611034065975,-7.51177099803249,0 109.061073468165,-7.511939391589976,0 109.0610734079125,-7.511939717145025,0 109.0610733548525,-7.511940003127507,0 109.061073296395,-7.511940316992479,0 109.061040745435,-7.512109235752519,0 109.06104067169,-7.512109615267491,0 109.0610185107,-7.51221952323499,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00021">
+			<name>Telepon Fixed Line</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Telepon Fixed Line</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>21</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Telepon Fixed Line</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td>Tidak Ada</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td>Dinas Komunikasi dan Informatika Kabupaten Banyumas, 2017; Survei Lapangan, 2018</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.0591063630675,-7.50937657467,0 109.059278419115,-7.509404879774991,0 109.0595814607675,-7.509433835340018,0 109.06034678949,-7.509505017772483,0 109.0605713968325,-7.50952311500498,0 109.060716381465,-7.509527940932514,0 109.0608886992675,-7.50953517982498,0 109.0610550750775,-7.509545434922472,0 109.0612250160825,-7.509558102985012,0 109.061362870325,-7.509567754842521,0 109.0615482605125,-7.509589471522474,0 109.0617621722675,-7.509617220614984,0 109.0617972300275,-7.509620840062496,0 109.0618138676075,-7.509622649787502,0 109.061885765725,-7.509629285439984,0 109.0619226060825,-7.509632301645013,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00022">
+			<name>Telepon Fixed Line</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Telepon Fixed Line</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>22</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Telepon Fixed Line</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td>Tidak Ada</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td>Dinas Perumahan dan Kawasan Permukiman Kabupaten Banyumas, 2022</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.0657283187475,-7.509682666050026,0 109.0658935780275,-7.509595902229989,0 109.06589548459,-7.509595083844999,0 109.065913479125,-7.509586104114987,0 109.0666414371525,-7.509222841859979,0 109.0666423940325,-7.509222328347505,0 109.06664498138,-7.509220519810015,0 109.0666472143975,-7.509218291289983,0 109.0666490265325,-7.509215708437523,0 109.066650361125,-7.509212852192491,0 109.06665117861,-7.509209807087474,0 109.0666513117075,-7.509208932047501,0 109.0667018922775,-7.508809177102478,0 109.06738952111,-7.508385386874977,0 109.067391648005,-7.508383853532506,0 109.0673938810225,-7.508381625012477,0 109.0673956931575,-7.508379042160017,0 109.0674532704525,-7.508295911527513,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00023">
+			<name>Telepon Fixed Line</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Telepon Fixed Line</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>23</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Telepon Fixed Line</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td>Tidak Ada</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td>Dinas Komunikasi dan Informatika Kabupaten Banyumas, 2017; Survei Lapangan, 2018</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.04785188974,-7.516045180547508,0 109.0479093512575,-7.515942674095015,0 109.048513530935,-7.514843372182497,0 109.0488130073925,-7.514264254257513,0 109.0489805716,-7.513971076092503,0 109.049255091685,-7.513478826769984,0 109.04958308971,-7.512925046932479,0 109.049943174495,-7.512331453619993,0 109.05027117252,-7.511774055739977,0 109.0505136058425,-7.511343339675022,0 109.0505884749575,-7.511238375317475,0 109.0507132568125,-7.511079119099975,0 109.05077743034,-7.510952438057473,0 109.05090934259,-7.510666500982495,0 109.051043393955,-7.510369705730001,0 109.0511161239525,-7.510248092122481,0 109.0511945582625,-7.510143851912517,0 109.0512387666925,-7.510094627377498,0 109.0513086445325,-7.510052641750008,0 109.05135285296,-7.510039611727507,0 109.0514227308,-7.510022238367526,0 109.05148405217,-7.510012103905012,0 109.0515810255,-7.509994730544974,0 109.051733615885,-7.509965774944989,0 109.051793511175,-7.509955640487476,0 109.0518919105825,-7.509946953807514,0 109.0520316662625,-7.509933923787515,0 109.052761818385,-7.509847057007506,0 109.0535062312925,-7.509755364312525,0 109.0544795297775,-7.509643161435009,0 109.0553209160125,-7.50954181692498,0 109.05609099833,-7.509447711327483,0 109.0567826463375,-7.509349986307484,0 109.0572069046525,-7.509302933527522,0 109.0574422075825,-7.509277597417507,0 109.05780839674,-7.509262944430021,0 109.057921715815,-7.509265272774996,0 109.058260629825,-7.509276510702476,0 109.05893784001,-7.509352195847498,0 109.0591063630675,-7.50937657467,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00024">
+			<name>Telepon Fixed Line</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Telepon Fixed Line</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>24</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Telepon Fixed Line</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td>Tidak Ada</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td>Dinas Perumahan dan Kawasan Permukiman Kabupaten Banyumas, 2022</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.060967665625,-7.512499199777494,0 109.0610506118975,-7.512514856074972,0 109.06105116408,-7.512514956799975,0 109.0610517513375,-7.512515052127526,0 109.0610539348925,-7.512515368690003,0 109.061054487975,-7.512515439735012,0 109.06105690715,-7.512515714927474,0 109.0610575078975,-7.512515773385019,0 109.0610599414625,-7.512515968537514,0 109.0610605548,-7.512516007207523,0 109.06145464042,-7.512534218480026,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00025">
+			<name>Telepon Fixed Line</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Telepon Fixed Line</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>25</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Telepon Fixed Line</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td>Tidak Ada</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td>Dinas Perumahan dan Kawasan Permukiman Kabupaten Banyumas, 2022</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.053830833825,-7.52242227786502,0 109.053998534005,-7.522490798112528,0 109.05427968366,-7.522605673012492,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00026">
+			<name>Telepon Fixed Line</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Telepon Fixed Line</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>26</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Telepon Fixed Line</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td>Tidak Ada</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td>Dinas Perumahan dan Kawasan Permukiman Kabupaten Banyumas, 2022</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.0612490285725,-7.526803485605001,0 109.061281430095,-7.526621414847511,0 109.0613132804825,-7.526423980382503,0 109.0614095403175,-7.525981568794975,0 109.0615287895225,-7.525381953914973,0 109.0617948836275,-7.524074265014975,0 109.0619002472975,-7.523556468654988,0 109.06192781152,-7.523414652764984,0 109.06204018001,-7.522815753745022,0 109.06214298691,-7.522267813907489,0 109.0622706735525,-7.521621758037498,0 109.06236159861,-7.521178281652511,0 109.0624502438825,-7.520752404999996,0 109.0625163197725,-7.520439002957517,0 109.062554266665,-7.520259018040008,0 109.0625975888075,-7.520053539140008,0 109.062653148925,-7.51975942395751,0 109.0627061702525,-7.519467211742494,0 109.0627154854325,-7.519456934290018,0 109.06277405198,-7.519404375212503,0 109.06290174582,-7.519285894927521,0 109.062917655725,-7.519266364350017,0 109.062925892615,-7.519250014677481,0 109.0629284170125,-7.519241565544974,0 109.062935829225,-7.519207571172501,0 109.0629403564125,-7.519175694702484,0 109.062955594525,-7.519066012487485,0 109.062959307825,-7.519014417482481,0 109.0629683343225,-7.518882150590002,0 109.062981820555,-7.518684194520006,0 109.0630212738125,-7.518090042122482,0 109.06303325548,-7.517909595850027,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00027">
+			<name>Telepon Fixed Line</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Telepon Fixed Line</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>27</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Telepon Fixed Line</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td>Tidak Ada</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td>Dinas Perumahan dan Kawasan Permukiman Kabupaten Banyumas, 2022</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.0635966753475,-7.519394095960024,0 109.063557199605,-7.519392562617497,0 109.0634364098625,-7.519387107329976,0 109.06336662517,-7.519366378855011,0 109.06327230787,-7.519320581779994,0 109.06322064002,-7.519314179504989,0 109.0631276600125,-7.519312537342499,0 109.0630651832125,-7.519317959355022,0 109.06290174582,-7.519285894927521,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00028">
+			<name>Telepon Fixed Line</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Telepon Fixed Line</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>28</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Telepon Fixed Line</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td>Tidak Ada</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td>Dinas Perumahan dan Kawasan Permukiman Kabupaten Banyumas, 2022</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.0648883949825,-7.51369920025752,0 109.0649204648075,-7.514299934795019,0 109.064922419035,-7.514496999637515,0 109.064912163165,-7.514798504547514,0 109.06490141177,-7.51507744996502,0 109.064892769285,-7.515339439562524,0 109.0648868778275,-7.515556366832528,0 109.0648795609425,-7.515846686875022,0 109.0648822553125,-7.51602809901749,0 109.06487429901,-7.516379592745011,0 109.0648733412325,-7.516517635079992,0 109.064872925745,-7.516633737557528,0 109.06486994719,-7.516706064632501,0 109.0648675100275,-7.516741248809979,0 109.0648573036225,-7.516888590135011,0 109.0648410070075,-7.517123870769979,0 109.0648347585175,-7.517336177322477,0 109.0648335516275,-7.517389238222505,0 109.064820569015,-7.517522530339988,0 109.0648016886475,-7.517653201832502,0 109.0647956047325,-7.517714942089981,0 109.064793200845,-7.51801591999748,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00029">
+			<name>Telepon Fixed Line</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Telepon Fixed Line</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>29</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Telepon Fixed Line</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td>Tidak Ada</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td>Dinas Perumahan dan Kawasan Permukiman Kabupaten Banyumas, 2022</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.0560198412425,-7.517197624170024,0 109.0580249480925,-7.517396725977505,0 109.0580962229625,-7.517404929594989,0 109.05835024187,-7.517434167452508,0 109.0586306324975,-7.517466440522526,0 109.059035450625,-7.517514398670017,0 109.059433844895,-7.517567023399977,0 109.0597757536475,-7.517608662009991,0 109.06008851897,-7.517646699734996,0 109.0603598831025,-7.517679314547479,0 109.0605243394275,-7.517696720927517,0 109.060781024825,-7.517723890344997,0 109.0611156112975,-7.517759311042481,0 109.0612510554925,-7.517773640840005,0 109.061355196085,-7.517784662932513,0 109.0614838468025,-7.517798280465002,0 109.0616579402625,-7.517816382019987,0 109.0617386840925,-7.517822002782508,0 109.0620264338725,-7.517842035182525,0 109.062269371335,-7.517858946932506,0 109.0625385186375,-7.517877494550021,0 109.062718982895,-7.517889203722518,0 109.0629035930275,-7.517901182692526,0 109.06303325548,-7.517909595850027,0 109.0632192595625,-7.517921664752522,0 109.063485394135,-7.517938927239982,0 109.0636412862175,-7.5179490320225,0 109.0638180236825,-7.517960487587516,0 109.06395713891,-7.517969463720021,0 109.064074293595,-7.517976882227515,0 109.064310732555,-7.517991855040009,0 109.0645296446275,-7.518003441905024,0 109.064793200845,-7.51801591999748,0 109.068915725,-7.518096259479989,0 109.0689157251425,-7.51809625948249,0 109.0689154835625,-7.518092257152489,0 109.0708132545275,-7.518121030960003,0 109.07153206825,-7.518134437155027,0 109.071736558795,-7.518146630162504,0 109.071905174485,-7.518162281064975,0 109.0720047510175,-7.518177477807513,0 109.072072661525,-7.518191536010023,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00030">
+			<name>Telepon Fixed Line</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Telepon Fixed Line</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>30</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Telepon Fixed Line</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td>Tidak Ada</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td>Dinas Perumahan dan Kawasan Permukiman Kabupaten Banyumas, 2022</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.0612490285725,-7.526803485605001,0 109.06111931783,-7.526820631725003,0 109.0604367593775,-7.526832434424988,0 109.0596008215475,-7.526847409032484,0 109.05890740558,-7.526857585757512,0 109.0582267707775,-7.526864032094976,0 109.0575414568,-7.526869425330005,0 109.0569692577525,-7.526871982997477,0 109.0561663520225,-7.526871472182506,0 109.0560817860725,-7.526872125092495,0 109.0559537037275,-7.526869790452508,0 109.0558941919925,-7.526861845842517,0 109.0558241752725,-7.526841628192528,0 109.0554539846425,-7.526670506145024,0 109.05531582809,-7.526612695945004,0 109.055250305285,-7.526591394607522,0 109.0551977596975,-7.526574311989975,0 109.0551396032375,-7.526560802380004,0 109.055034945535,-7.526558115204978,0 109.0546838385175,-7.52655616008252,0 109.0541310666225,-7.526559200687473,0 109.0538979308725,-7.526564419449983,0 109.0537182787025,-7.526575071017476,0 109.053504641155,-7.526582093822526,0 109.0533894892625,-7.526562764699975,0 109.053063824065,-7.526473873935003,0 109.0526894398925,-7.526367428415028,0 109.052411504415,-7.526292426777502,0 109.0522361670975,-7.526245111764979,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00031">
+			<name>Telepon Fixed Line</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Telepon Fixed Line</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>31</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Telepon Fixed Line</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td>Tidak Ada</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td>Dinas Komunikasi dan Informatika Kabupaten Banyumas, 2017; Survei Lapangan, 2018</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.0582946241975,-7.511476099542506,0 109.0578243974775,-7.512749547652504,0 109.057774205415,-7.512852146810019,0 109.0574590040275,-7.513632885790003,0 109.0568253086725,-7.51520251930998,0 109.0560198412425,-7.517197624170024,0 109.0553007860825,-7.519027691480006,0 109.055287861445,-7.519060585977513,0 109.0540870902475,-7.521797917240008,0 109.053830833825,-7.52242227786502,0 109.05379541043,-7.522508664042505,0 109.0537418009425,-7.52263940208752,0 109.0536924290625,-7.522759806020019,0 109.0536484953825,-7.52286694945002,0 109.0536057865775,-7.522971102634983,0 109.0535677812275,-7.523063786765022,0 109.0535485357375,-7.52311072148251,0 109.0535138120125,-7.523195402545014,0 109.0534835543225,-7.523269191920008,0 109.0530577010525,-7.524254691500005,0 109.0530207299225,-7.524344679462502,0 109.05296462122,-7.524481249610006,0 109.05291666757,-7.524600489819989,0 109.0527914081975,-7.524910205542483,0 109.052684571435,-7.525165157047524,0 109.052624095625,-7.525302825264988,0 109.052553101345,-7.5254644388325,0 109.0524872340975,-7.525614470032508,0 109.0524633570975,-7.525668894304999,0 109.052348671955,-7.525930428845015,0 109.0523376228825,-7.525958735907522,0 109.0522976633075,-7.526071527977479,0 109.0522361670975,-7.526245111764979,0 109.0522184501225,-7.526295121022486,0 109.05218661682,-7.526384976784982,0 109.052186259555,-7.526385595902525,0 109.0520760142775,-7.526710818039987,0 109.052069036005,-7.526738739982477,0 109.0519761700975,-7.527110321452483,0 109.0519444474075,-7.527237252470002,0 109.0519076178475,-7.527384617445023,0 109.0519061754,-7.527391143440014,0 109.0517681755025,-7.528015490107521,0 109.0516714097475,-7.528350615500017,0 109.05164401211,-7.528445500759972,0 109.0516291620675,-7.528488276287476,0 109.0514400445625,-7.529033028997503,0 109.0512411309275,-7.529453495677501,0 109.051236782495,-7.529462687462512,0 109.0512049911275,-7.529500240867492,0 109.05097653873,-7.529770099204995,0 109.0505866699475,-7.530119989907519,0 109.05035187694,-7.530299525127476,0 109.0500455079375,-7.530533791164999,0 109.049785840275,-7.530712035947488,0 109.0497670543375,-7.530799678332528,0 109.0497538263075,-7.530888326377521,0 109.04975070509,-7.530924911147508,0 109.0497462075925,-7.530977627727509,0 109.04974422876,-7.531067230839994,0 109.04974456748,-7.531075500220026,0 109.0497478968275,-7.531156781349978,0 109.0497817648075,-7.53162337508502,0 109.0498394253325,-7.532080420627494,0 109.04984426719,-7.532118799555008,0 109.0497998070575,-7.532412818947478,0 109.0497291607875,-7.532689562644975,0 109.0497266151375,-7.532699534760014,0 109.04950020322,-7.53348071390252,0 109.04939251095,-7.533850598237508,0 109.0492811098025,-7.534233221227509,0 109.049192733495,-7.534699270057502,0 109.0491867692475,-7.534716863422488,0 109.04883080591,-7.535766885864973,0 109.048655523035,-7.536407642327504,0 109.0485883381175,-7.536653240595001,0 109.048500730925,-7.537045148332481,0 109.0484786528925,-7.537143913647526,0 109.048472154315,-7.537172984807512,0 109.0483441186,-7.537662775900003,0 109.04819740915,-7.538291721349992,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.0634691206775,-7.499006019802492,0 109.06347330123,-7.499108581764973,0 109.06347568069,-7.499168068289977,0 109.06347568069,-7.49922993427498,0 109.063466162845,-7.499313215409984,0 109.0634328503925,-7.499482157142495,0 109.06337812279,-7.499684411327507,0 109.0632234578225,-7.500181718677482,0 109.0630212036375,-7.500824173150021,0 109.062895092205,-7.501171574457488,0 109.06269283802,-7.501735506715021,0 109.062540552515,-7.502078149099987,0 109.06240968216,-7.502373202265005,0 109.06215032091,-7.503015656734988,0 109.06198375864,-7.503403508880012,0 109.0618600266675,-7.503698562044974,0 109.061678949685,-7.504070709745007,0 109.06161654177,-7.504191591867482,0 109.0612001961325,-7.504984791215008,0 109.0607134003025,-7.505819368369998,0 109.06071303428,-7.505820009585022,0 109.060712403855,-7.505821136434975,0 109.060712057615,-7.505821765062478,0 109.0602709860175,-7.506639868435003,0 109.0602704868925,-7.506640820817496,0 109.0602696055575,-7.506642553810025,0 109.0602691280175,-7.506643521482488,0 109.0597656542625,-7.507694480015006,0 109.05976551217,-7.507694783987517,0 109.059764960885,-7.507695991777497,0 109.059764826885,-7.507696293050003,0 109.0597637692825,-7.50769872661499,0 109.0597636424775,-7.50769902338999,0 109.05976313526,-7.507700250067501,0 109.059763008455,-7.507700565727475,0 109.059209253605,-7.509114501432521,0 109.05916765996,-7.509220444267499,0 109.0591063630675,-7.50937657467,0 109.05876149015,-7.510255012657523,0 109.058761393025,-7.510255250079979,0 109.058547674535,-7.510757915344982,0 109.0585472266725,-7.51075900802249,0 109.0585464901275,-7.51076087321502,0 109.0585463930025,-7.510761125925,0 109.0585460152875,-7.510762126870019,0 109.0585459217575,-7.510762378679998,0 109.05854562678,-7.510763206957506,0 109.05835187276,-7.511318322870011,0 109.0583344200975,-7.511368325687499,0 109.058307217405,-7.511441995452515,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00032">
+			<name>Telepon Fixed Line</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Telepon Fixed Line</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>32</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Telepon Fixed Line</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td>Tidak Ada</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td>Dinas Perumahan dan Kawasan Permukiman Kabupaten Banyumas, 2022</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.0465227066975,-7.53648000500749,0 109.048500730925,-7.537045148332481,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00033">
+			<name>Telepon Fixed Line</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Telepon Fixed Line</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>33</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Telepon Fixed Line</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td>Tidak Ada</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td>Dinas Perumahan dan Kawasan Permukiman Kabupaten Banyumas, 2022</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.0612490285725,-7.526803485605001,0 109.0612688526125,-7.526803473712506,0 109.069184443545,-7.526676808825015,0 109.069236151865,-7.526675150475,0 109.06924788442,-7.526674774559979,0 109.069335286095,-7.526671971040003,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00034">
+			<name>Telepon Fixed Line</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Telepon Fixed Line</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>34</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Telepon Fixed Line</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td>Tidak Ada</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td>Dinas Perumahan dan Kawasan Permukiman Kabupaten Banyumas, 2022</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.05995056117,-7.511880342104973,0 109.05973685797,-7.511800102792506,0 109.0594774647125,-7.511703084830002,0 109.0594770078575,-7.511702918455001,0 109.0594762461325,-7.511702647759988,0 109.059250267385,-7.511624866029991,0 109.0589757095625,-7.511530363735005,0 109.0589116562475,-7.511508316854986,0 109.0585259612925,-7.511372595702484,0 109.0585249414725,-7.511372236839975,0 109.05835187276,-7.511318322870011,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00035">
+			<name>Telepon Fixed Line</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Telepon Fixed Line</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>35</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Telepon Fixed Line</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td>Tidak Ada</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td>Dinas Komunikasi dan Informatika Kabupaten Banyumas, 2017; Survei Lapangan, 2018</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.0767200682775,-7.524315067487522,0 109.07659234746,-7.524213713892493,0 109.076574404185,-7.524199275275009,0 109.07631702631,-7.523932685644979,0 109.07610255419,-7.523634612547482,0 109.0749022326525,-7.522031514342473,0 109.0744557974975,-7.521432845550009,0 109.073756564715,-7.520484910649998,0 109.0737299169025,-7.520448789379998,0 109.0737184559425,-7.520433254490001,0 109.0736446216025,-7.520333171637503,0 109.0735721254525,-7.520234903617506,0 109.073548538035,-7.520202931819995,0 109.07353062444,-7.520178650124991,0 109.0735129698475,-7.520154719165021,0 109.073502348855,-7.520140321917495,0 109.0734922755475,-7.520126668410001,0 109.0734105748375,-7.52001592319499,0 109.0732973429975,-7.5198624377025,0 109.073129117615,-7.519634409200024,0 109.07299362036,-7.519450742457479,0 109.07288456587,-7.519302919992526,0 109.07278669355,-7.519170253804987,0 109.07269136991,-7.519041042809988,0 109.0726117117025,-7.518933066524994,0 109.0726065566475,-7.518926078874983,0 109.0725040627125,-7.518789253322495,0 109.07242285663,-7.518683283507528,0 109.072308542905,-7.518540495447496,0 109.072072661525,-7.518191536010023,0 109.0719994980775,-7.518089444972475,0 109.0718077041625,-7.517821956917487,0 109.0717692608425,-7.517770088517523,0 109.07148670195,-7.517388862304983,0 109.07121248157,-7.517018886612505,0 109.070828061865,-7.516501997669991,0 109.070503846375,-7.516066526149984,0 109.0702922287025,-7.515782290920015,0 109.0699567384125,-7.515331675715004,0 109.0699294868575,-7.515295072574986,0 109.069641446895,-7.514908189462517,0 109.0694031679225,-7.514588143227512,0 109.0691677218125,-7.514271901127472,0 109.06886143071,-7.513860504457513,0 109.0686492626525,-7.513575529087519,0 109.068409439545,-7.513253409017522,0 109.068166909475,-7.512927652090013,0 109.068154223895,-7.51291061333751,0 109.0679022641775,-7.512572191452477,0 109.06763179847,-7.512208913910001,0 109.0673481244175,-7.511828706630013,0 109.0671253281725,-7.511530570580021,0 109.0668435984525,-7.51115366470998,0 109.066616974695,-7.510850783837498,0 109.0664209152925,-7.510588752867477,0 109.0661880835125,-7.510272301224973,0 109.0660141205325,-7.510049198582522,0 109.0657283187475,-7.509682666050026,0 109.0657047653625,-7.509646301134978,0 109.06546267866,-7.509340571209974,0 109.065462513185,-7.509340358070006,0 109.06546185578,-7.509339501917509,0 109.0654616939025,-7.509339288777483,0 109.0654599213375,-7.509336908272473,0 109.0654597558625,-7.509336681642479,0 109.06545912454,-7.509335805702506,0 109.0654589725525,-7.509335592562479,0 109.065261264695,-7.509052752182527,0 109.06505310132,-7.508775874307502,0 109.0649521883925,-7.50864054702248,0 109.0644098711175,-7.507961639817495,0 109.0644096148125,-7.507961316062506,0 109.0644089978775,-7.507960530055016,0 109.06440874337,-7.507960201802518,0 109.064104113315,-7.507564181742509,0 109.06410379945,-7.507563768052479,0 109.06410305751,-7.507562780597482,0 109.0641027508425,-7.50756236781001,0 109.0637648359775,-7.507101662212507,0 109.0637646705025,-7.507101431985006,0 109.0637640023075,-7.507100490394976,0 109.063763832335,-7.507100246680011,0 109.0637620390875,-7.507097629652492,0 109.0637618862025,-7.5070974030225,0 109.0637612485825,-7.507096441647491,0 109.0637610849075,-7.507096189837512,0 109.063641315895,-7.506908932102476,0 109.06353062374,-7.506737844175006,0 109.063384500995,-7.506526802070026,0 109.0633841502575,-7.506526287657493,0 109.063383317485,-7.506525047492516,0 109.063382975745,-7.506524530382479,0 109.06325083116,-7.506322000360001,0 109.0629502120825,-7.505960028632501,0 109.0629155036475,-7.505920501629987,0 109.0629151843875,-7.505920133807479,0 109.0629144289575,-7.505919255169999,0 109.0629141159925,-7.505918887347491,0 109.06291390915,-7.505918637335014,0 109.062913213975,-7.505917784777523,0 109.062913038605,-7.50591756714249,0 109.06291116442,-7.505915194729994,0 109.0629109998425,-7.505914983390028,0 109.0629103307475,-7.505914110147502,0 109.062910162575,-7.505913886217513,0 109.0626103052225,-7.505509734487475,0 109.062609956285,-7.505509257845007,0 109.0626091235125,-7.505508103117506,0 109.06260878177,-7.505507621979973,0 109.062267632945,-7.50502179202249,0 109.0622674629725,-7.505021545607519,0 109.0622668010725,-7.505020568944986,0 109.062266639195,-7.505020326127521,0 109.0622648630325,-7.505017611972505,0 109.062264702955,-7.505017361962473,0 109.0622640734275,-7.505016364612517,0 109.062263919645,-7.505016117299988,0 109.06202426291,-7.50466252635499,0 109.0617396931325,-7.504339075287476,0 109.06161654177,-7.504191591867482,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00036">
+			<name>Telepon Fixed Line</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Telepon Fixed Line</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>36</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Telepon Fixed Line</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td>Tidak Ada</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td>Dinas Perumahan dan Kawasan Permukiman Kabupaten Banyumas, 2022</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.0541902091225,-7.518680783947501,0 109.0540561670575,-7.518638913655025,0 109.0539905777025,-7.51861844148749,0 109.0539890794325,-7.518617954955005,0 109.0526023653075,-7.518180430282485,0 109.05242273832,-7.518122132630026,0 109.0524037320475,-7.518107691317482,0 109.0524026042975,-7.518086655275,0 109.05243153009,-7.517962031722504,0 109.052571526655,-7.517348655414991,0 109.0526795145475,-7.516881448619984,0 109.0527856291525,-7.516409117487513,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00037">
+			<name>Telepon Fixed Line</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Telepon Fixed Line</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>37</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Telepon Fixed Line</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td>Tidak Ada</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td>Dinas Komunikasi dan Informatika Kabupaten Banyumas, 2017; Survei Lapangan, 2018</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.0636321832775,-7.509951045404988,0 109.0634569225,-7.509915434050015,0 109.0632837589375,-7.509879885647479,0 109.063282874005,-7.509879700387501,0 109.06313874056,-7.509848533482511,0 109.062870417935,-7.509786159205021,0 109.062689824175,-7.509754666744981,0 109.06192720483,-7.509633035107527,0 109.0619226060825,-7.509632301645013,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00038">
+			<name>Telepon Fixed Line</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Telepon Fixed Line</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>38</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Telepon Fixed Line</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td>Tidak Ada</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td>Dinas Komunikasi dan Informatika Kabupaten Banyumas, 2017; Survei Lapangan, 2018</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.063816946295,-7.509987505717504,0 109.06381244159,-7.509986614490003,0 109.0636327021875,-7.509951146127491,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00039">
+			<name>Telepon Fixed Line</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Telepon Fixed Line</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>39</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Telepon Fixed Line</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td>Tidak Ada</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td>Dinas Komunikasi dan Informatika Kabupaten Banyumas, 2017; Survei Lapangan, 2018</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.0660141205325,-7.510049198582522,0 109.065910188855,-7.510100665167499,0 109.065843862605,-7.510128343147528,0 109.0658428778475,-7.510128740649974,0 109.065840492845,-7.510129671447487,0 109.0658394954975,-7.510130045565007,0 109.06583902785,-7.510130211940009,0 109.0658375304775,-7.510130719157473,0 109.06583715726,-7.510130841465014,0 109.065833011385,-7.510132146382489,0 109.0658322496575,-7.510132367614972,0 109.06582919556,-7.510133184200015,0 109.06582842844,-7.510133371257496,0 109.0658241845375,-7.510134310150022,0 109.065823805025,-7.51013439018999,0 109.0658222545925,-7.510134698657508,0 109.06582175457,-7.510134790387497,0 109.0658207050625,-7.510134962157508,0 109.0658181833625,-7.510135345269987,0 109.065817132955,-7.510135491860011,0 109.0654166171825,-7.510189337867473,0 109.0652216846325,-7.510217786122496,0 109.06522135818,-7.510217831087515,0 109.0652200532625,-7.51021799746252,0 109.0652197286075,-7.510218035235027,0 109.06521547931,-7.510218499284974,0 109.06521481831,-7.51021855954002,0 109.0652121949875,-7.510218749295008,0 109.0652115456775,-7.510218784370011,0 109.0652072729975,-7.510218939952494,0 109.0652069348525,-7.510218949845012,0 109.0652056200425,-7.510218973227496,0 109.0652052971875,-7.510218975925,0 109.06520493566,-7.510218972327493,0 109.06520349045,-7.510218943550002,0 109.0652031289225,-7.510218932757482,0 109.06519843626,-7.510218745697501,0 109.0651980747325,-7.510218727712528,0 109.06519663222,-7.510218641377492,0 109.06519627339,-7.510218616195004,0 109.0651335197275,-7.510213610114988,0 109.064982337265,-7.510201549762485,0 109.0649812050175,-7.510201444539973,0 109.0649780430025,-7.510201112690027,0 109.0649770285675,-7.510200994879995,0 109.0649766103825,-7.510200940920015,0 109.0649031835275,-7.510190575934985,0 109.0647283270125,-7.510165893067494,0 109.064663136445,-7.510156679590011,0 109.0646630748375,-7.510156670882509,0 109.06466285221,-7.510156639417517,0 109.064558486785,-7.510139448877511,0 109.0645575092225,-7.510139282502508,0 109.0645568329325,-7.510139160195024,0 109.064555354445,-7.510138882302498,0 109.064554825645,-7.510138779779993,0 109.0645458674975,-7.510136983835025,0 109.064490978275,-7.510125978829989,0 109.064348589515,-7.510097431650024,0 109.064157531245,-7.510060257274972,0 109.0641568117875,-7.510060112485007,0 109.064154798205,-7.510059686205011,0 109.0641540850425,-7.510059529722525,0 109.0639791902875,-7.510019607917513,0 109.06381732311,-7.509987577665016,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00040">
+			<name>Telepon Fixed Line</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Telepon Fixed Line</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>40</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Telepon Fixed Line</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td>Tidak Ada</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td>Dinas Perumahan dan Kawasan Permukiman Kabupaten Banyumas, 2022</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.0610976824125,-7.514488119730003,0 109.0611753496625,-7.514489251977523,0 109.0613028168725,-7.514472207127483,0 109.06140957809,-7.514457536484997,0 109.061497083025,-7.514445512550025,0 109.0615292122025,-7.514439090492488,0 109.06161914081,-7.514420675074973,0 109.061633103685,-7.514416120007524,0 109.0616467553925,-7.514408253637499,0 109.06175705994,-7.514310099830027,0 109.0618861621175,-7.514177439037495,0 109.0620018419125,-7.514048568887517,0 109.06205402867,-7.513995014257489,0 109.06217235607,-7.513883892227511,0 109.0621797134225,-7.513873405232516,0 109.062297731455,-7.513825694399998,0 109.0625133340225,-7.513803145697523,0 109.062555090445,-7.513800478309975,0 109.062791902625,-7.513783656489977,0 109.0630630149475,-7.51376272297,0 109.0632144679725,-7.513751718867525,0 109.063461981185,-7.513736862965004,0 109.063724658765,-7.513726682640027,0 109.064000776715,-7.513718238005027,0 109.064390072545,-7.513711386969987,0 109.0648883949825,-7.51369920025752,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00041">
+			<name>Telepon Fixed Line</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Telepon Fixed Line</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>41</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Telepon Fixed Line</td>
+
+</tr>
+
+<tr>
+
+<td>WADMPR</td>
+
+<td>Provinsi Jawa Tengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WADMKK</td>
+
+<td>Kabupaten Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td>Tidak Ada</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td>Dinas Komunikasi dan Informatika Kabupaten Banyumas, 2017; Survei Lapangan, 2018</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.0355586232125,-7.510238324015007,0 109.035598094005,-7.510261702432501,0 109.0357480000475,-7.510323092527528,0 109.035837943675,-7.510360212117519,0 109.036002126485,-7.51039019332751,0 109.0361940538075,-7.510407230267504,0 109.036472450745,-7.510414368650004,0 109.036742281625,-7.510441494507518,0 109.036872200195,-7.510471475715008,0 109.03696214382,-7.510495746217488,0 109.0372519621725,-7.510609960344993,0 109.0375631956725,-7.510745589622502,0 109.0380371843025,-7.510942608994981,0 109.0382627572075,-7.511032552620009,0 109.0386682173625,-7.511221005932498,0 109.0388452492625,-7.511299528145003,0 109.0390594007525,-7.511388044094986,0 109.0392378603275,-7.51146513863,0 109.03933779769,-7.511522245695005,0 109.039440590405,-7.511573642052498,0 109.03960620089,-7.511640742852479,0 109.0398075032925,-7.511717837389995,0 109.039944560245,-7.511774944454999,0 109.04012730285,-7.51182634081249,0 109.040545612095,-7.511897724642496,0 109.0409125249825,-7.511944837970021,0 109.041302280695,-7.512001945035024,0 109.0415007277425,-7.512026215537503,0 109.04175485418,-7.512071901187483,0 109.041840514775,-7.512107593102485,0 109.0419404521375,-7.512160417137522,0 109.04201897435,-7.512204675112514,0 109.04211177333,-7.512270348235005,0 109.0422159937225,-7.512351725802489,0 109.042328780175,-7.512453090839984,0 109.04242728986,-7.512551600527501,0 109.0425943280225,-7.512714355660024,0 109.0427599385075,-7.512868544732498,0 109.0429498194975,-7.51304557663002,0 109.04308259342,-7.513166929142528,0 109.0432082289625,-7.51329399235999,0 109.043362418035,-7.513448181432523,0 109.043438084895,-7.513530986677495,0 109.043522317815,-7.513619502624977,0 109.0435908462925,-7.513680892720004,0 109.04368364527,-7.513770836344974,0 109.043757884455,-7.513846503205002,0 109.04379357637,-7.513916459360019,0 109.043820702225,-7.5139764217775,0 109.04386924323,-7.514062082372504,0 109.04390207979,-7.514169158117511,0 109.04391921191,-7.514244824977482,0 109.04394062706,-7.514317636484974,0 109.04399487877,-7.514416146169992,0 109.044051985835,-7.514483246969974,0 109.0441405017825,-7.514574618272491,0 109.044266137325,-7.514684549372475,0 109.0443218167125,-7.51473309037749,0 109.044421754075,-7.514800191177528,0 109.04452454679,-7.51488299642,0 109.044644471625,-7.514990072165005,0 109.0447272768675,-7.515072877407476,0 109.044791522315,-7.515125701442514,0 109.0448557677625,-7.515208506684984,0 109.0449057364425,-7.515268469102523,0 109.0449228685625,-7.515319865460015,0 109.04492429624,-7.515402670702485,0 109.044930006945,-7.515496897359982,0 109.0449400006825,-7.515578274925019,0 109.044951422095,-7.515645375725001,0 109.04497854795,-7.515726753292484,0 109.045014468505,-7.515810685787528,0 109.04504764803,-7.515852160192481,0 109.0450884311925,-7.515894325837507,0 109.0451292143575,-7.515926814120007,0 109.0451982373375,-7.515975780502516,0 109.04524868191,-7.516006237604984,0 109.04530483719,-7.516021466154996,0 109.0453657513925,-7.516038598272474,0 109.045431424515,-7.516052875039975,0 109.04551042262,-7.516062392882475,0 109.0456753192675,-7.516073338405022,0 109.0458068801825,-7.516085978485023,0 109.04617543135,-7.516093764815025,0 109.0464251335125,-7.516101818244976,0 109.0472969803725,-7.516143946984982,0 109.0474454647375,-7.516140470207517,0 109.0475281556,-7.516138533964977,0 109.04752903154,-7.516138511482495,0 109.0475293849725,-7.516138497992472,0 109.0475307528425,-7.516138435039977,0 109.047531028035,-7.51613842065251,0 109.047532394105,-7.516138337014979,0 109.0475331873075,-7.51613827136498,0 109.0475342467075,-7.516138159847515,0 109.0475366802725,-7.516137984479997,0 109.047537845795,-7.516137862172513,0 109.04754055815,-7.516137489852496,0 109.04754090349,-7.516137439490024,0 109.04754225607,-7.516137227249999,0 109.04754268055,-7.516137154404986,0 109.04754356908,-7.516136988929986,0 109.04754517347,-7.516136674167513,0 109.0475460647,-7.516136488907478,0 109.0477137864625,-7.516100010607487,0 109.047714378215,-7.516099871212476,0 109.047715442115,-7.516099576234977,0 109.0477167371375,-7.516099263270007,0 109.047717325295,-7.516099104990019,0 109.047718493515,-7.516098756952488,0 109.047722006265,-7.51609776319998,0 109.047722591725,-7.516097583337511,0 109.0477249074775,-7.516096828805019,0 109.047725562185,-7.516096601277524,0 109.0477263814675,-7.516096294607507,0 109.04772785006,-7.516095728934999,0 109.047728665745,-7.516095406077511,0 109.04785188974,-7.516045180547508,0 109.0478837277525,-7.516032203522514,0 109.048064992405,-7.515972346447484,0 109.0480656273275,-7.515972131507511,0 109.0480667748625,-7.515971734007508,0 109.04806750781,-7.515971472305012,0 109.048068347775,-7.515971159342484,0 109.0480697974825,-7.515970599962486,0 109.0480705960825,-7.51597028430001,0 109.0482320243875,-7.515904608610015,0 109.04837722443,-7.515865254277514,0 109.04837811206,-7.515865004267482,0 109.04837970476,-7.515864537517474,0 109.048380585195,-7.515864269520023,0 109.0485390367475,-7.515814335562482,0 109.0486997590875,-7.515781147882478,0 109.04887423386,-7.515755262694995,0 109.0489923220375,-7.515741595697477,0 109.0489934839625,-7.515741446410004,0 109.0489955739875,-7.515741148735003,0 109.048996729615,-7.515740969769979,0 109.0490759275125,-7.515727636420023,0 109.04937297898,-7.5157051245925,0 109.049559414735,-7.515701994950007,0 109.04972771926,-7.515708186782489,0 109.0498545155725,-7.51571377876752,0 109.0498605329375,-7.515714044067523,0 109.05048850434,-7.515849013419994,0 109.0504894765075,-7.515849220265011,0 109.050490859665,-7.515849552115014,0 109.050674410395,-7.515895481389975,0 109.050674676595,-7.515895547939976,0 109.0510524404175,-7.515989990244974,0 109.0511973427825,-7.516026214937483,0 109.0512952807525,-7.516050698079994,0 109.05129623853,-7.51605092650999,0 109.0512979742225,-7.51605132131249,0 109.0512989409925,-7.516051529055005,0 109.051658506135,-7.516124973987473,0 109.051823340175,-7.516161678020011,0 109.051975240165,-7.516198263340017,0 109.052372482405,-7.51630248936749,0 109.0526407411775,-7.516372081605027,0 109.0527856291525,-7.516409117487513,0 109.053376208545,-7.516558005647481,0 109.053500609965,-7.516589366805022,0 109.054016615775,-7.516719453739995,0 109.054550859835,-7.516853382577494,0 109.054687159285,-7.516887550519982,0 109.0560198412425,-7.517197624170024,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

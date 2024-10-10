@@ -1,0 +1,9727 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="Titik_Energi_Perkotaan_Wangon_edit" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+	<name>Infrastruktur Energi KP Wangon</name>
+	<Snippet maxLines="0"></Snippet>
+	<Style id="IconStyle00">
+		<IconStyle>
+			<scale>1.375</scale>
+			<Icon>
+				<href>Layer0_Symbol_15351370_0.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<PolyStyle>
+			<color>ff000000</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Folder id="FeatureLayer0">
+		<name>Titik_Energi_Perkotaan_Wangon_edit</name>
+		<Snippet maxLines="0"></Snippet>
+		<Placemark id="ID_00000">
+			<name>KL021</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>KL021</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>KL021</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Distribusi 1 P</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>162248</td>
+
+</tr>
+
+<tr>
+
+<td>DESA</td>
+
+<td>Randegan</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>X</td>
+
+<td>109,049776</td>
+
+</tr>
+
+<tr>
+
+<td>Y</td>
+
+<td>-7,532562</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama_Obyek</td>
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.0497755380107,-7.53256227602816,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00001">
+			<name>KL005</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>KL005</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>KL005</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Distribusi 1 P</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>155947</td>
+
+</tr>
+
+<tr>
+
+<td>DESA</td>
+
+<td>Randegan</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>X</td>
+
+<td>109,047994</td>
+
+</tr>
+
+<tr>
+
+<td>Y</td>
+
+<td>-7,530602</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama_Obyek</td>
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.0479940673724,-7.530602048945354,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00002">
+			<name>KL 096</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>KL 096</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>2</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>KL 096</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Distribusi 1 P</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>141531</td>
+
+</tr>
+
+<tr>
+
+<td>DESA</td>
+
+<td>Klapagading Kulon</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>X</td>
+
+<td>109,05195</td>
+
+</tr>
+
+<tr>
+
+<td>Y</td>
+
+<td>-7,527798</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama_Obyek</td>
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.0519499997927,-7.527798333326359,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00003">
+			<name>KL175</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>KL175</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>3</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>KL175</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Distribusi 1 P</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>121821</td>
+
+</tr>
+
+<tr>
+
+<td>DESA</td>
+
+<td>Klapagading</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>X</td>
+
+<td>109,0705</td>
+
+</tr>
+
+<tr>
+
+<td>Y</td>
+
+<td>-7,5268</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama_Obyek</td>
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.0704997670506,-7.526799684757577,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00004">
+			<name>KL179</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>KL179</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>4</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>KL179</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Distribusi 1 P</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>122138</td>
+
+</tr>
+
+<tr>
+
+<td>DESA</td>
+
+<td>Klapagading</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>X</td>
+
+<td>109,071927</td>
+
+</tr>
+
+<tr>
+
+<td>Y</td>
+
+<td>-7,52679</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama_Obyek</td>
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.0719271548144,-7.526790240077446,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00005">
+			<name>KL168</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>KL168</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>5</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>KL168</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Distribusi 1 P</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>120856</td>
+
+</tr>
+
+<tr>
+
+<td>DESA</td>
+
+<td>Klapagading</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>X</td>
+
+<td>109,072526</td>
+
+</tr>
+
+<tr>
+
+<td>Y</td>
+
+<td>-7,526781</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama_Obyek</td>
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.0725263380202,-7.526780725250205,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00006">
+			<name>KL 090</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>KL 090</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>6</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>KL 090</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Distribusi 1 P</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>140515</td>
+
+</tr>
+
+<tr>
+
+<td>DESA</td>
+
+<td>Klapagading Kulon</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>X</td>
+
+<td>109,052405</td>
+
+</tr>
+
+<tr>
+
+<td>Y</td>
+
+<td>-7,526402</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama_Obyek</td>
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.0524050000907,-7.526401667303048,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00007">
+			<name>KL196</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>KL196</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>7</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>KL196</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Distribusi 1 P</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>124904</td>
+
+</tr>
+
+<tr>
+
+<td>DESA</td>
+
+<td>Klapagading</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>X</td>
+
+<td>109,06932</td>
+
+</tr>
+
+<tr>
+
+<td>Y</td>
+
+<td>-7,525457</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama_Obyek</td>
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.0693195462601,-7.525457015828579,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00008">
+			<name>KL143</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>KL143</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>8</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>KL143</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Distribusi 1 P</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>111614</td>
+
+</tr>
+
+<tr>
+
+<td>DESA</td>
+
+<td>Klapagading</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>X</td>
+
+<td>109,078505</td>
+
+</tr>
+
+<tr>
+
+<td>Y</td>
+
+<td>-7,52513</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama_Obyek</td>
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.0785050228886,-7.525129929702473,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00009">
+			<name>KL197</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>KL197</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>9</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>KL197</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Distribusi 1 P</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>125015</td>
+
+</tr>
+
+<tr>
+
+<td>DESA</td>
+
+<td>Klapagading</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>X</td>
+
+<td>109,069289</td>
+
+</tr>
+
+<tr>
+
+<td>Y</td>
+
+<td>-7,525094</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama_Obyek</td>
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.0692885772061,-7.525094338133157,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00010">
+			<name>KL159</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>KL159</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>10</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>KL159</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Distribusi 1 P</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>120150</td>
+
+</tr>
+
+<tr>
+
+<td>DESA</td>
+
+<td>Klapagading</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>X</td>
+
+<td>109,075671</td>
+
+</tr>
+
+<tr>
+
+<td>Y</td>
+
+<td>-7,524682</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama_Obyek</td>
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.0756706206027,-7.524682256181109,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00011">
+			<name>KL157</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>KL157</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>11</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>KL157</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Distribusi 1 P</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>113853</td>
+
+</tr>
+
+<tr>
+
+<td>DESA</td>
+
+<td>Klapagading</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>X</td>
+
+<td>109,076039</td>
+
+</tr>
+
+<tr>
+
+<td>Y</td>
+
+<td>-7,524537</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama_Obyek</td>
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.0760392823871,-7.524537120891353,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00012">
+			<name>KL136</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>KL136</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>12</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>KL136</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Distribusi 1 P</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>110939</td>
+
+</tr>
+
+<tr>
+
+<td>DESA</td>
+
+<td>Klapagading</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>X</td>
+
+<td>109,076956</td>
+
+</tr>
+
+<tr>
+
+<td>Y</td>
+
+<td>-7,524483</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama_Obyek</td>
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.0769562770107,-7.524482504164212,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00013">
+			<name>KL134</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>KL134</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>13</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>KL134</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Distribusi 3 P</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>110800</td>
+
+</tr>
+
+<tr>
+
+<td>DESA</td>
+
+<td>Klapagading</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>X</td>
+
+<td>109,076699</td>
+
+</tr>
+
+<tr>
+
+<td>Y</td>
+
+<td>-7,524305</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama_Obyek</td>
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.0766990933885,-7.524305432149902,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00014">
+			<name>KL124</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>KL124</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>14</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>KL124</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Distribusi 3 P</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>105826</td>
+
+</tr>
+
+<tr>
+
+<td>DESA</td>
+
+<td>Klapagading</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>X</td>
+
+<td>109,075088</td>
+
+</tr>
+
+<tr>
+
+<td>Y</td>
+
+<td>-7,522272</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama_Obyek</td>
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.0750884426776,-7.522271918414276,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00015">
+			<name>KL 022</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>KL 022</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>15</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>KL 022</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Distribusi 3 P</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>102552</td>
+
+</tr>
+
+<tr>
+
+<td>DESA</td>
+
+<td>Wangon</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>X</td>
+
+<td>109,054273</td>
+
+</tr>
+
+<tr>
+
+<td>Y</td>
+
+<td>-7,5218</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama_Obyek</td>
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.0542733326482,-7.521800000069901,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00016">
+			<name>KL210</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>KL210</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>16</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>KL210</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Distribusi 1 P</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>171558</td>
+
+</tr>
+
+<tr>
+
+<td>DESA</td>
+
+<td>Klapagading</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>X</td>
+
+<td>109,069029</td>
+
+</tr>
+
+<tr>
+
+<td>Y</td>
+
+<td>-7,521799</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama_Obyek</td>
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.0690292442043,-7.521799486557029,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00017">
+			<name>KL056</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>KL056</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>17</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>KL056</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Distribusi 1 P</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>143406</td>
+
+</tr>
+
+<tr>
+
+<td>DESA</td>
+
+<td>Klapagading</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>X</td>
+
+<td>109,073824</td>
+
+</tr>
+
+<tr>
+
+<td>Y</td>
+
+<td>-7,520572</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama_Obyek</td>
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.0738235462197,-7.520571831924485,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00018">
+			<name>KL206</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>KL206</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>18</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>KL206</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Distribusi 1 P</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>171255</td>
+
+</tr>
+
+<tr>
+
+<td>DESA</td>
+
+<td>Klapagading</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>X</td>
+
+<td>109,068906</td>
+
+</tr>
+
+<tr>
+
+<td>Y</td>
+
+<td>-7,520347</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama_Obyek</td>
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.0689064246918,-7.520346905185477,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00019">
+			<name>KL114</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>KL114</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>19</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>KL114</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Distribusi 1 P</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>105044</td>
+
+</tr>
+
+<tr>
+
+<td>DESA</td>
+
+<td>Klapagading</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>X</td>
+
+<td>109,073553</td>
+
+</tr>
+
+<tr>
+
+<td>Y</td>
+
+<td>-7,520186</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama_Obyek</td>
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.0735531227784,-7.520186013773468,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00020">
+			<name>KL 017</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>KL 017</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>20</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>KL 017</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Distribusi 3 P</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>102219</td>
+
+</tr>
+
+<tr>
+
+<td>DESA</td>
+
+<td>Wangon</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>X</td>
+
+<td>109,055055</td>
+
+</tr>
+
+<tr>
+
+<td>Y</td>
+
+<td>-7,519968</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama_Obyek</td>
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.0550549999883,-7.519968332872224,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00021">
+			<name>KL 006</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>KL 006</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>21</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>KL 006</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Distribusi 1 P</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>94130</td>
+
+</tr>
+
+<tr>
+
+<td>DESA</td>
+
+<td>Klapagading</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>X</td>
+
+<td>109,062563</td>
+
+</tr>
+
+<tr>
+
+<td>Y</td>
+
+<td>-7,519802</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama_Obyek</td>
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.0625633327317,-7.519801666913338,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00022">
+			<name>KL 028</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>KL 028</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>22</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>KL 028</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Distribusi 1 P</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>104104</td>
+
+</tr>
+
+<tr>
+
+<td>DESA</td>
+
+<td>Wangon</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>X</td>
+
+<td>109,05448</td>
+
+</tr>
+
+<tr>
+
+<td>Y</td>
+
+<td>-7,51889</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama_Obyek</td>
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.0544799995524,-7.518889999873523,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00023">
+			<name>KL 025</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>KL 025</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>23</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>KL 025</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Distribusi 1 P</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>100102</td>
+
+</tr>
+
+<tr>
+
+<td>DESA</td>
+
+<td>Klapagading Kulon</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>X</td>
+
+<td>109,058352</td>
+
+</tr>
+
+<tr>
+
+<td>Y</td>
+
+<td>-7,518833</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama_Obyek</td>
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.0583516672957,-7.51883333269211,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00024">
+			<name>KL 023</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>KL 023</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>24</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>KL 023</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Distribusi 1 P</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>95937</td>
+
+</tr>
+
+<tr>
+
+<td>DESA</td>
+
+<td>Klapagading Kulon</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>X</td>
+
+<td>109,059287</td>
+
+</tr>
+
+<tr>
+
+<td>Y</td>
+
+<td>-7,518812</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama_Obyek</td>
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.0592866672459,-7.51881166712468,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00025">
+			<name>KL 028</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>KL 028</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>25</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>KL 028</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Distribusi 1 P</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>100302</td>
+
+</tr>
+
+<tr>
+
+<td>DESA</td>
+
+<td>Klapagading Kulon</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>X</td>
+
+<td>109,057058</td>
+
+</tr>
+
+<tr>
+
+<td>Y</td>
+
+<td>-7,518795</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama_Obyek</td>
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.0570583333754,-7.518794999989211,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00026">
+			<name>KL 009</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>KL 009</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>26</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>KL 009</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Distribusi 1 P</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>94321</td>
+
+</tr>
+
+<tr>
+
+<td>DESA</td>
+
+<td>Klapagading Kulon</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>X</td>
+
+<td>109,062918</td>
+
+</tr>
+
+<tr>
+
+<td>Y</td>
+
+<td>-7,518773</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama_Obyek</td>
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.0629183329148,-7.518773332623141,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00027">
+			<name>KL 029</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>KL 029</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>27</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>KL 029</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Distribusi 1 P</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>104146</td>
+
+</tr>
+
+<tr>
+
+<td>DESA</td>
+
+<td>Wangon</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>X</td>
+
+<td>109,054103</td>
+
+</tr>
+
+<tr>
+
+<td>Y</td>
+
+<td>-7,518765</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama_Obyek</td>
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.0541033329026,-7.518765000404414,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00028">
+			<name>KL 014</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>KL 014</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>28</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>KL 014</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Distribusi 3 P</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>101733</td>
+
+</tr>
+
+<tr>
+
+<td>DESA</td>
+
+<td>Wangon</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>X</td>
+
+<td>109,055642</td>
+
+</tr>
+
+<tr>
+
+<td>Y</td>
+
+<td>-7,518623</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama_Obyek</td>
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.0556416673292,-7.518623332900461,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00029">
+			<name>KL108</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>KL108</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>29</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>KL108</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Distribusi 3 P</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>104419</td>
+
+</tr>
+
+<tr>
+
+<td>DESA</td>
+
+<td>Klapagading</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>X</td>
+
+<td>109,070855</td>
+
+</tr>
+
+<tr>
+
+<td>Y</td>
+
+<td>-7,51828</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama_Obyek</td>
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.0708550658087,-7.518279613813093,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00030">
+			<name>KL037</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>KL037</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>30</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>KL037</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Distribusi 1 P</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>141529</td>
+
+</tr>
+
+<tr>
+
+<td>DESA</td>
+
+<td>Klapagading</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>X</td>
+
+<td>109,073732</td>
+
+</tr>
+
+<tr>
+
+<td>Y</td>
+
+<td>-7,518139</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama_Obyek</td>
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.0737315311853,-7.518138939160679,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00031">
+			<name>KL 067</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>KL 067</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>31</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>KL 067</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Distribusi 3 P</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>104608</td>
+
+</tr>
+
+<tr>
+
+<td>DESA</td>
+
+<td>Klapagading Kulon</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>X</td>
+
+<td>109,063657</td>
+
+</tr>
+
+<tr>
+
+<td>Y</td>
+
+<td>-7,518128</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama_Obyek</td>
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.0636566673214,-7.518128332556445,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00032">
+			<name>KL 069</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>KL 069</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>32</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>KL 069</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Distribusi 3 P</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>104806</td>
+
+</tr>
+
+<tr>
+
+<td>DESA</td>
+
+<td>Klapagading Kulon</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>X</td>
+
+<td>109,061962</td>
+
+</tr>
+
+<tr>
+
+<td>Y</td>
+
+<td>-7,518005</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama_Obyek</td>
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.0619616673971,-7.518005000430379,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00033">
+			<name>KL 061</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>KL 061</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>33</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>KL 061</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Distribusi 3 P</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>114931</td>
+
+</tr>
+
+<tr>
+
+<td>DESA</td>
+
+<td>Wangon</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>X</td>
+
+<td>109,054338</td>
+
+</tr>
+
+<tr>
+
+<td>Y</td>
+
+<td>-7,517908</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama_Obyek</td>
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.0543383329478,-7.517908333202967,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00034">
+			<name>KL 078</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>KL 078</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>34</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>KL 078</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Distribusi 3 P</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>111914</td>
+
+</tr>
+
+<tr>
+
+<td>DESA</td>
+
+<td>Klapagading Kulon</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>X</td>
+
+<td>109,059625</td>
+
+</tr>
+
+<tr>
+
+<td>Y</td>
+
+<td>-7,517662</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama_Obyek</td>
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.0596250002936,-7.517661667152197,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00035">
+			<name>KL039</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>KL039</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>35</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>KL039</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Distribusi 1 P</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>141642</td>
+
+</tr>
+
+<tr>
+
+<td>DESA</td>
+
+<td>Klapagading</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>X</td>
+
+<td>109,074584</td>
+
+</tr>
+
+<tr>
+
+<td>Y</td>
+
+<td>-7,517652</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama_Obyek</td>
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.0745842620541,-7.517651540785948,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00036">
+			<name>KL021</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>KL021</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>36</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>KL021</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Distribusi 1 P</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>140002</td>
+
+</tr>
+
+<tr>
+
+<td>DESA</td>
+
+<td>Klapagading</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>X</td>
+
+<td>109,071031</td>
+
+</tr>
+
+<tr>
+
+<td>Y</td>
+
+<td>-7,516547</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama_Obyek</td>
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.0710308571884,-7.516547240762521,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00037">
+			<name>KL 134</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>KL 134</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>37</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>KL 134</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Distribusi 3 P</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>154801</td>
+
+</tr>
+
+<tr>
+
+<td>DESA</td>
+
+<td>Wangon</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>X</td>
+
+<td>109,053422</td>
+
+</tr>
+
+<tr>
+
+<td>Y</td>
+
+<td>-7,516462</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama_Obyek</td>
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.0534216665767,-7.516461666672511,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00038">
+			<name>KL 008</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>KL 008</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>38</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>KL 008</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Distribusi 3 P</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>93837</td>
+
+</tr>
+
+<tr>
+
+<td>DESA</td>
+
+<td>Wangon</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>X</td>
+
+<td>109,056573</td>
+
+</tr>
+
+<tr>
+
+<td>Y</td>
+
+<td>-7,516315</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama_Obyek</td>
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.0565733325933,-7.516314999837333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00039">
+			<name>KL017</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>KL017</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>39</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>KL017</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Distribusi 1 P</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>135636</td>
+
+</tr>
+
+<tr>
+
+<td>DESA</td>
+
+<td>Klapagading</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>X</td>
+
+<td>109,070578</td>
+
+</tr>
+
+<tr>
+
+<td>Y</td>
+
+<td>-7,516193</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama_Obyek</td>
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.0705777085944,-7.516193069754308,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00040">
+			<name>KL 035</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>KL 035</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>40</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>KL 035</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Distribusi 1 P</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>101616</td>
+
+</tr>
+
+<tr>
+
+<td>DESA</td>
+
+<td>Klapagading Kulon</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>X</td>
+
+<td>109,061877</td>
+
+</tr>
+
+<tr>
+
+<td>Y</td>
+
+<td>-7,516165</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama_Obyek</td>
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.0618766670746,-7.516165000114597,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00041">
+			<name>KL 131</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>KL 131</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>41</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>KL 131</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Distribusi 3 P</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>154607</td>
+
+</tr>
+
+<tr>
+
+<td>DESA</td>
+
+<td>Wangon</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>X</td>
+
+<td>109,052053</td>
+
+</tr>
+
+<tr>
+
+<td>Y</td>
+
+<td>-7,516115</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama_Obyek</td>
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.0520533327951,-7.51611499960751,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00042">
+			<name>KL 156</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>KL 156</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>42</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>KL 156</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Distribusi 1 P</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>140654</td>
+
+</tr>
+
+<tr>
+
+<td>DESA</td>
+
+<td>Wangon</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>X</td>
+
+<td>109,038632</td>
+
+</tr>
+
+<tr>
+
+<td>Y</td>
+
+<td>-7,516097</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama_Obyek</td>
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.0386316671178,-7.516096666927581,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00043">
+			<name>KL 176</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>KL 176</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>43</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>KL 176</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Distribusi 1 P</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>144450</td>
+
+</tr>
+
+<tr>
+
+<td>DESA</td>
+
+<td>Klapagading Kulon</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>X</td>
+
+<td>109,058377</td>
+
+</tr>
+
+<tr>
+
+<td>Y</td>
+
+<td>-7,516035</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama_Obyek</td>
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.0583766666499,-7.516035000414888,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00044">
+			<name>KL 106</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>KL 106</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>44</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>KL 106</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Distribusi 3 P</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>152348</td>
+
+</tr>
+
+<tr>
+
+<td>DESA</td>
+
+<td>Wangon</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>X</td>
+
+<td>109,046085</td>
+
+</tr>
+
+<tr>
+
+<td>Y</td>
+
+<td>-7,516005</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama_Obyek</td>
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.0460850000228,-7.516004999930772,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00045">
+			<name>KL 030</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>KL 030</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>45</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>KL 030</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Distribusi 1 P</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>101259</td>
+
+</tr>
+
+<tr>
+
+<td>DESA</td>
+
+<td>Klapagading Kulon</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>X</td>
+
+<td>109,06456</td>
+
+</tr>
+
+<tr>
+
+<td>Y</td>
+
+<td>-7,515963</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama_Obyek</td>
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.0645600003438,-7.51596333344105,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00046">
+			<name>KL 175</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>KL 175</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>46</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>KL 175</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Distribusi 3 P</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>144420</td>
+
+</tr>
+
+<tr>
+
+<td>DESA</td>
+
+<td>Wangon</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>X</td>
+
+<td>109,057973</td>
+
+</tr>
+
+<tr>
+
+<td>Y</td>
+
+<td>-7,51582</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama_Obyek</td>
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.0579733333028,-7.515820000392637,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00047">
+			<name>KL 087</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>KL 087</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>47</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>KL 087</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Distribusi 1 P</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>144354</td>
+
+</tr>
+
+<tr>
+
+<td>DESA</td>
+
+<td>Wangon</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>X</td>
+
+<td>109,054792</td>
+
+</tr>
+
+<tr>
+
+<td>Y</td>
+
+<td>-7,515743</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama_Obyek</td>
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.054791666802,-7.515743333188254,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00048">
+			<name>KL 111</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>KL 111</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>48</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>KL 111</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Distribusi 1 P</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>152721</td>
+
+</tr>
+
+<tr>
+
+<td>DESA</td>
+
+<td>Wangon</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>X</td>
+
+<td>109,047955</td>
+
+</tr>
+
+<tr>
+
+<td>Y</td>
+
+<td>-7,51574</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama_Obyek</td>
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.0479549999234,-7.515740000300753,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00049">
+			<name>KL 125</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>KL 125</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>49</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>KL 125</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Distribusi 1 P</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>154207</td>
+
+</tr>
+
+<tr>
+
+<td>DESA</td>
+
+<td>Wangon</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>X</td>
+
+<td>109,049067</td>
+
+</tr>
+
+<tr>
+
+<td>Y</td>
+
+<td>-7,515617</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama_Obyek</td>
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.049066667193,-7.51561666727531,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00050">
+			<name>KL 059</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>KL 059</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>50</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>KL 059</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Distribusi 1 P</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>103936</td>
+
+</tr>
+
+<tr>
+
+<td>DESA</td>
+
+<td>Klapagading</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>X</td>
+
+<td>109,06503</td>
+
+</tr>
+
+<tr>
+
+<td>Y</td>
+
+<td>-7,515445</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama_Obyek</td>
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.0650300004342,-7.51544500018656,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00051">
+			<name>KL 086</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>KL 086</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>51</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>KL 086</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Distribusi 1 P</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>144253</td>
+
+</tr>
+
+<tr>
+
+<td>DESA</td>
+
+<td>Wangon</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>X</td>
+
+<td>109,054905</td>
+
+</tr>
+
+<tr>
+
+<td>Y</td>
+
+<td>-7,515367</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama_Obyek</td>
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.0549050002656,-7.515366667437718,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00052">
+			<name>KL015</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>KL015</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>52</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>KL015</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Distribusi 1 P</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>135552</td>
+
+</tr>
+
+<tr>
+
+<td>DESA</td>
+
+<td>Klapagading</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>X</td>
+
+<td>109,069918</td>
+
+</tr>
+
+<tr>
+
+<td>Y</td>
+
+<td>-7,515299</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama_Obyek</td>
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.0699184983401,-7.515298830676443,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00053">
+			<name>KL061</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>KL061</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>53</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>KL061</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Distribusi 1 P</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>151530</td>
+
+</tr>
+
+<tr>
+
+<td>DESA</td>
+
+<td>Klapagading</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>X</td>
+
+<td>109,070026</td>
+
+</tr>
+
+<tr>
+
+<td>Y</td>
+
+<td>-7,51519</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama_Obyek</td>
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.0700258773924,-7.515189501893929,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00054">
+			<name>KL 114</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>KL 114</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>54</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>KL 114</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Distribusi 1 P</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>152926</td>
+
+</tr>
+
+<tr>
+
+<td>DESA</td>
+
+<td>Wangon</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>X</td>
+
+<td>109,048662</td>
+
+</tr>
+
+<tr>
+
+<td>Y</td>
+
+<td>-7,514487</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama_Obyek</td>
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.0486616674021,-7.514486667325797,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00055">
+			<name>KL077</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>KL077</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>55</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>KL077</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Distribusi 1 P</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>154338</td>
+
+</tr>
+
+<tr>
+
+<td>DESA</td>
+
+<td>Klapagading</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>X</td>
+
+<td>109,069394</td>
+
+</tr>
+
+<tr>
+
+<td>Y</td>
+
+<td>-7,51437</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama_Obyek</td>
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.069394232258,-7.514370284261191,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00056">
+			<name>KL 068</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>KL 068</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>56</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>KL 068</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Distribusi 1 P</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>141901</td>
+
+</tr>
+
+<tr>
+
+<td>DESA</td>
+
+<td>Wangon</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>X</td>
+
+<td>109,054715</td>
+
+</tr>
+
+<tr>
+
+<td>Y</td>
+
+<td>-7,514072</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama_Obyek</td>
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.0547149995976,-7.514071667073722,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00057">
+			<name>KL 049</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>KL 049</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>57</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>KL 049</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Distribusi 1 P</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>102927</td>
+
+</tr>
+
+<tr>
+
+<td>DESA</td>
+
+<td>Klapagading Kulon</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>X</td>
+
+<td>109,061898</td>
+
+</tr>
+
+<tr>
+
+<td>Y</td>
+
+<td>-7,514067</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama_Obyek</td>
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.061898332642,-7.514066666843178,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00058">
+			<name>KL011</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>KL011</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>58</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>KL011</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Distribusi 1 P</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>135255</td>
+
+</tr>
+
+<tr>
+
+<td>DESA</td>
+
+<td>Klapagading</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>X</td>
+
+<td>109,068871</td>
+
+</tr>
+
+<tr>
+
+<td>Y</td>
+
+<td>-7,513872</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama_Obyek</td>
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.0688709590276,-7.513871926747981,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00059">
+			<name>KL 052</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>KL 052</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>59</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>KL 052</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Distribusi 1 P</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>103305</td>
+
+</tr>
+
+<tr>
+
+<td>DESA</td>
+
+<td>Klapagading Kulon</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>X</td>
+
+<td>109,063615</td>
+
+</tr>
+
+<tr>
+
+<td>Y</td>
+
+<td>-7,513635</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama_Obyek</td>
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.0636149999324,-7.513635000354951,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00060">
+			<name>KL 055</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>KL 055</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>60</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>KL 055</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Distribusi 1 P</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>103616</td>
+
+</tr>
+
+<tr>
+
+<td>DESA</td>
+
+<td>Klapagading Kulon</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>X</td>
+
+<td>109,064945</td>
+
+</tr>
+
+<tr>
+
+<td>Y</td>
+
+<td>-7,513597</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama_Obyek</td>
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.0649450001117,-7.513596666752733,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00061">
+			<name>KL083</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>KL083</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>61</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>KL083</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Distribusi 1 P</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>160002</td>
+
+</tr>
+
+<tr>
+
+<td>DESA</td>
+
+<td>Klapagading</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>X</td>
+
+<td>109,066206</td>
+
+</tr>
+
+<tr>
+
+<td>Y</td>
+
+<td>-7,513456</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama_Obyek</td>
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.0662060447732,-7.513456216930819,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00062">
+			<name>KL 002</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>KL 002</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>62</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>KL 002</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Distribusi 3 P</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>92654</td>
+
+</tr>
+
+<tr>
+
+<td>DESA</td>
+
+<td>Wangon</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>X</td>
+
+<td>109,05773</td>
+
+</tr>
+
+<tr>
+
+<td>Y</td>
+
+<td>-7,513348</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama_Obyek</td>
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.0577300001394,-7.513348333358863,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00063">
+			<name>KL 071</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>KL 071</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>63</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>KL 071</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Distribusi 1 P</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>142100</td>
+
+</tr>
+
+<tr>
+
+<td>DESA</td>
+
+<td>Wangon</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>X</td>
+
+<td>109,053405</td>
+
+</tr>
+
+<tr>
+
+<td>Y</td>
+
+<td>-7,512808</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama_Obyek</td>
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.0534050003405,-7.512808332738303,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00064">
+			<name>KL 103</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>KL 103</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>64</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>KL 103</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Distribusi 1 P</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>151725</td>
+
+</tr>
+
+<tr>
+
+<td>DESA</td>
+
+<td>Wangon</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>X</td>
+
+<td>109,042354</td>
+
+</tr>
+
+<tr>
+
+<td>Y</td>
+
+<td>-7,512451</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama_Obyek</td>
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.0423535006136,-7.512450642682949,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00065">
+			<name>KL 206</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>KL 206</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>65</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>KL 206</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Distribusi 3 P</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>95229</td>
+
+</tr>
+
+<tr>
+
+<td>DESA</td>
+
+<td>Banteran</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>X</td>
+
+<td>109,060463</td>
+
+</tr>
+
+<tr>
+
+<td>Y</td>
+
+<td>-7,512122</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama_Obyek</td>
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.0604633330165,-7.512121667081203,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00066">
+			<name>KL 207</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>KL 207</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>66</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>KL 207</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Distribusi 3 P</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>95317</td>
+
+</tr>
+
+<tr>
+
+<td>DESA</td>
+
+<td>Banteran</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>X</td>
+
+<td>109,060048</td>
+
+</tr>
+
+<tr>
+
+<td>Y</td>
+
+<td>-7,511982</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama_Obyek</td>
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.0600483327644,-7.511981666920349,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00067">
+			<name>KL 185</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>KL 185</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>67</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>KL 185</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Distribusi 3 P</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>92956</td>
+
+</tr>
+
+<tr>
+
+<td>DESA</td>
+
+<td>Banteran</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>X</td>
+
+<td>109,058205</td>
+
+</tr>
+
+<tr>
+
+<td>Y</td>
+
+<td>-7,511872</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama_Obyek</td>
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.0582049995612,-7.511871667243611,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00068">
+			<name>KL 078</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>KL 078</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>68</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>KL 078</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Distribusi 1 P</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>142717</td>
+
+</tr>
+
+<tr>
+
+<td>DESA</td>
+
+<td>Wangon</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>X</td>
+
+<td>109,0518</td>
+
+</tr>
+
+<tr>
+
+<td>Y</td>
+
+<td>-7,511725</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama_Obyek</td>
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.05180000007,-7.511725000408376,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00069">
+			<name>KL 163</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>KL 163</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>69</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>KL 163</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Distribusi 3 P</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>141916</td>
+
+</tr>
+
+<tr>
+
+<td>DESA</td>
+
+<td>Wangon</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>X</td>
+
+<td>109,038858</td>
+
+</tr>
+
+<tr>
+
+<td>Y</td>
+
+<td>-7,511313</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama_Obyek</td>
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.0388583331456,-7.511313333043859,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00070">
+			<name>KL079</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>KL079</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>70</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>KL079</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Distribusi 1 P</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>154925</td>
+
+</tr>
+
+<tr>
+
+<td>DESA</td>
+
+<td>Klapagading</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>X</td>
+
+<td>109,066714</td>
+
+</tr>
+
+<tr>
+
+<td>Y</td>
+
+<td>-7,510978</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama_Obyek</td>
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.0667137849133,-7.51097784365254,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00071">
+			<name>KL 125</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>KL 125</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>71</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>KL 125</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Distribusi 1 P</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>155148</td>
+
+</tr>
+
+<tr>
+
+<td>DESA</td>
+
+<td>Banteran</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>X</td>
+
+<td>109,06121</td>
+
+</tr>
+
+<tr>
+
+<td>Y</td>
+
+<td>-7,510956</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama_Obyek</td>
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.0612096659934,-7.510955717632214,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00072">
+			<name>KL 205</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>KL 205</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>72</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>KL 205</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Distribusi 3 P</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>94919</td>
+
+</tr>
+
+<tr>
+
+<td>DESA</td>
+
+<td>Banteran</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>X</td>
+
+<td>109,059343</td>
+
+</tr>
+
+<tr>
+
+<td>Y</td>
+
+<td>-7,510573</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama_Obyek</td>
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.0593433326288,-7.510573333092793,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00073">
+			<name>KL 026</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>KL 026</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>73</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>KL 026</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Distribusi 1 P</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>115815</td>
+
+</tr>
+
+<tr>
+
+<td>DESA</td>
+
+<td>Banteran</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>X</td>
+
+<td>109,06496</td>
+
+</tr>
+
+<tr>
+
+<td>Y</td>
+
+<td>-7,510118</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama_Obyek</td>
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.0649599999041,-7.510118332794775,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00074">
+			<name>KL001</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>KL001</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>74</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>KL001</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Distribusi 1 P</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>134623</td>
+
+</tr>
+
+<tr>
+
+<td>DESA</td>
+
+<td>Klapagading</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>X</td>
+
+<td>109,066039</td>
+
+</tr>
+
+<tr>
+
+<td>Y</td>
+
+<td>-7,510102</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama_Obyek</td>
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.0660385145658,-7.510102150393891,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00075">
+			<name>KL 133</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>KL 133</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>75</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>KL 133</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Distribusi 1 P</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>160339</td>
+
+</tr>
+
+<tr>
+
+<td>DESA</td>
+
+<td>Banteran</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>X</td>
+
+<td>109,064272</td>
+
+</tr>
+
+<tr>
+
+<td>Y</td>
+
+<td>-7,509875</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama_Obyek</td>
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.064272113867,-7.509875006826064,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00076">
+			<name>KL 131</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>KL 131</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>76</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>KL 131</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Distribusi 1 P</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>160105</td>
+
+</tr>
+
+<tr>
+
+<td>DESA</td>
+
+<td>Banteran</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>X</td>
+
+<td>109,062712</td>
+
+</tr>
+
+<tr>
+
+<td>Y</td>
+
+<td>-7,509553</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama_Obyek</td>
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.0627116669099,-7.509553332820018,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00077">
+			<name>KL 156</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>KL 156</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>77</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>KL 156</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Distribusi 1 P</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>163303</td>
+
+</tr>
+
+<tr>
+
+<td>DESA</td>
+
+<td>Banteran</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>X</td>
+
+<td>109,060894</td>
+
+</tr>
+
+<tr>
+
+<td>Y</td>
+
+<td>-7,509529</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama_Obyek</td>
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.0608935093281,-7.509529415350186,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00078">
+			<name>KL 142</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>KL 142</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>78</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>KL 142</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Distribusi 3 P</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>161253</td>
+
+</tr>
+
+<tr>
+
+<td>DESA</td>
+
+<td>Banteran</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>X</td>
+
+<td>109,061906</td>
+
+</tr>
+
+<tr>
+
+<td>Y</td>
+
+<td>-7,509404</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama_Obyek</td>
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.0619062322868,-7.50940366944377,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00079">
+			<name>KL 158</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>KL 158</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>79</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>KL 158</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Distribusi 3 P</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>85155</td>
+
+</tr>
+
+<tr>
+
+<td>DESA</td>
+
+<td>Banteran</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>X</td>
+
+<td>109,057807</td>
+
+</tr>
+
+<tr>
+
+<td>Y</td>
+
+<td>-7,50917</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama_Obyek</td>
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.0578066673439,-7.509170000395159,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00080">
+			<name>KL 037</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>KL 037</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>80</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>KL 037</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Distribusi 1 P</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>131750</td>
+
+</tr>
+
+<tr>
+
+<td>DESA</td>
+
+<td>Banteran</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>X</td>
+
+<td>109,059685</td>
+
+</tr>
+
+<tr>
+
+<td>Y</td>
+
+<td>-7,508037</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama_Obyek</td>
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.0596850669124,-7.508037193661494,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00081">
+			<name>KL 011</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>KL 011</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>81</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>KL 011</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Distribusi 1 P</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>112419</td>
+
+</tr>
+
+<tr>
+
+<td>DESA</td>
+
+<td>Banteran</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>X</td>
+
+<td>109,064458</td>
+
+</tr>
+
+<tr>
+
+<td>Y</td>
+
+<td>-7,507813</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama_Obyek</td>
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.0644583328858,-7.507813332619152,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00082">
+			<name>KL 005</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>KL 005</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>82</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>KL 005</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Distribusi 1 P</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>111415</td>
+
+</tr>
+
+<tr>
+
+<td>DESA</td>
+
+<td>Banteran</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>X</td>
+
+<td>109,063027</td>
+
+</tr>
+
+<tr>
+
+<td>Y</td>
+
+<td>-7,505835</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama_Obyek</td>
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.0630266670471,-7.505835000384934,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00083">
+			<name>KL 001</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>KL 001</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>83</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>KL 001</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Distribusi 3 P</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>110140</td>
+
+</tr>
+
+<tr>
+
+<td>DESA</td>
+
+<td>Banteran</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>X</td>
+
+<td>109,061743</td>
+
+</tr>
+
+<tr>
+
+<td>Y</td>
+
+<td>-7,504125</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama_Obyek</td>
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.0617433326887,-7.504124999768862,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00084">
+			<name>KL 093</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>KL 093</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>84</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>KL 093</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Distribusi 3 P</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>144135</td>
+
+</tr>
+
+<tr>
+
+<td>DESA</td>
+
+<td>Banteran</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>X</td>
+
+<td>109,065087</td>
+
+</tr>
+
+<tr>
+
+<td>Y</td>
+
+<td>-7,503157</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama_Obyek</td>
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.0650866667164,-7.503156667346276,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00085">
+			<name>KL 064</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>KL 064</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>85</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>KL 064</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Distribusi 1 P</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>135133</td>
+
+</tr>
+
+<tr>
+
+<td>DESA</td>
+
+<td>Banteran</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>X</td>
+
+<td>109,062125</td>
+
+</tr>
+
+<tr>
+
+<td>Y</td>
+
+<td>-7,503136</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama_Obyek</td>
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.0621250913,-7.503135913691438,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00086">
+			<name>KL 070</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>KL 070</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>86</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>KL 070</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Distribusi 1 P</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>141616</td>
+
+</tr>
+
+<tr>
+
+<td>DESA</td>
+
+<td>Banteran</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>X</td>
+
+<td>109,062623</td>
+
+</tr>
+
+<tr>
+
+<td>Y</td>
+
+<td>-7,501997</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama_Obyek</td>
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.0626233642769,-7.501996577879708,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00087">
+			<name>KL 072</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>KL 072</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>87</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>KL 072</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Distribusi 3 P</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>141829</td>
+
+</tr>
+
+<tr>
+
+<td>DESA</td>
+
+<td>Banteran</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>X</td>
+
+<td>109,062772</td>
+
+</tr>
+
+<tr>
+
+<td>Y</td>
+
+<td>-7,501499</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama_Obyek</td>
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.0627723036989,-7.501499250090262,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00088">
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td> </td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>88</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>DESA</td>
+
+<td>Randegan</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>X</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Y</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama_Obyek</td>
+
+<td>Gardu Distribusi</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.0494389229398,-7.534234358613187,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

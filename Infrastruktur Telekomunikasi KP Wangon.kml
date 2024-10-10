@@ -1,0 +1,12699 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="Titik_Tiang_Telekomunikasi_Perkotaan_Wangon" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+	<name>Infrastruktur Telekomunikasi KP Wangon</name>
+	<Snippet maxLines="0"></Snippet>
+	<Style id="IconStyle00">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>Layer0_Symbol_1549c7d0_0.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<PolyStyle>
+			<color>ff000000</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="IconStyle01">
+		<IconStyle>
+			<scale>1.125</scale>
+			<Icon>
+				<href>Layer0_Symbol_b1f1250_0.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<PolyStyle>
+			<color>ff000000</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="IconStyle053">
+		<IconStyle>
+			<scale>1.25</scale>
+			<Icon>
+				<href>Layer0_Symbol_b1f0228_0.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<PolyStyle>
+			<color>ff000000</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Folder id="FeatureLayer0">
+		<name>Titik_Tiang_Telekomunikasi_Perkotaan_Wangon</name>
+		<Snippet maxLines="0"></Snippet>
+		<Placemark id="ID_00000">
+			<name>TL002</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>TL002</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>TL002</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>BTS</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>160149</td>
+
+</tr>
+
+<tr>
+
+<td>Permasalah</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DESA</td>
+
+<td>Randegan</td>
+
+</tr>
+
+<tr>
+
+<td>X</td>
+
+<td>109,04702</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y</td>
+
+<td>-7,531089</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.04701949995,-7.531088841177052,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00001">
+			<name>TL001</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>TL001</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>TL001</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>155719</td>
+
+</tr>
+
+<tr>
+
+<td>Permasalah</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DESA</td>
+
+<td>Randegan</td>
+
+</tr>
+
+<tr>
+
+<td>X</td>
+
+<td>109,049629</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y</td>
+
+<td>-7,530875</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle01</styleUrl>
+			<Point>
+				<coordinates>109.0496286904118,-7.530875115494155,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00002">
+			<name>TL 026</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>TL 026</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>2</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>TL 026</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>142448</td>
+
+</tr>
+
+<tr>
+
+<td>Permasalah</td>
+
+<td>_</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DESA</td>
+
+<td>Klapagading Kulon</td>
+
+</tr>
+
+<tr>
+
+<td>X</td>
+
+<td>109,05178</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y</td>
+
+<td>-7,528098</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle01</styleUrl>
+			<Point>
+				<coordinates>109.051780000047,-7.528098332771775,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00003">
+			<name>TL 027</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>TL 027</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>3</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>TL 027</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>142552</td>
+
+</tr>
+
+<tr>
+
+<td>Permasalah</td>
+
+<td>_</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DESA</td>
+
+<td>Klapagading Kulon</td>
+
+</tr>
+
+<tr>
+
+<td>X</td>
+
+<td>109,05191</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y</td>
+
+<td>-7,527582</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle01</styleUrl>
+			<Point>
+				<coordinates>109.0519099997467,-7.527581666860385,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00004">
+			<name>TL005</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>TL005</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>4</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>TL005</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>121705</td>
+
+</tr>
+
+<tr>
+
+<td>Permasalah</td>
+
+<td>_</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DESA</td>
+
+<td>Klapagading</td>
+
+</tr>
+
+<tr>
+
+<td>X</td>
+
+<td>109,06957</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y</td>
+
+<td>-7,526817</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle01</styleUrl>
+			<Point>
+				<coordinates>109.0695700281344,-7.526816921163912,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00005">
+			<name>TL006</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>TL006</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>5</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>TL006</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>121944</td>
+
+</tr>
+
+<tr>
+
+<td>Permasalah</td>
+
+<td>_</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DESA</td>
+
+<td>Klapagading</td>
+
+</tr>
+
+<tr>
+
+<td>X</td>
+
+<td>109,071114</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y</td>
+
+<td>-7,526789</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle01</styleUrl>
+			<Point>
+				<coordinates>109.0711140139007,-7.526788526868984,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00006">
+			<name>TL007</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>TL007</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>6</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>TL007</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>122218</td>
+
+</tr>
+
+<tr>
+
+<td>Permasalah</td>
+
+<td>_</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DESA</td>
+
+<td>Klapagading</td>
+
+</tr>
+
+<tr>
+
+<td>X</td>
+
+<td>109,072549</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y</td>
+
+<td>-7,526756</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle01</styleUrl>
+			<Point>
+				<coordinates>109.0725489703588,-7.5267560199743,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00007">
+			<name>TL 028</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>TL 028</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>7</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>TL 028</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>143156</td>
+
+</tr>
+
+<tr>
+
+<td>Permasalah</td>
+
+<td>_</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DESA</td>
+
+<td>Klapagading Kulon</td>
+
+</tr>
+
+<tr>
+
+<td>X</td>
+
+<td>109,052167</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y</td>
+
+<td>-7,52657</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle01</styleUrl>
+			<Point>
+				<coordinates>109.052166667158,-7.526569999705658,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00008">
+			<name>TL 029</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>TL 029</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>8</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>TL 029</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>143241</td>
+
+</tr>
+
+<tr>
+
+<td>Permasalah</td>
+
+<td>_</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DESA</td>
+
+<td>Klapagading Kulon</td>
+
+</tr>
+
+<tr>
+
+<td>X</td>
+
+<td>109,052248</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y</td>
+
+<td>-7,526357</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle01</styleUrl>
+			<Point>
+				<coordinates>109.0522483327944,-7.526356667026504,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00009">
+			<name>TL008</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>TL008</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>9</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>TL008</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>124356</td>
+
+</tr>
+
+<tr>
+
+<td>Permasalah</td>
+
+<td>_</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DESA</td>
+
+<td>Klapagading</td>
+
+</tr>
+
+<tr>
+
+<td>X</td>
+
+<td>109,072675</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y</td>
+
+<td>-7,52547</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle01</styleUrl>
+			<Point>
+				<coordinates>109.0726750795913,-7.525469999340943,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00010">
+			<name>TL009</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>TL009</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>10</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>TL009</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>124925</td>
+
+</tr>
+
+<tr>
+
+<td>Permasalah</td>
+
+<td>_</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DESA</td>
+
+<td>Klapagading</td>
+
+</tr>
+
+<tr>
+
+<td>X</td>
+
+<td>109,069324</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y</td>
+
+<td>-7,525446</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle01</styleUrl>
+			<Point>
+				<coordinates>109.0693236156924,-7.525445937080292,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00011">
+			<name>TL 030</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>TL 030</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>11</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>TL 030</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>143554</td>
+
+</tr>
+
+<tr>
+
+<td>Permasalah</td>
+
+<td>_</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DESA</td>
+
+<td>Klapagading Kulon</td>
+
+</tr>
+
+<tr>
+
+<td>X</td>
+
+<td>109,053018</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y</td>
+
+<td>-7,5245</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle01</styleUrl>
+			<Point>
+				<coordinates>109.0530183332295,-7.524499999575255,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00012">
+			<name>TL 031</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>TL 031</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>12</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>TL 031</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>143725</td>
+
+</tr>
+
+<tr>
+
+<td>Permasalah</td>
+
+<td>_</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DESA</td>
+
+<td>Klapagading Kulon</td>
+
+</tr>
+
+<tr>
+
+<td>X</td>
+
+<td>109,053578</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y</td>
+
+<td>-7,523118</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle01</styleUrl>
+			<Point>
+				<coordinates>109.0535783329738,-7.523118333344371,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00013">
+			<name>TL 025</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>TL 025</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>13</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>TL 025</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>BTS</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>135535</td>
+
+</tr>
+
+<tr>
+
+<td>Permasalah</td>
+
+<td>_</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DESA</td>
+
+<td>Klapagading Kulon</td>
+
+</tr>
+
+<tr>
+
+<td>X</td>
+
+<td>109,054322</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y</td>
+
+<td>-7,522577</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.0543216667116,-7.522576667179407,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00014">
+			<name>TL012</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>TL012</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>14</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>TL012</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>171838</td>
+
+</tr>
+
+<tr>
+
+<td>Permasalah</td>
+
+<td>_</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DESA</td>
+
+<td>Klapagading</td>
+
+</tr>
+
+<tr>
+
+<td>X</td>
+
+<td>109,069092</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y</td>
+
+<td>-7,522565</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle01</styleUrl>
+			<Point>
+				<coordinates>109.0690915033703,-7.522564545217563,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00015">
+			<name>TL 032</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>TL 032</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>15</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>TL 032</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>143850</td>
+
+</tr>
+
+<tr>
+
+<td>Permasalah</td>
+
+<td>_</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DESA</td>
+
+<td>Klapagading Kulon</td>
+
+</tr>
+
+<tr>
+
+<td>X</td>
+
+<td>109,054032</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y</td>
+
+<td>-7,522045</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle01</styleUrl>
+			<Point>
+				<coordinates>109.054031666828,-7.522044999676949,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00016">
+			<name>TL 001</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>TL 001</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>16</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>TL 001</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>93827</td>
+
+</tr>
+
+<tr>
+
+<td>Permasalah</td>
+
+<td>_</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DESA</td>
+
+<td>Klapagading</td>
+
+</tr>
+
+<tr>
+
+<td>X</td>
+
+<td>109,06216</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y</td>
+
+<td>-7,521943</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle01</styleUrl>
+			<Point>
+				<coordinates>109.0621600002838,-7.521943333118258,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00017">
+			<name>TL011</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>TL011</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>17</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>TL011</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>171653</td>
+
+</tr>
+
+<tr>
+
+<td>Permasalah</td>
+
+<td>_</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DESA</td>
+
+<td>Klapagading</td>
+
+</tr>
+
+<tr>
+
+<td>X</td>
+
+<td>109,069104</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y</td>
+
+<td>-7,5218</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle01</styleUrl>
+			<Point>
+				<coordinates>109.0691042800386,-7.521800154753294,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00018">
+			<name>TL 015</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>TL 015</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>18</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>TL 015</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>102937</td>
+
+</tr>
+
+<tr>
+
+<td>Permasalah</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DESA</td>
+
+<td>Wangon</td>
+
+</tr>
+
+<tr>
+
+<td>X</td>
+
+<td>109,05418</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y</td>
+
+<td>-7,521718</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle01</styleUrl>
+			<Point>
+				<coordinates>109.054180000107,-7.521718332634919,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00019">
+			<name>TL 016</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>TL 016</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>19</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>TL 016</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>103100</td>
+
+</tr>
+
+<tr>
+
+<td>Permasalah</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DESA</td>
+
+<td>Wangon</td>
+
+</tr>
+
+<tr>
+
+<td>X</td>
+
+<td>109,05435</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y</td>
+
+<td>-7,521375</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle01</styleUrl>
+			<Point>
+				<coordinates>109.0543499998527,-7.521375000256,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00020">
+			<name>TL 017</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>TL 017</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>20</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>TL 017</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>103216</td>
+
+</tr>
+
+<tr>
+
+<td>Permasalah</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DESA</td>
+
+<td>Wangon</td>
+
+</tr>
+
+<tr>
+
+<td>X</td>
+
+<td>109,054452</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y</td>
+
+<td>-7,521113</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle01</styleUrl>
+			<Point>
+				<coordinates>109.0544516673107,-7.521113332614163,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00021">
+			<name>TL 018</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>TL 018</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>21</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>TL 018</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>103414</td>
+
+</tr>
+
+<tr>
+
+<td>Permasalah</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DESA</td>
+
+<td>Wangon</td>
+
+</tr>
+
+<tr>
+
+<td>X</td>
+
+<td>109,054757</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y</td>
+
+<td>-7,520468</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle01</styleUrl>
+			<Point>
+				<coordinates>109.0547566669866,-7.520468333446786,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00022">
+			<name>TL 019</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>TL 019</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>22</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>TL 019</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>103524</td>
+
+</tr>
+
+<tr>
+
+<td>Permasalah</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DESA</td>
+
+<td>Wangon</td>
+
+</tr>
+
+<tr>
+
+<td>X</td>
+
+<td>109,054883</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y</td>
+
+<td>-7,520147</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle01</styleUrl>
+			<Point>
+				<coordinates>109.0548833328996,-7.5201466666353,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00023">
+			<name>TL 002</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>TL 002</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>23</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>TL 002</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>BTS</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>94702</td>
+
+</tr>
+
+<tr>
+
+<td>Permasalah</td>
+
+<td>_</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DESA</td>
+
+<td>Klapagading Kulon</td>
+
+</tr>
+
+<tr>
+
+<td>X</td>
+
+<td>109,063584</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y</td>
+
+<td>-7,519366</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.0635837799675,-7.519365650404382,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00024">
+			<name>TL010</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>TL010</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>24</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>TL010</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>171206</td>
+
+</tr>
+
+<tr>
+
+<td>Permasalah</td>
+
+<td>_</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DESA</td>
+
+<td>Klapagading</td>
+
+</tr>
+
+<tr>
+
+<td>X</td>
+
+<td>109,068937</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y</td>
+
+<td>-7,519353</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle01</styleUrl>
+			<Point>
+				<coordinates>109.068937134741,-7.519353026620821,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00025">
+			<name>TL 020</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>TL 020</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>25</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>TL 020</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>103740</td>
+
+</tr>
+
+<tr>
+
+<td>Permasalah</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DESA</td>
+
+<td>Wangon</td>
+
+</tr>
+
+<tr>
+
+<td>X</td>
+
+<td>109,055277</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y</td>
+
+<td>-7,519207</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle01</styleUrl>
+			<Point>
+				<coordinates>109.0552766666849,-7.519206667353786,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00026">
+			<name>TL 026</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>TL 026</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>26</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>TL 026</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>115631</td>
+
+</tr>
+
+<tr>
+
+<td>Permasalah</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DESA</td>
+
+<td>Wangon</td>
+
+</tr>
+
+<tr>
+
+<td>X</td>
+
+<td>109,055422</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y</td>
+
+<td>-7,518889</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle01</styleUrl>
+			<Point>
+				<coordinates>109.0554216535865,-7.518889319086782,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00027">
+			<name>TL 003</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>TL 003</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>27</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>TL 003</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>95330</td>
+
+</tr>
+
+<tr>
+
+<td>Permasalah</td>
+
+<td>_</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DESA</td>
+
+<td>Klapagading Kulon</td>
+
+</tr>
+
+<tr>
+
+<td>X</td>
+
+<td>109,062987</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y</td>
+
+<td>-7,518838</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle01</styleUrl>
+			<Point>
+				<coordinates>109.0629872299767,-7.518838152158935,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00028">
+			<name>TL 023</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>TL 023</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>28</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>TL 023</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>110347</td>
+
+</tr>
+
+<tr>
+
+<td>Permasalah</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DESA</td>
+
+<td>Wangon</td>
+
+</tr>
+
+<tr>
+
+<td>X</td>
+
+<td>109,05335</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y</td>
+
+<td>-7,518482</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle01</styleUrl>
+			<Point>
+				<coordinates>109.0533499996029,-7.518481667195147,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00029">
+			<name>TL 027</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>TL 027</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>29</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>TL 027</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>115950</td>
+
+</tr>
+
+<tr>
+
+<td>Permasalah</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DESA</td>
+
+<td>Wangon</td>
+
+</tr>
+
+<tr>
+
+<td>X</td>
+
+<td>109,055662</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y</td>
+
+<td>-7,518262</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle01</styleUrl>
+			<Point>
+				<coordinates>109.0556616673521,-7.518261666942352,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00030">
+			<name>TL 022</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>TL 022</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>30</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>TL 022</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>BTS</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>105126</td>
+
+</tr>
+
+<tr>
+
+<td>Permasalah</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DESA</td>
+
+<td>Wangon</td>
+
+</tr>
+
+<tr>
+
+<td>X</td>
+
+<td>109,052937</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y</td>
+
+<td>-7,518077</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.0529366666939,-7.518076667404216,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00031">
+			<name>TL 007</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>TL 007</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>31</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>TL 007</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>101008</td>
+
+</tr>
+
+<tr>
+
+<td>Permasalah</td>
+
+<td>_</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DESA</td>
+
+<td>Klapagading Kulon</td>
+
+</tr>
+
+<tr>
+
+<td>X</td>
+
+<td>109,064503</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y</td>
+
+<td>-7,518053</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle01</styleUrl>
+			<Point>
+				<coordinates>109.0645033331623,-7.518053332695104,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00032">
+			<name>TL 006</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>TL 006</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>32</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>TL 006</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>100926</td>
+
+</tr>
+
+<tr>
+
+<td>Permasalah</td>
+
+<td>_</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DESA</td>
+
+<td>Klapagading Kulon</td>
+
+</tr>
+
+<tr>
+
+<td>X</td>
+
+<td>109,064283</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y</td>
+
+<td>-7,518045</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle01</styleUrl>
+			<Point>
+				<coordinates>109.0642833329096,-7.518044999577,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00033">
+			<name>TL 005</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>TL 005</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>33</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>TL 005</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>100839</td>
+
+</tr>
+
+<tr>
+
+<td>Permasalah</td>
+
+<td>_</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DESA</td>
+
+<td>Klapagading Kulon</td>
+
+</tr>
+
+<tr>
+
+<td>X</td>
+
+<td>109,063982</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y</td>
+
+<td>-7,518038</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle01</styleUrl>
+			<Point>
+				<coordinates>109.0639816670204,-7.518038332902677,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00034">
+			<name>TL 004</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>TL 004</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>34</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>TL 004</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>100747</td>
+
+</tr>
+
+<tr>
+
+<td>Permasalah</td>
+
+<td>_</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DESA</td>
+
+<td>Klapagading Kulon</td>
+
+</tr>
+
+<tr>
+
+<td>X</td>
+
+<td>109,063573</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y</td>
+
+<td>-7,51801</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle01</styleUrl>
+			<Point>
+				<coordinates>109.0635733334427,-7.518009999761659,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00035">
+			<name>TL 024</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>TL 024</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>35</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>TL 024</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>112603</td>
+
+</tr>
+
+<tr>
+
+<td>Permasalah</td>
+
+<td>_</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DESA</td>
+
+<td>Klapagading Kulon</td>
+
+</tr>
+
+<tr>
+
+<td>X</td>
+
+<td>109,063035</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y</td>
+
+<td>-7,517997</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle01</styleUrl>
+			<Point>
+				<coordinates>109.0630350001652,-7.517996667312274,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00036">
+			<name>TL 023</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>TL 023</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>36</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>TL 023</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>112441</td>
+
+</tr>
+
+<tr>
+
+<td>Permasalah</td>
+
+<td>_</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DESA</td>
+
+<td>Klapagading Kulon</td>
+
+</tr>
+
+<tr>
+
+<td>X</td>
+
+<td>109,06197</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y</td>
+
+<td>-7,517895</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle01</styleUrl>
+			<Point>
+				<coordinates>109.0619699996158,-7.51789499985432,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00037">
+			<name>TL 022</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>TL 022</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>37</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>TL 022</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>112339</td>
+
+</tr>
+
+<tr>
+
+<td>Permasalah</td>
+
+<td>_</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DESA</td>
+
+<td>Klapagading Kulon</td>
+
+</tr>
+
+<tr>
+
+<td>X</td>
+
+<td>109,061327</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y</td>
+
+<td>-7,517845</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle01</styleUrl>
+			<Point>
+				<coordinates>109.0613266668922,-7.517845000246496,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00038">
+			<name>TL 021</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>TL 021</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>38</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>TL 021</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>112307</td>
+
+</tr>
+
+<tr>
+
+<td>Permasalah</td>
+
+<td>_</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DESA</td>
+
+<td>Klapagading Kulon</td>
+
+</tr>
+
+<tr>
+
+<td>X</td>
+
+<td>109,061137</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y</td>
+
+<td>-7,517807</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle01</styleUrl>
+			<Point>
+				<coordinates>109.0611366671235,-7.517806666644275,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00039">
+			<name>TL 020</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>TL 020</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>39</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>TL 020</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>112239</td>
+
+</tr>
+
+<tr>
+
+<td>Permasalah</td>
+
+<td>_</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DESA</td>
+
+<td>Klapagading Kulon</td>
+
+</tr>
+
+<tr>
+
+<td>X</td>
+
+<td>109,060907</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y</td>
+
+<td>-7,517793</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle01</styleUrl>
+			<Point>
+				<coordinates>109.0609066673089,-7.517793333295629,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00040">
+			<name>TL 019</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>TL 019</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>40</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>TL 019</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>112209</td>
+
+</tr>
+
+<tr>
+
+<td>Permasalah</td>
+
+<td>_</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DESA</td>
+
+<td>Klapagading Kulon</td>
+
+</tr>
+
+<tr>
+
+<td>X</td>
+
+<td>109,060663</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y</td>
+
+<td>-7,517765</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle01</styleUrl>
+			<Point>
+				<coordinates>109.0606633332463,-7.51776500015461,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00041">
+			<name>TL 018</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>TL 018</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>41</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>TL 018</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>112121</td>
+
+</tr>
+
+<tr>
+
+<td>Permasalah</td>
+
+<td>_</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DESA</td>
+
+<td>Klapagading Kulon</td>
+
+</tr>
+
+<tr>
+
+<td>X</td>
+
+<td>109,059995</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y</td>
+
+<td>-7,517683</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle01</styleUrl>
+			<Point>
+				<coordinates>109.0599950002691,-7.517683332719571,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00042">
+			<name>TL001</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>TL001</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>42</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>TL001</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>140713</td>
+
+</tr>
+
+<tr>
+
+<td>Permasalah</td>
+
+<td>_</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DESA</td>
+
+<td>Klapagading</td>
+
+</tr>
+
+<tr>
+
+<td>X</td>
+
+<td>109,071707</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y</td>
+
+<td>-7,517672</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle01</styleUrl>
+			<Point>
+				<coordinates>109.071706856886,-7.517672478801785,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00043">
+			<name>TL 017</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>TL 017</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>43</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>TL 017</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>111958</td>
+
+</tr>
+
+<tr>
+
+<td>Permasalah</td>
+
+<td>_</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DESA</td>
+
+<td>Klapagading Kulon</td>
+
+</tr>
+
+<tr>
+
+<td>X</td>
+
+<td>109,059622</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y</td>
+
+<td>-7,517657</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle01</styleUrl>
+			<Point>
+				<coordinates>109.0596216674061,-7.517656666921597,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00044">
+			<name>TL002</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>TL002</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>44</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>TL002</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>144547</td>
+
+</tr>
+
+<tr>
+
+<td>Permasalah</td>
+
+<td>_</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DESA</td>
+
+<td>Klapagading</td>
+
+</tr>
+
+<tr>
+
+<td>X</td>
+
+<td>109,074838</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y</td>
+
+<td>-7,517646</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle01</styleUrl>
+			<Point>
+				<coordinates>109.0748380030714,-7.51764588045296,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00045">
+			<name>TL 016</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>TL 016</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>45</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>TL 016</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>111843</td>
+
+</tr>
+
+<tr>
+
+<td>Permasalah</td>
+
+<td>_</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DESA</td>
+
+<td>Klapagading Kulon</td>
+
+</tr>
+
+<tr>
+
+<td>X</td>
+
+<td>109,059095</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y</td>
+
+<td>-7,517598</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle01</styleUrl>
+			<Point>
+				<coordinates>109.0590950001342,-7.517598333296405,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00046">
+			<name>TL 015</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>TL 015</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>46</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>TL 015</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>111726</td>
+
+</tr>
+
+<tr>
+
+<td>Permasalah</td>
+
+<td>_</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DESA</td>
+
+<td>Klapagading Kulon</td>
+
+</tr>
+
+<tr>
+
+<td>X</td>
+
+<td>109,058698</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y</td>
+
+<td>-7,517537</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle01</styleUrl>
+			<Point>
+				<coordinates>109.0586983325621,-7.517536666783711,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00047">
+			<name>TL 014</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>TL 014</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>47</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>TL 014</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>111554</td>
+
+</tr>
+
+<tr>
+
+<td>Permasalah</td>
+
+<td>_</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DESA</td>
+
+<td>Klapagading Kulon</td>
+
+</tr>
+
+<tr>
+
+<td>X</td>
+
+<td>109,058222</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y</td>
+
+<td>-7,517445</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle01</styleUrl>
+			<Point>
+				<coordinates>109.0582216666966,-7.517444999786846,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00048">
+			<name>TL 013</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>TL 013</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>48</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>TL 013</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>111449</td>
+
+</tr>
+
+<tr>
+
+<td>Permasalah</td>
+
+<td>_</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DESA</td>
+
+<td>Klapagading Kulon</td>
+
+</tr>
+
+<tr>
+
+<td>X</td>
+
+<td>109,057983</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y</td>
+
+<td>-7,51743</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle01</styleUrl>
+			<Point>
+				<coordinates>109.0579833328646,-7.517429999994476,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00049">
+			<name>TL 028</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>TL 028</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>49</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>TL 028</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>120243</td>
+
+</tr>
+
+<tr>
+
+<td>Permasalah</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DESA</td>
+
+<td>Wangon</td>
+
+</tr>
+
+<tr>
+
+<td>X</td>
+
+<td>109,05601</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y</td>
+
+<td>-7,517343</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle01</styleUrl>
+			<Point>
+				<coordinates>109.0560099999616,-7.517343333228212,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00050">
+			<name>TL 024</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>TL 024</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>50</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>TL 024</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>115151</td>
+
+</tr>
+
+<tr>
+
+<td>Permasalah</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DESA</td>
+
+<td>Wangon</td>
+
+</tr>
+
+<tr>
+
+<td>X</td>
+
+<td>109,054523</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y</td>
+
+<td>-7,517315</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle01</styleUrl>
+			<Point>
+				<coordinates>109.0545233333852,-7.517315000087138,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00051">
+			<name>TL 021</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>TL 021</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>51</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>TL 021</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>104645</td>
+
+</tr>
+
+<tr>
+
+<td>Permasalah</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DESA</td>
+
+<td>Wangon</td>
+
+</tr>
+
+<tr>
+
+<td>X</td>
+
+<td>109,052532</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y</td>
+
+<td>-7,51726</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle01</styleUrl>
+			<Point>
+				<coordinates>109.052531666903,-7.517260000248768,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00052">
+			<name>TL 014</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>TL 014</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>52</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>TL 014</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>100939</td>
+
+</tr>
+
+<tr>
+
+<td>Permasalah</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DESA</td>
+
+<td>Wangon</td>
+
+</tr>
+
+<tr>
+
+<td>X</td>
+
+<td>109,056765</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y</td>
+
+<td>-7,517215</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle01</styleUrl>
+			<Point>
+				<coordinates>109.056764999705,-7.517214999972225,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00053">
+			<name>TL 013</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>TL 013</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>53</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>TL 013</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Rumah Kabel</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>94401</td>
+
+</tr>
+
+<tr>
+
+<td>Permasalah</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DESA</td>
+
+<td>Wangon</td>
+
+</tr>
+
+<tr>
+
+<td>X</td>
+
+<td>109,056358</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y</td>
+
+<td>-7,51696</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle053</styleUrl>
+			<Point>
+				<coordinates>109.0563583325711,-7.516959999904032,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00054">
+			<name>TL 012</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>TL 012</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>54</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>TL 012</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Rumah Kabel</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>94319</td>
+
+</tr>
+
+<tr>
+
+<td>Permasalah</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DESA</td>
+
+<td>Wangon</td>
+
+</tr>
+
+<tr>
+
+<td>X</td>
+
+<td>109,056377</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y</td>
+
+<td>-7,516923</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle053</styleUrl>
+			<Point>
+				<coordinates>109.0563766670496,-7.516923332745591,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00055">
+			<name>TL 011</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>TL 011</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>55</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>TL 011</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>94218</td>
+
+</tr>
+
+<tr>
+
+<td>Permasalah</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DESA</td>
+
+<td>Wangon</td>
+
+</tr>
+
+<tr>
+
+<td>X</td>
+
+<td>109,056337</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y</td>
+
+<td>-7,516918</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle01</styleUrl>
+			<Point>
+				<coordinates>109.0563366670036,-7.51691833341431,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00056">
+			<name>TL 025</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>TL 025</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>56</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>TL 025</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>115343</td>
+
+</tr>
+
+<tr>
+
+<td>Permasalah</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DESA</td>
+
+<td>Wangon</td>
+
+</tr>
+
+<tr>
+
+<td>X</td>
+
+<td>109,054669</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y</td>
+
+<td>-7,516899</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle01</styleUrl>
+			<Point>
+				<coordinates>109.0546689282285,-7.516899328041518,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00057">
+			<name>TL 010</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>TL 010</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>57</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>TL 010</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>93931</td>
+
+</tr>
+
+<tr>
+
+<td>Permasalah</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DESA</td>
+
+<td>Wangon</td>
+
+</tr>
+
+<tr>
+
+<td>X</td>
+
+<td>109,056467</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y</td>
+
+<td>-7,516665</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle01</styleUrl>
+			<Point>
+				<coordinates>109.0564666667034,-7.516664999789839,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00058">
+			<name>TL 029</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>TL 029</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>58</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>TL 029</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>145700</td>
+
+</tr>
+
+<tr>
+
+<td>Permasalah</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DESA</td>
+
+<td>Wangon</td>
+
+</tr>
+
+<tr>
+
+<td>X</td>
+
+<td>109,053562</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y</td>
+
+<td>-7,516608</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle01</styleUrl>
+			<Point>
+				<coordinates>109.0535616667376,-7.516608332608428,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00059">
+			<name>TL004</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>TL004</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>59</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>TL004</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>BTS</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>161123</td>
+
+</tr>
+
+<tr>
+
+<td>Permasalah</td>
+
+<td>_</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DESA</td>
+
+<td>Klapagading</td>
+
+</tr>
+
+<tr>
+
+<td>X</td>
+
+<td>109,0671</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y</td>
+
+<td>-7,516375</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.0671002011135,-7.516375489137488,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00060">
+			<name>TL 030</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>TL 030</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>60</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>TL 030</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>145844</td>
+
+</tr>
+
+<tr>
+
+<td>Permasalah</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DESA</td>
+
+<td>Wangon</td>
+
+</tr>
+
+<tr>
+
+<td>X</td>
+
+<td>109,052502</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y</td>
+
+<td>-7,516355</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle01</styleUrl>
+			<Point>
+				<coordinates>109.0525016673182,-7.516354999883276,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00061">
+			<name>TL 009</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>TL 009</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>61</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>TL 009</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>93739</td>
+
+</tr>
+
+<tr>
+
+<td>Permasalah</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DESA</td>
+
+<td>Wangon</td>
+
+</tr>
+
+<tr>
+
+<td>X</td>
+
+<td>109,056585</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y</td>
+
+<td>-7,516243</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle01</styleUrl>
+			<Point>
+				<coordinates>109.0565850003975,-7.516243332863496,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00062">
+			<name>TL 008</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>TL 008</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>62</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>TL 008</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>93705</td>
+
+</tr>
+
+<tr>
+
+<td>Permasalah</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DESA</td>
+
+<td>Wangon</td>
+
+</tr>
+
+<tr>
+
+<td>X</td>
+
+<td>109,056612</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y</td>
+
+<td>-7,516168</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle01</styleUrl>
+			<Point>
+				<coordinates>109.0566116670948,-7.516168333002099,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00063">
+			<name>TL 037</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>TL 037</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>63</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>TL 037</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>150810</td>
+
+</tr>
+
+<tr>
+
+<td>Permasalah</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DESA</td>
+
+<td>Wangon</td>
+
+</tr>
+
+<tr>
+
+<td>X</td>
+
+<td>109,045817</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y</td>
+
+<td>-7,516095</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle01</styleUrl>
+			<Point>
+				<coordinates>109.045816666606,-7.516094999584539,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00064">
+			<name>TL 036</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>TL 036</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>64</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>TL 036</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>150704</td>
+
+</tr>
+
+<tr>
+
+<td>Permasalah</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DESA</td>
+
+<td>Wangon</td>
+
+</tr>
+
+<tr>
+
+<td>X</td>
+
+<td>109,046228</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y</td>
+
+<td>-7,516095</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle01</styleUrl>
+			<Point>
+				<coordinates>109.0462283330712,-7.516094999584539,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00065">
+			<name>TL 035</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>TL 035</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>65</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>TL 035</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>150510</td>
+
+</tr>
+
+<tr>
+
+<td>Permasalah</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DESA</td>
+
+<td>Wangon</td>
+
+</tr>
+
+<tr>
+
+<td>X</td>
+
+<td>109,047722</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y</td>
+
+<td>-7,516073</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle01</styleUrl>
+			<Point>
+				<coordinates>109.0477216672213,-7.516073333117788,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00066">
+			<name>TL 031</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>TL 031</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>66</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>TL 031</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>150002</td>
+
+</tr>
+
+<tr>
+
+<td>Permasalah</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DESA</td>
+
+<td>Wangon</td>
+
+</tr>
+
+<tr>
+
+<td>X</td>
+
+<td>109,050983</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y</td>
+
+<td>-7,515963</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle01</styleUrl>
+			<Point>
+				<coordinates>109.0509833329145,-7.51596333344105,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00067">
+			<name>TL 007</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>TL 007</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>67</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>TL 007</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>93619</td>
+
+</tr>
+
+<tr>
+
+<td>Permasalah</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DESA</td>
+
+<td>Wangon</td>
+
+</tr>
+
+<tr>
+
+<td>X</td>
+
+<td>109,056732</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y</td>
+
+<td>-7,5159</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle01</styleUrl>
+			<Point>
+				<coordinates>109.0567316672327,-7.515899999585258,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00068">
+			<name>TL 032</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>TL 032</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>68</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>TL 032</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>150056</td>
+
+</tr>
+
+<tr>
+
+<td>Permasalah</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DESA</td>
+
+<td>Wangon</td>
+
+</tr>
+
+<tr>
+
+<td>X</td>
+
+<td>109,050492</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y</td>
+
+<td>-7,515855</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle01</styleUrl>
+			<Point>
+				<coordinates>109.0504916672567,-7.515855000208035,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00069">
+			<name>TL 033</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>TL 033</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>69</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>TL 033</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>150142</td>
+
+</tr>
+
+<tr>
+
+<td>Permasalah</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DESA</td>
+
+<td>Wangon</td>
+
+</tr>
+
+<tr>
+
+<td>X</td>
+
+<td>109,050087</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y</td>
+
+<td>-7,515707</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle01</styleUrl>
+			<Point>
+				<coordinates>109.0500865622451,-7.515707248790477,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00070">
+			<name>TL 034</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>TL 034</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>70</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>TL 034</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>150326</td>
+
+</tr>
+
+<tr>
+
+<td>Permasalah</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DESA</td>
+
+<td>Wangon</td>
+
+</tr>
+
+<tr>
+
+<td>X</td>
+
+<td>109,04956</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y</td>
+
+<td>-7,515665</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle01</styleUrl>
+			<Point>
+				<coordinates>109.0495600001939,-7.515665000439354,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00071">
+			<name>TL039</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>TL039</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>71</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>TL039</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>BTS</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>134543</td>
+
+</tr>
+
+<tr>
+
+<td>Permasalah</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DESA</td>
+
+<td>Wangon</td>
+
+</tr>
+
+<tr>
+
+<td>X</td>
+
+<td>109,05863</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y</td>
+
+<td>-7,515445</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.0586300002744,-7.51544500018656,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00072">
+			<name>TL 006</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>TL 006</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>72</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>TL 006</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>93502</td>
+
+</tr>
+
+<tr>
+
+<td>Permasalah</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DESA</td>
+
+<td>Wangon</td>
+
+</tr>
+
+<tr>
+
+<td>X</td>
+
+<td>109,05696</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y</td>
+
+<td>-7,5154</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle01</styleUrl>
+			<Point>
+				<coordinates>109.0569599997043,-7.515399999910017,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00073">
+			<name>TL 005</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>TL 005</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>73</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>TL 005</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>93326</td>
+
+</tr>
+
+<tr>
+
+<td>Permasalah</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DESA</td>
+
+<td>Wangon</td>
+
+</tr>
+
+<tr>
+
+<td>X</td>
+
+<td>109,057028</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y</td>
+
+<td>-7,515118</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle01</styleUrl>
+			<Point>
+				<coordinates>109.0570283328913,-7.515118333144528,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00074">
+			<name>TL 004</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>TL 004</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>74</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>TL 004</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>93126</td>
+
+</tr>
+
+<tr>
+
+<td>Permasalah</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DESA</td>
+
+<td>Wangon</td>
+
+</tr>
+
+<tr>
+
+<td>X</td>
+
+<td>109,057265</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y</td>
+
+<td>-7,51454</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle01</styleUrl>
+			<Point>
+				<coordinates>109.0572650002796,-7.514539999821068,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00075">
+			<name>TL 008</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>TL 008</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>75</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>TL 008</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>102656</td>
+
+</tr>
+
+<tr>
+
+<td>Permasalah</td>
+
+<td>_</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DESA</td>
+
+<td>Klapagading Kulon</td>
+
+</tr>
+
+<tr>
+
+<td>X</td>
+
+<td>109,061154</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y</td>
+
+<td>-7,514505</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle01</styleUrl>
+			<Point>
+				<coordinates>109.0611544467204,-7.514504854315533,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00076">
+			<name>TL 009</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>TL 009</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>76</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>TL 009</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>102835</td>
+
+</tr>
+
+<tr>
+
+<td>Permasalah</td>
+
+<td>_</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DESA</td>
+
+<td>Klapagading Kulon</td>
+
+</tr>
+
+<tr>
+
+<td>X</td>
+
+<td>109,061505</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y</td>
+
+<td>-7,51446</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle01</styleUrl>
+			<Point>
+				<coordinates>109.0615048540658,-7.514460228156963,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00077">
+			<name>TL 003</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>TL 003</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>77</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>TL 003</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>92914</td>
+
+</tr>
+
+<tr>
+
+<td>Permasalah</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DESA</td>
+
+<td>Wangon</td>
+
+</tr>
+
+<tr>
+
+<td>X</td>
+
+<td>109,05749</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y</td>
+
+<td>-7,514002</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle01</styleUrl>
+			<Point>
+				<coordinates>109.0574899998637,-7.514001667442926,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00078">
+			<name>TL 038</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>TL 038</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>78</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>TL 038</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>BTS</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>145240</td>
+
+</tr>
+
+<tr>
+
+<td>Permasalah</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DESA</td>
+
+<td>Wangon</td>
+
+</tr>
+
+<tr>
+
+<td>X</td>
+
+<td>109,059092</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y</td>
+
+<td>-7,513967</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.0590916672467,-7.513966666728265,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00079">
+			<name>TL 002</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>TL 002</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>79</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>TL 002</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>92805</td>
+
+</tr>
+
+<tr>
+
+<td>Permasalah</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DESA</td>
+
+<td>Wangon</td>
+
+</tr>
+
+<tr>
+
+<td>X</td>
+
+<td>109,057575</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y</td>
+
+<td>-7,513772</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle01</styleUrl>
+			<Point>
+				<coordinates>109.0575750001861,-7.513771666728986,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00080">
+			<name>TL 010</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>TL 010</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>80</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>TL 010</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>103108</td>
+
+</tr>
+
+<tr>
+
+<td>Permasalah</td>
+
+<td>_</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DESA</td>
+
+<td>Klapagading Kulon</td>
+
+</tr>
+
+<tr>
+
+<td>X</td>
+
+<td>109,06296</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y</td>
+
+<td>-7,513718</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle01</styleUrl>
+			<Point>
+				<coordinates>109.0629600003038,-7.513718333334396,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00081">
+			<name>TL 011</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>TL 011</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>81</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>TL 011</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>103223</td>
+
+</tr>
+
+<tr>
+
+<td>Permasalah</td>
+
+<td>_</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DESA</td>
+
+<td>Klapagading Kulon</td>
+
+</tr>
+
+<tr>
+
+<td>X</td>
+
+<td>109,063392</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y</td>
+
+<td>-7,513683</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle01</styleUrl>
+			<Point>
+				<coordinates>109.063391666792,-7.513683332619679,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00082">
+			<name>TL003</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>TL003</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>82</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>TL003</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>150303</td>
+
+</tr>
+
+<tr>
+
+<td>Permasalah</td>
+
+<td>_</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DESA</td>
+
+<td>Klapagading</td>
+
+</tr>
+
+<tr>
+
+<td>X</td>
+
+<td>109,065044</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y</td>
+
+<td>-7,513668</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle01</styleUrl>
+			<Point>
+				<coordinates>109.065044227709,-7.513667626859443,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00083">
+			<name>TL 012</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>TL 012</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>83</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>TL 012</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>103527</td>
+
+</tr>
+
+<tr>
+
+<td>Permasalah</td>
+
+<td>_</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DESA</td>
+
+<td>Klapagading Kulon</td>
+
+</tr>
+
+<tr>
+
+<td>X</td>
+
+<td>109,064692</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y</td>
+
+<td>-7,513622</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle01</styleUrl>
+			<Point>
+				<coordinates>109.0646916673866,-7.513621667006305,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00084">
+			<name>TL 001</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>TL 001</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>84</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>TL 001</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>92612</td>
+
+</tr>
+
+<tr>
+
+<td>Permasalah</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DESA</td>
+
+<td>Wangon</td>
+
+</tr>
+
+<tr>
+
+<td>X</td>
+
+<td>109,05781</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y</td>
+
+<td>-7,513222</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle01</styleUrl>
+			<Point>
+				<coordinates>109.0578100002314,-7.513221667445976,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00085">
+			<name>TL 020</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>TL 020</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>85</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>TL 020</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>91923</td>
+
+</tr>
+
+<tr>
+
+<td>Permasalah</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DESA</td>
+
+<td>Banteran</td>
+
+</tr>
+
+<tr>
+
+<td>X</td>
+
+<td>109,057958</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y</td>
+
+<td>-7,512734</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle01</styleUrl>
+			<Point>
+				<coordinates>109.0579575043354,-7.512733544217667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00086">
+			<name>TL 008</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>TL 008</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>86</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>TL 008</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>154123</td>
+
+</tr>
+
+<tr>
+
+<td>Permasalah</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DESA</td>
+
+<td>Banteran</td>
+
+</tr>
+
+<tr>
+
+<td>X</td>
+
+<td>109,061395</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y</td>
+
+<td>-7,512513</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle01</styleUrl>
+			<Point>
+				<coordinates>109.0613950000792,-7.512513332624167,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00087">
+			<name>TL 009</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>TL 009</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>87</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>TL 009</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>BTS</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>154228</td>
+
+</tr>
+
+<tr>
+
+<td>Permasalah</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DESA</td>
+
+<td>Banteran</td>
+
+</tr>
+
+<tr>
+
+<td>X</td>
+
+<td>109,061385</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y</td>
+
+<td>-7,512493</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.0613849996181,-7.512493332601196,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00088">
+			<name>TL 019</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>TL 019</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>88</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>TL 019</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>91809</td>
+
+</tr>
+
+<tr>
+
+<td>Permasalah</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DESA</td>
+
+<td>Banteran</td>
+
+</tr>
+
+<tr>
+
+<td>X</td>
+
+<td>109,05812</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y</td>
+
+<td>-7,512433</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle01</styleUrl>
+			<Point>
+				<coordinates>109.0581200001379,-7.512433333431544,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00089">
+			<name>TL 010</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>TL 010</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>89</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>TL 010</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>154938</td>
+
+</tr>
+
+<tr>
+
+<td>Permasalah</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DESA</td>
+
+<td>Banteran</td>
+
+</tr>
+
+<tr>
+
+<td>X</td>
+
+<td>109,060944</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y</td>
+
+<td>-7,512265</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle01</styleUrl>
+			<Point>
+				<coordinates>109.0609438407857,-7.512265276221455,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00090">
+			<name>TL 018</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>TL 018</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>90</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>TL 018</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>91548</td>
+
+</tr>
+
+<tr>
+
+<td>Permasalah</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DESA</td>
+
+<td>Banteran</td>
+
+</tr>
+
+<tr>
+
+<td>X</td>
+
+<td>109,05822</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y</td>
+
+<td>-7,512117</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle01</styleUrl>
+			<Point>
+				<coordinates>109.0582200002528,-7.512116666850659,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00091">
+			<name>TL 017</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>TL 017</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>91</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>TL 017</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>91402</td>
+
+</tr>
+
+<tr>
+
+<td>Permasalah</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DESA</td>
+
+<td>Banteran</td>
+
+</tr>
+
+<tr>
+
+<td>X</td>
+
+<td>109,058355</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y</td>
+
+<td>-7,511724</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle01</styleUrl>
+			<Point>
+				<coordinates>109.0583554984076,-7.511724244078549,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00092">
+			<name>TL 016</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>TL 016</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>92</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>TL 016</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>91158</td>
+
+</tr>
+
+<tr>
+
+<td>Permasalah</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DESA</td>
+
+<td>Banteran</td>
+
+</tr>
+
+<tr>
+
+<td>X</td>
+
+<td>109,058555</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y</td>
+
+<td>-7,511303</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle01</styleUrl>
+			<Point>
+				<coordinates>109.058555000413,-7.511303332582713,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00093">
+			<name>TL 011</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>TL 011</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>93</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>TL 011</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>155419</td>
+
+</tr>
+
+<tr>
+
+<td>Permasalah</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DESA</td>
+
+<td>Banteran</td>
+
+</tr>
+
+<tr>
+
+<td>X</td>
+
+<td>109,061378</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y</td>
+
+<td>-7,510967</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle01</styleUrl>
+			<Point>
+				<coordinates>109.0613784930231,-7.510967032902215,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00094">
+			<name>TL 015</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>TL 015</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>94</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>TL 015</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>91012</td>
+
+</tr>
+
+<tr>
+
+<td>Permasalah</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DESA</td>
+
+<td>Banteran</td>
+
+</tr>
+
+<tr>
+
+<td>X</td>
+
+<td>109,058678</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y</td>
+
+<td>-7,510923</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle01</styleUrl>
+			<Point>
+				<coordinates>109.0586783334384,-7.510923333045354,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00095">
+			<name>TL 021</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>TL 021</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>95</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>TL 021</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>93428</td>
+
+</tr>
+
+<tr>
+
+<td>Permasalah</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DESA</td>
+
+<td>Banteran</td>
+
+</tr>
+
+<tr>
+
+<td>X</td>
+
+<td>109,058708</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y</td>
+
+<td>-7,510567</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle01</styleUrl>
+			<Point>
+				<coordinates>109.0587083330232,-7.510566667317789,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00096">
+			<name>TL 025</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>TL 025</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>96</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>TL 025</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>104840</td>
+
+</tr>
+
+<tr>
+
+<td>Permasalah</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DESA</td>
+
+<td>Banteran</td>
+
+</tr>
+
+<tr>
+
+<td>X</td>
+
+<td>109,058838</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y</td>
+
+<td>-7,510258</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle01</styleUrl>
+			<Point>
+				<coordinates>109.0588383327229,-7.51025833295563,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00097">
+			<name>TL 003</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>TL 003</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>97</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>TL 003</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>115228</td>
+
+</tr>
+
+<tr>
+
+<td>Permasalah</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DESA</td>
+
+<td>Banteran</td>
+
+</tr>
+
+<tr>
+
+<td>X</td>
+
+<td>109,065527</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y</td>
+
+<td>-7,510142</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle01</styleUrl>
+			<Point>
+				<coordinates>109.065526667222,-7.510141666604567,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00098">
+			<name>TL 002</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>TL 002</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>98</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>TL 002</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>115013</td>
+
+</tr>
+
+<tr>
+
+<td>Permasalah</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DESA</td>
+
+<td>Klapagading</td>
+
+</tr>
+
+<tr>
+
+<td>X</td>
+
+<td>109,065892</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y</td>
+
+<td>-7,510068</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle01</styleUrl>
+			<Point>
+				<coordinates>109.0658916669669,-7.510068333187007,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00099">
+			<name>TL 012</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>TL 012</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>99</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>TL 012</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>160639</td>
+
+</tr>
+
+<tr>
+
+<td>Permasalah</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DESA</td>
+
+<td>Banteran</td>
+
+</tr>
+
+<tr>
+
+<td>X</td>
+
+<td>109,063666</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y</td>
+
+<td>-7,50992</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle01</styleUrl>
+			<Point>
+				<coordinates>109.0636661857459,-7.509919811949714,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00100">
+			<name>TL 022</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>TL 022</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>100</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>TL 022</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>93559</td>
+
+</tr>
+
+<tr>
+
+<td>Permasalah</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DESA</td>
+
+<td>Banteran</td>
+
+</tr>
+
+<tr>
+
+<td>X</td>
+
+<td>109,058982</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y</td>
+
+<td>-7,509852</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle01</styleUrl>
+			<Point>
+				<coordinates>109.0589817170327,-7.509851655929139,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00101">
+			<name>TL 013</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>TL 013</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>101</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>TL 013</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>161545</td>
+
+</tr>
+
+<tr>
+
+<td>Permasalah</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DESA</td>
+
+<td>Banteran</td>
+
+</tr>
+
+<tr>
+
+<td>X</td>
+
+<td>109,061841</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y</td>
+
+<td>-7,509579</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle01</styleUrl>
+			<Point>
+				<coordinates>109.0618411789274,-7.509578531823763,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00102">
+			<name>TL 014</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>TL 014</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>102</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>TL 014</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>163219</td>
+
+</tr>
+
+<tr>
+
+<td>Permasalah</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DESA</td>
+
+<td>Banteran</td>
+
+</tr>
+
+<tr>
+
+<td>X</td>
+
+<td>109,060903</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y</td>
+
+<td>-7,509516</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle01</styleUrl>
+			<Point>
+				<coordinates>109.0609029755919,-7.509515977680167,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00103">
+			<name>TL 023</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>TL 023</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>103</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>TL 023</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>93717</td>
+
+</tr>
+
+<tr>
+
+<td>Permasalah</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DESA</td>
+
+<td>Banteran</td>
+
+</tr>
+
+<tr>
+
+<td>X</td>
+
+<td>109,059128</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y</td>
+
+<td>-7,509483</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle01</styleUrl>
+			<Point>
+				<coordinates>109.0591283326065,-7.509483333189223,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00104">
+			<name>TL001</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>TL001</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>104</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>TL001</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>3823</td>
+
+</tr>
+
+<tr>
+
+<td>Permasalah</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DESA</td>
+
+<td>Jambu</td>
+
+</tr>
+
+<tr>
+
+<td>X</td>
+
+<td>109,056536</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y</td>
+
+<td>-7,509368</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle01</styleUrl>
+			<Point>
+				<coordinates>109.0565359738562,-7.509368370154106,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00105">
+			<name>TL 026</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>TL 026</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>105</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>TL 026</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>110838</td>
+
+</tr>
+
+<tr>
+
+<td>Permasalah</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DESA</td>
+
+<td>Banteran</td>
+
+</tr>
+
+<tr>
+
+<td>X</td>
+
+<td>109,058013</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y</td>
+
+<td>-7,509257</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle01</styleUrl>
+			<Point>
+				<coordinates>109.0580133333487,-7.509256667161424,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00106">
+			<name>TL 024</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>TL 024</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>106</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>TL 024</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>BTS</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>103158</td>
+
+</tr>
+
+<tr>
+
+<td>Permasalah</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DESA</td>
+
+<td>Banteran</td>
+
+</tr>
+
+<tr>
+
+<td>X</td>
+
+<td>109,067443</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y</td>
+
+<td>-7,508292</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.0674433329435,-7.508291666727018,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00107">
+			<name>TL 004</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>TL 004</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>107</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>TL 004</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>132359</td>
+
+</tr>
+
+<tr>
+
+<td>Permasalah</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DESA</td>
+
+<td>Banteran</td>
+
+</tr>
+
+<tr>
+
+<td>X</td>
+
+<td>109,059811</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y</td>
+
+<td>-7,507611</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle01</styleUrl>
+			<Point>
+				<coordinates>109.0598105906863,-7.507611161425928,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00108">
+			<name>TL 001</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>TL 001</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>108</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>TL 001</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>BTS</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>105847</td>
+
+</tr>
+
+<tr>
+
+<td>Permasalah</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DESA</td>
+
+<td>Banteran</td>
+
+</tr>
+
+<tr>
+
+<td>X</td>
+
+<td>109,062687</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y</td>
+
+<td>-7,505497</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.0626866666564,-7.505496667337297,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00109">
+			<name>TL 005</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>TL 005</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>109</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>TL 005</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>134624</td>
+
+</tr>
+
+<tr>
+
+<td>Permasalah</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DESA</td>
+
+<td>Banteran</td>
+
+</tr>
+
+<tr>
+
+<td>X</td>
+
+<td>109,061845</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y</td>
+
+<td>-7,503885</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle01</styleUrl>
+			<Point>
+				<coordinates>109.0618450001467,-7.503885000392415,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00110">
+			<name>TL 006</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>TL 006</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>110</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>TL 006</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>135013</td>
+
+</tr>
+
+<tr>
+
+<td>Permasalah</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DESA</td>
+
+<td>Banteran</td>
+
+</tr>
+
+<tr>
+
+<td>X</td>
+
+<td>109,062108</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y</td>
+
+<td>-7,503363</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle01</styleUrl>
+			<Point>
+				<coordinates>109.062108333333,-7.503363333351103,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00111">
+			<name>TL 007</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>TL 007</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>111</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td>TL 007</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>135341</td>
+
+</tr>
+
+<tr>
+
+<td>Permasalah</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DESA</td>
+
+<td>Banteran</td>
+
+</tr>
+
+<tr>
+
+<td>X</td>
+
+<td>109,06222</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y</td>
+
+<td>-7,503147</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle01</styleUrl>
+			<Point>
+				<coordinates>109.0622200003528,-7.503146666885129,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00112">
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td> </td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>112</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>BTS</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Permasalah</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DESA</td>
+
+<td>Randegan</td>
+
+</tr>
+
+<tr>
+
+<td>X</td>
+
+<td>109,049272</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y</td>
+
+<td>-7,535332</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.0492719197497,-7.535332288939126,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00113">
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td> </td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>113</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>BTS</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Permasalah</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DESA</td>
+
+<td>Randegan</td>
+
+</tr>
+
+<tr>
+
+<td>X</td>
+
+<td>109,048764</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y</td>
+
+<td>-7,535606</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.0487637335094,-7.535606300748038,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00114">
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td> </td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>114</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Permasalah</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DESA</td>
+
+<td>Randegan</td>
+
+</tr>
+
+<tr>
+
+<td>X</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y</td>
+
+<td>0</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle01</styleUrl>
+			<Point>
+				<coordinates>109.0466976900001,-7.536601879999978,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00115">
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td> </td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>115</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Jenis_sara</td>
+
+<td>Kotak Pembagi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Poto</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Permasalah</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DESA</td>
+
+<td>Randegan</td>
+
+</tr>
+
+<tr>
+
+<td>X</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y</td>
+
+<td>0</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle01</styleUrl>
+			<Point>
+				<coordinates>109.0485756100001,-7.537070899999947,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

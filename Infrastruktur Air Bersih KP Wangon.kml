@@ -1,0 +1,759 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Infrastruktur Air Bersih KP Wangon.kml</name>
+	<Style id="IconStyle00">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<PolyStyle>
+			<color>ff000000</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="IconStyle000">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<PolyStyle>
+			<color>ff000000</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="IconStyle001">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#IconStyle00</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#IconStyle000</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder id="FeatureLayer0">
+		<name>Infrastruktur Air Bersih KP Wangon</name>
+		<open>1</open>
+		<Snippet maxLines="0"></Snippet>
+		<Placemark id="ID_00000">
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td> </td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FID_1</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Kode</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Jenis_Jari</td>
+
+<td>Jamban Sehat Sekolah</td>
+
+</tr>
+
+<tr>
+
+<td>Pemrakasa</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Pengelola</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Jumlah_KK_</td>
+
+<td>1 Unit Sekolah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Foto</td>
+
+<td>202101</td>
+
+</tr>
+
+<tr>
+
+<td>Permasalah</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Desa</td>
+
+<td>Banteran</td>
+
+</tr>
+
+<tr>
+
+<td>X</td>
+
+<td>109,063389</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y</td>
+
+<td>-7,507361</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle001</styleUrl>
+			<Point>
+				<coordinates>109.0633888888889,-7.507361111111106,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00001">
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td> </td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FID_1</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Kode</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Jenis_Jari</td>
+
+<td>Reservoir</td>
+
+</tr>
+
+<tr>
+
+<td>Pemrakasa</td>
+
+<td>PDAM Tirta-Satria</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Pengelola</td>
+
+<td>PDAM Tirta-Satria</td>
+
+</tr>
+
+<tr>
+
+<td>Jumlah_KK_</td>
+
+<td>1 Desa</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Foto</td>
+
+<td>202102</td>
+
+</tr>
+
+<tr>
+
+<td>Permasalah</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Desa</td>
+
+<td>Klapagading</td>
+
+</tr>
+
+<tr>
+
+<td>X</td>
+
+<td>109,070056</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y</td>
+
+<td>-7,510389</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle001</styleUrl>
+			<Point>
+				<coordinates>109.0700555555556,-7.510388888888888,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00002">
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td> </td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>2</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FID_1</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Kode</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Jenis_Jari</td>
+
+<td>Bangunan Pelengkap Menara Air</td>
+
+</tr>
+
+<tr>
+
+<td>Pemrakasa</td>
+
+<td>PDAM Tirta-Satria</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Pengelola</td>
+
+<td>PDAM Tirta-Satria</td>
+
+</tr>
+
+<tr>
+
+<td>Jumlah_KK_</td>
+
+<td>500 KK</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Foto</td>
+
+<td>202103</td>
+
+</tr>
+
+<tr>
+
+<td>Permasalah</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Desa</td>
+
+<td>Klapagading</td>
+
+</tr>
+
+<tr>
+
+<td>X</td>
+
+<td>109,069444</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y</td>
+
+<td>-7,511806</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle001</styleUrl>
+			<Point>
+				<coordinates>109.0694444444444,-7.511805555555561,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00003">
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td> </td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>3</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FID_1</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Kode</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Jenis_Jari</td>
+
+<td>Sarana CTSP Sekolah</td>
+
+</tr>
+
+<tr>
+
+<td>Pemrakasa</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Pengelola</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Jumlah_KK_</td>
+
+<td>1 Unit Sekolah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Foto</td>
+
+<td>202104</td>
+
+</tr>
+
+<tr>
+
+<td>Permasalah</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Desa</td>
+
+<td>Klapagading</td>
+
+</tr>
+
+<tr>
+
+<td>X</td>
+
+<td>109,065611</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y</td>
+
+<td>-7,517861</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle001</styleUrl>
+			<Point>
+				<coordinates>109.0656111111111,-7.517861111111114,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00004">
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td> </td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>4</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FID_1</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Kode</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Jenis_Jari</td>
+
+<td>PVC</td>
+
+</tr>
+
+<tr>
+
+<td>Pemrakasa</td>
+
+<td>PDAM Tirta-Satria</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Pengelola</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Jumlah_KK_</td>
+
+<td>500 KK</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kode_Foto</td>
+
+<td>202105</td>
+
+</tr>
+
+<tr>
+
+<td>Permasalah</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Desa</td>
+
+<td>Klapagading</td>
+
+</tr>
+
+<tr>
+
+<td>X</td>
+
+<td>109,074533</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y</td>
+
+<td>-7,517767</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle001</styleUrl>
+			<Point>
+				<coordinates>109.0745333333333,-7.517766666666671,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
